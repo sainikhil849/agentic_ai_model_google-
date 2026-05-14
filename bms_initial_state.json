@@ -1,0 +1,3829 @@
+{
+  "appConfig": {
+    "ads": true,
+    "reserve": true,
+    "fnb": true,
+    "loginStrip": true,
+    "hamburgerMenu": true,
+    "comingSoon": true,
+    "searchCoach": true,
+    "locationCheck": true,
+    "posterCardClick": false,
+    "paymentLogin": true,
+    "expressPay": true,
+    "favourite": true,
+    "showMyProfileLink": true,
+    "bookASmileFlag": true,
+    "offers": true,
+    "winpin": true,
+    "appCode": "WEB",
+    "platformCode": "WEB",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "isCWCPage": false,
+    "deviceType": "desktop",
+    "isVerifiedBot": false,
+    "countryIP": "IN",
+    "featureBranch": "",
+    "bmsVPN": "",
+    "isServerIframeRequest": false,
+    "trueClientIp": "2405:201:c400:a8e4:6514:f34b:5302:49cb"
+  },
+  "config": {},
+  "cookies": {
+    "bmsId": "1.921567290.1777386335453",
+    "rgn": {
+      "regionCode": "MUMBAI",
+      "regionNameSlug": "mumbai",
+      "regionCodeSlug": "mumbai",
+      "regionName": "Mumbai",
+      "subCode": "",
+      "subName": "",
+      "Lat": "19.0760",
+      "Long": "72.8777",
+      "countryCode": "IN"
+    },
+    "mqttuid": "1.921567290.1777386335453",
+    "recents": []
+  },
+  "seo": {
+    "queries": {
+      "/events/biswa-kalyan-rath-live/ET00415541": {
+        "status": "fulfilled",
+        "isUninitialized": false,
+        "isLoading": false,
+        "isFetching": false,
+        "isSuccess": true,
+        "isError": false,
+        "endpointName": "fetchSEOData",
+        "originalArgs": {
+          "path": "/events/biswa-kalyan-rath-live/ET00415541",
+          "ctx": {
+            "request": {
+              "method": "GET",
+              "url": "/events/biswa-kalyan-rath-live/ET00415541",
+              "header": {
+                "host": "in.bookmyshow.com",
+                "connection": "close",
+                "x-forwarded-for": "2405:201:c400:a8e4:6514:f34b:5302:49cb, 172.70.219.93, 10.28.129.180",
+                "x-forwarded-proto": "https, https",
+                "x-forwarded-port": "443",
+                "x-amzn-trace-id": "Root=1-69f0c35f-4a76a16b54463e37266c8544",
+                "sec-fetch-mode": "navigate",
+                "sec-fetch-user": "?1",
+                "priority": "u=0, i",
+                "accept-encoding": "gzip, br",
+                "cf-ray": "9f36bcb43cf3483b-BOM",
+                "sec-fetch-dest": "document",
+                "sec-ch-ua": "\"HeadlessChrome\";v=\"125\", \"Chromium\";v=\"125\", \"Not.A/Brand\";v=\"24\"",
+                "sec-ch-ua-mobile": "?0",
+                "sec-ch-ua-platform": "\"Windows\"",
+                "upgrade-insecure-requests": "1",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+                "sec-fetch-site": "none",
+                "cf-device-type": "desktop",
+                "cdn-loop": "cloudflare; loops=1",
+                "cf-connecting-ip": "2405:201:c400:a8e4:6514:f34b:5302:49cb",
+                "true-client-ip": "2405:201:c400:a8e4:6514:f34b:5302:49cb",
+                "cf-ipcountry": "IN",
+                "cf-visitor": "{\"scheme\":\"https\"}",
+                "cf-bot-score": "98",
+                "cf-ja3-hash": "02f8d1f9e88b4fec9e1cfa655bd5f5ad",
+                "cf-ja4": "t13d1516h2_8daaf6152771_02713d6af862",
+                "cf-threat-score": "0",
+                "cf-verified-bot": "false",
+                "cf-ipcity": "Kukatpally",
+                "cf-ipcontinent": "AS",
+                "cf-iplatitude": "17.48486",
+                "cf-iplongitude": "78.41376",
+                "cf-postal-code": "500072",
+                "cf-region": "Telangana",
+                "cf-region-code": "TG",
+                "cf-timezone": "Asia/Kolkata",
+                "x-app-source": "m6-le-app"
+              }
+            },
+            "response": {
+              "status": 404,
+              "message": "Not Found",
+              "header": {
+                "true-client-ip": "2405:201:c400:a8e4:6514:f34b:5302:49cb",
+                "cache-control": "no-cache, max-age=0, must-revalidate, no-store"
+              }
+            },
+            "app": {
+              "subdomainOffset": 2,
+              "proxy": false,
+              "env": "production"
+            },
+            "originalUrl": "/events/biswa-kalyan-rath-live/ET00415541",
+            "req": "<original node req>",
+            "res": "<original node res>",
+            "socket": "<original node socket>"
+          }
+        },
+        "data": {
+          "header": {
+            "canonical": "/events/biswa-kalyan-rath-live/ET00415541",
+            "meta_description": "Book online tickets for Inventions by Biswa Kalyan Rath  on BookMyShow which is a Comedy Shows event happening at venue near you.",
+            "meta_keywords": "Inventions by Biswa Kalyan Rath tickets",
+            "title": "Inventions by Biswa Kalyan Rath  Comedy Shows Event Tickets - BookMyShow",
+            "type": "Event"
+          },
+          "accordionTitle": "Know more about BookMyShow",
+          "footer": {
+            "links": [
+              {
+                "uuid": "9f9f5aec-bcd4-3935-a8ec-e853ccd7e5ff",
+                "heading": "Events in Top Cities",
+                "items": [
+                  {
+                    "uuid": "661c4a76-7cde-3b95-b375-a8582915b9cf",
+                    "label": "Events in Mumbai",
+                    "link": "/explore/events-mumbai"
+                  },
+                  {
+                    "uuid": "e761f5cd-10a8-350e-a2a9-853f0fd3fc93",
+                    "label": "Events in Delhi-NCR",
+                    "link": "/explore/events-national-capital-region-ncr"
+                  },
+                  {
+                    "uuid": "7a1df8b0-133b-3563-9065-bbf0b9de12d8",
+                    "label": "Events in Chennai",
+                    "link": "/explore/events-chennai"
+                  },
+                  {
+                    "uuid": "2f340548-ec7d-317c-9a6a-26383b029aaa",
+                    "label": "Events in Bengaluru",
+                    "link": "/explore/events-bengaluru"
+                  },
+                  {
+                    "uuid": "62f65638-9bb5-3fac-99e7-152d31082b02",
+                    "label": "Events in Hyderabad",
+                    "link": "/explore/events-hyderabad"
+                  },
+                  {
+                    "uuid": "31e255bd-25ab-3755-a562-f4abec95eec3",
+                    "label": "Events in Pune",
+                    "link": "/explore/events-pune"
+                  },
+                  {
+                    "uuid": "435e11ae-40e3-33bd-aca2-519c53140585",
+                    "label": "Events in Ahmedabad",
+                    "link": "/explore/events-ahmedabad"
+                  },
+                  {
+                    "uuid": "3b1e3117-e3cf-3d43-9adb-bf9bea2b5416",
+                    "label": "Events in Kolkata",
+                    "link": "/explore/events-kolkata"
+                  },
+                  {
+                    "uuid": "712312e0-9651-331f-a731-c1c42146f740",
+                    "label": "Events in Kochi",
+                    "link": "/explore/events-kochi"
+                  }
+                ]
+              },
+              {
+                "uuid": "2572580d-92ee-3d88-9fbb-0ea40e837404",
+                "heading": "Book Your Calender",
+                "items": [
+                  {
+                    "uuid": "0e783c1a-4d27-3af0-a0f0-996147284ed3",
+                    "label": "Events happening Today",
+                    "link": "/explore/events-today"
+                  },
+                  {
+                    "uuid": "0a672084-5b38-3a0a-b68c-47eef10b7971",
+                    "label": "Events happening Tomorrow",
+                    "link": "/explore/events-tomorrow"
+                  },
+                  {
+                    "uuid": "a04a8267-05b1-3092-af38-d8d0c27e5554",
+                    "label": "Events happening This Weekend",
+                    "link": "/explore/events-this-weekend"
+                  }
+                ]
+              },
+              {
+                "uuid": "e5ed1c33-bdb3-3766-9347-854a8d011bfb",
+                "heading": "Events",
+                "items": [
+                  {
+                    "uuid": "2981b253-ee92-3412-a234-8f10d5316948",
+                    "label": "Workshops",
+                    "link": "/explore/workshops"
+                  },
+                  {
+                    "uuid": "6eb0a95e-de90-3eb1-ba4a-5112ee289a7f",
+                    "label": "Comedy Shows",
+                    "link": "/explore/comedy-shows"
+                  },
+                  {
+                    "uuid": "4e2c75dc-ad0f-373e-a6eb-7bcf080cb781",
+                    "label": "Kids",
+                    "link": "/explore/kids"
+                  },
+                  {
+                    "uuid": "ce9e6008-e610-322f-ae4e-a084a2c4d185",
+                    "label": "Music Shows",
+                    "link": "/explore/music-shows"
+                  },
+                  {
+                    "uuid": "117d1a63-b132-3031-b037-37d9706a344d",
+                    "label": "Screening",
+                    "link": "/explore/screening"
+                  },
+                  {
+                    "uuid": "0dd6e15f-16e9-3c72-8721-0c2a05a6d7e9",
+                    "label": "Conferences",
+                    "link": "/explore/conferences"
+                  },
+                  {
+                    "uuid": "34f5b1d6-e7de-3706-9566-ddd7ece22d09",
+                    "label": "Spirituality",
+                    "link": "/explore/spirituality"
+                  },
+                  {
+                    "uuid": "3a4bc48a-d6b5-35cd-996f-c34e19b46db7",
+                    "label": "Beer Festival",
+                    "link": "/explore/beer-festival"
+                  },
+                  {
+                    "uuid": "84e71210-10e2-3c8e-a99e-fb2a77461683",
+                    "label": "Meetups",
+                    "link": "/explore/meetups"
+                  },
+                  {
+                    "uuid": "27983721-7c43-3b76-bc11-8cbff0e93f49",
+                    "label": "Celebrity Wishes",
+                    "link": "/explore/celebrity-wishes"
+                  },
+                  {
+                    "uuid": "74b64cf0-0011-3f21-b689-33a099d10265",
+                    "label": "New Year Parties",
+                    "link": "/explore/new-year-parties"
+                  },
+                  {
+                    "uuid": "781d71cc-1321-3277-8282-b3f89e4245ce",
+                    "label": "Talks",
+                    "link": "/explore/talks"
+                  },
+                  {
+                    "uuid": "1f3227f3-0d71-3d13-8f48-cb0da1562557",
+                    "label": "Vaccination",
+                    "link": "/explore/vaccination"
+                  },
+                  {
+                    "uuid": "984f9bbb-337f-3bfb-b40c-1f6be3f7677b",
+                    "label": "Award shows",
+                    "link": "/explore/award-shows"
+                  },
+                  {
+                    "uuid": "e58e7791-43fc-3ac8-ad49-c905d05b7693",
+                    "label": "Exhibitions",
+                    "link": "/explore/exhibitions"
+                  },
+                  {
+                    "uuid": "8c3bd0f7-7332-39a0-93a0-179911be6398",
+                    "label": "Online Streaming Events",
+                    "link": "/explore/online-streaming-events-1"
+                  }
+                ]
+              },
+              {
+                "uuid": "3d43f2d3-1dce-31ba-b870-d53bb0c0ff59",
+                "heading": "More Events",
+                "items": [
+                  {
+                    "uuid": "7dc793c4-85bd-39fd-97d6-47ed7bec7447",
+                    "label": "Heritage",
+                    "link": "/explore/heritage"
+                  },
+                  {
+                    "uuid": "b16c60f8-3028-33f3-b8f5-01bd7397abd3",
+                    "label": "Hobby Classes",
+                    "link": "/explore/hobby-classes"
+                  },
+                  {
+                    "uuid": "69946b7b-1a2e-3c14-bfdb-8a3571dd35fc",
+                    "label": "Music",
+                    "link": "/explore/music-performing-arts"
+                  },
+                  {
+                    "uuid": "1352be8e-7261-39c1-868c-7c77a43922f7",
+                    "label": "Science",
+                    "link": "/explore/science"
+                  },
+                  {
+                    "uuid": "4f3bf2cc-d768-32f5-8170-38aa3ff88bb6",
+                    "label": "Acting",
+                    "link": "/explore/acting"
+                  },
+                  {
+                    "uuid": "6ef57c72-87ef-3284-9f94-bd3e0c45d2e6",
+                    "label": "Books and Literature",
+                    "link": "/explore/books-and-literature"
+                  },
+                  {
+                    "uuid": "beff6550-20e1-3291-b5c3-2bb23189d628",
+                    "label": "Circus",
+                    "link": "/explore/circus"
+                  },
+                  {
+                    "uuid": "0dfb33d6-63d6-3241-8bcc-37d50c1412cc",
+                    "label": "Competition",
+                    "link": "/explore/competition-kids"
+                  },
+                  {
+                    "uuid": "5e867b65-aa29-3452-9d7b-e52aea97ac00",
+                    "label": "Environment",
+                    "link": "/explore/environment-workshops"
+                  },
+                  {
+                    "uuid": "c132b4c7-6386-308c-baef-b1b028853018",
+                    "label": "Fashion and Beauty",
+                    "link": "/explore/fashion-and-beauty"
+                  },
+                  {
+                    "uuid": "a4863b5c-da80-3a3b-8ac5-73fa7bec96d9",
+                    "label": "Films",
+                    "link": "/explore/filmy-talks"
+                  },
+                  {
+                    "uuid": "9aa3024b-8343-34b2-8a2e-703a6d56c018",
+                    "label": "Health Care",
+                    "link": "/explore/healthcare-conferences"
+                  },
+                  {
+                    "uuid": "4575ec60-c79e-34cf-bd63-11becf2f1abd",
+                    "label": "Health, Fitness and Wellbeing",
+                    "link": "/explore/health-fitness-wellbeing-conferences"
+                  },
+                  {
+                    "uuid": "c18132ea-e204-3dd6-bf85-0bee93a23d35",
+                    "label": "Music Screening",
+                    "link": "/explore/music-screening"
+                  },
+                  {
+                    "uuid": "f8ea4e1f-638e-3529-bb0f-d9c64b7e6c6c",
+                    "label": "NYE Live Performances",
+                    "link": "/explore/nye-live-performances"
+                  },
+                  {
+                    "uuid": "bf485ad8-35fd-34b7-9689-921e1d9a7e2a",
+                    "label": "NYE GetAway",
+                    "link": "/explore/nye-getaway"
+                  },
+                  {
+                    "uuid": "1cd79f05-4080-34aa-b062-fc5e6b8a6128",
+                    "label": "Performance",
+                    "link": "/explore/performance"
+                  },
+                  {
+                    "uuid": "876eb8e5-16ce-34ff-9dff-b03be1b5a7f5",
+                    "label": "Sports Screening",
+                    "link": "/explore/sports-screening"
+                  },
+                  {
+                    "uuid": "c279b48c-b189-3ffb-825d-c740c5efd835",
+                    "label": "Storytelling",
+                    "link": "/explore/storytelling-workshops"
+                  },
+                  {
+                    "uuid": "e6bf614c-a43e-3545-9244-e5fae1df8e88",
+                    "label": "Yoga",
+                    "link": "/explore/yoga-wellness"
+                  },
+                  {
+                    "uuid": "37aa6ac1-3163-38b9-bede-6a82d44b2807",
+                    "label": "Antiques",
+                    "link": "/explore/antiques"
+                  },
+                  {
+                    "uuid": "735d3e56-beda-3154-b198-efbf89d65a36",
+                    "label": "Business",
+                    "link": "/explore/business-workshops"
+                  },
+                  {
+                    "uuid": "ba05ca7e-59db-37b7-a1af-e8a6c00bb74b",
+                    "label": "Dance",
+                    "link": "/explore/dance-workshops"
+                  },
+                  {
+                    "uuid": "49a2917f-fc0e-3c75-8f98-9016eaebbd7e",
+                    "label": "Dating",
+                    "link": "/explore/dating"
+                  },
+                  {
+                    "uuid": "1b15b475-079c-336a-9ab5-878135d08d99",
+                    "label": "Fashion and Beauty Talks",
+                    "link": "/explore/fashion-beauty-talks"
+                  },
+                  {
+                    "uuid": "98158326-8e90-363d-a92e-2e5ce2c48089",
+                    "label": "History",
+                    "link": "/explore/history-talks"
+                  },
+                  {
+                    "uuid": "613d1587-edd2-3575-b16d-0a5cde83f63c",
+                    "label": "LGBTQ",
+                    "link": "/explore/lgbtq"
+                  },
+                  {
+                    "uuid": "c60ecb7f-7f03-3b3e-92cc-2b282ba2f9c6",
+                    "label": "Music Festivals",
+                    "link": "/explore/music-festivals"
+                  },
+                  {
+                    "uuid": "ee40104d-3a28-3e37-b676-4aefc399c2cd",
+                    "label": "NYE Star Hotels",
+                    "link": "/explore/nye-star-hotels"
+                  },
+                  {
+                    "uuid": "70666e14-68ba-3ddf-ae28-5a997cf1cfc2",
+                    "label": "Poetry",
+                    "link": "/explore/poetry-workshops"
+                  },
+                  {
+                    "uuid": "ca45fa9c-a2c7-3e62-97ae-e7100707941f",
+                    "label": "Acting",
+                    "link": "/explore/acting-talks"
+                  },
+                  {
+                    "uuid": "6c550d44-172d-3324-adf8-8edbb115be09",
+                    "label": "Food and Drinks",
+                    "link": "/explore/food-and-drinks-workshops"
+                  },
+                  {
+                    "uuid": "e6efd208-b90a-3779-a9ee-60644bcbdb94",
+                    "label": "Magic",
+                    "link": "/explore/magic"
+                  },
+                  {
+                    "uuid": "bd1811fa-8fa7-3013-ae25-5f39ad58de9f",
+                    "label": "Music",
+                    "link": "/explore/music-meetups"
+                  },
+                  {
+                    "uuid": "0d2802b9-534e-35df-90c5-e25ca5170791",
+                    "label": "Dance",
+                    "link": "/explore/performances-dance"
+                  },
+                  {
+                    "uuid": "3bb14e3c-d7c5-32d6-ba46-3527371ddf1a",
+                    "label": "Photography",
+                    "link": "/explore/photography-exhibitions"
+                  },
+                  {
+                    "uuid": "d12b01f5-6515-3930-9ffd-c77fa1d824c1",
+                    "label": "Sports",
+                    "link": "/explore/sports-workshops"
+                  },
+                  {
+                    "uuid": "65eaddd1-3d63-375b-b9f5-b569f0a14016",
+                    "label": "Technology",
+                    "link": "/explore/technology-exhibitions"
+                  },
+                  {
+                    "uuid": "7c9e5e4f-72db-3324-ac46-b6df199f1739",
+                    "label": "Books and Literature",
+                    "link": "/explore/books-literature-meetups"
+                  },
+                  {
+                    "uuid": "88033cf8-bf00-3caf-9c1d-f33aeed36c48",
+                    "label": "Business",
+                    "link": "/explore/business-meetups"
+                  },
+                  {
+                    "uuid": "1f589895-ae80-336a-8960-a03c9e54572a",
+                    "label": "Business",
+                    "link": "/explore/business-talks"
+                  },
+                  {
+                    "uuid": "50892c12-c7a3-3b65-901b-ecb8f134e8bf",
+                    "label": "Environment Talks",
+                    "link": "/explore/environment-talks"
+                  },
+                  {
+                    "uuid": "af695bc0-6ec6-3ff0-8dff-e6679764e878",
+                    "label": "Environment",
+                    "link": "/explore/environment-conferences"
+                  },
+                  {
+                    "uuid": "b203c3e3-3856-37e2-a1c1-21edb069bd73",
+                    "label": "Furniture",
+                    "link": "/explore/furniture"
+                  }
+                ]
+              },
+              {
+                "uuid": "b8a23b89-804b-3d6d-a48d-1e9f2142c86a",
+                "heading": "Venues",
+                "items": [
+                  {
+                    "uuid": "55369f45-2c3e-3761-882a-41dbddaad459",
+                    "label": "The Hype Cafe: Pune",
+                    "link": "https://in.bookmyshow.com/explore/c/venues/the-hype-cafe-pune/hpyu"
+                  },
+                  {
+                    "uuid": "50e76767-b957-32f7-b6df-6e2ff7001246",
+                    "label": "Tantra, The Park Hotel: Kolkata",
+                    "link": "https://in.bookmyshow.com/explore/c/venues/tantra-the-park-hotel-kolkata/taty"
+                  },
+                  {
+                    "uuid": "ec485b53-bb0a-3a62-b7f7-c3792c0be10c",
+                    "label": "Connaught Place : Delhi",
+                    "link": "https://in.bookmyshow.com/explore/c/venues/connaught-place-delhi/vaul"
+                  },
+                  {
+                    "uuid": "0c93036f-e09d-34b6-8849-a730fd7d6dcb",
+                    "label": "Olipo Cafe: Delhi",
+                    "link": "https://in.bookmyshow.com/explore/c/venues/olipo-cafe-delhi/opcd"
+                  },
+                  {
+                    "uuid": "50e18a63-3f4b-36eb-bae4-da0806184489",
+                    "label": "Royal Punjab Restaurant and Bar: Mumbai",
+                    "link": "https://in.bookmyshow.com/explore/c/venues/royal-punjab-restaurant-and-bar-mumbai/rypm"
+                  }
+                ]
+              },
+              {
+                "uuid": "dd419bfa-b7b3-3741-84af-fc17d0a09889",
+                "heading": "HELP",
+                "items": [
+                  {
+                    "uuid": "47c9b84a-a12a-3a28-a451-5f69b5ddb2ee",
+                    "label": "About Us",
+                    "link": "/aboutus"
+                  },
+                  {
+                    "uuid": "4dcbf350-ad02-3650-864a-2410689661e5",
+                    "label": "Contact Us",
+                    "link": "/contactus"
+                  },
+                  {
+                    "uuid": "3b2747e2-b607-35e4-9903-06820557056e",
+                    "label": "Current Opening",
+                    "link": "/careers/"
+                  },
+                  {
+                    "uuid": "010c4ffb-da52-3a7f-b2e0-e82cc0413856",
+                    "label": "Press Release",
+                    "link": "/press-release"
+                  },
+                  {
+                    "uuid": "93f28833-4d19-34fd-ae73-8cb0fd99deee",
+                    "label": "Press Coverage",
+                    "link": "/press-coverage"
+                  },
+                  {
+                    "uuid": "7120da49-fc0e-3b5c-9d6f-0c8f1339ae86",
+                    "label": "FAQs",
+                    "link": "/faq"
+                  },
+                  {
+                    "uuid": "fc8f8f72-57a2-395a-a8e8-79b0714f3ae9",
+                    "label": "Terms and Conditions",
+                    "link": "/terms-and-conditions"
+                  },
+                  {
+                    "uuid": "7e8dc23b-5b2c-3e65-b0c5-1fb86d3149c6",
+                    "label": "Privacy Policy",
+                    "link": "/privacy"
+                  }
+                ]
+              },
+              {
+                "uuid": "e33b664d-859c-3a47-97c2-a86e60a84300",
+                "heading": "BOOKMYSHOW EXCLUSIVES",
+                "items": [
+                  {
+                    "uuid": "210c2e7c-be6b-3548-897b-3e6aa213aeaf",
+                    "label": "Lollapalooza India",
+                    "link": "https://lollaindia.com/"
+                  },
+                  {
+                    "uuid": "802685e4-a433-30e1-bd1e-7e19e9859475",
+                    "label": "BookAChange",
+                    "link": "/donation"
+                  },
+                  {
+                    "uuid": "f362cc21-7508-37f1-92d8-4d0efaa64b58",
+                    "label": "Corporate Vouchers",
+                    "link": "/voucher"
+                  },
+                  {
+                    "uuid": "85568560-46ac-3a2c-974c-14b4561566e7",
+                    "label": "Gift Cards",
+                    "link": "/giftcards"
+                  },
+                  {
+                    "uuid": "acbceadf-3fcd-3c77-a87e-cbf1a6e8cfec",
+                    "label": "List My Show",
+                    "link": "/s/list-your-show/"
+                  },
+                  {
+                    "uuid": "06ff9f25-0451-3185-ad96-a7ba36da6c03",
+                    "label": "Offers",
+                    "link": "/offers"
+                  },
+                  {
+                    "uuid": "ee0036a5-18c8-3dc6-9b6d-114d43fcc38d",
+                    "label": "Stream",
+                    "link": "/explore/c/stream"
+                  },
+                  {
+                    "uuid": "ea834d9a-9152-3444-8945-013425669a7b",
+                    "label": "Movie Trailers",
+                    "link": "/explore/movie-trailers"
+                  },
+                  {
+                    "uuid": "a14a2923-aa9d-395c-881b-a7ef9b11e0bc",
+                    "label": "Summer Activities",
+                    "link": "/explore/c/summer-activities"
+                  }
+                ]
+              }
+            ]
+          },
+          "hiddenTags": [],
+          "breadcrumb": [
+            {
+              "uuid": "9463a67b-4274-3c34-9ee8-de373497b5c4",
+              "cta": "https://in.bookmyshow.com/",
+              "item": "Home"
+            },
+            {
+              "uuid": "43452f45-0d29-360b-b671-fff7bb07c037",
+              "cta": "https://in.bookmyshow.com/explore/events",
+              "item": "Events"
+            },
+            {
+              "uuid": "83b13193-8f87-3c33-acf0-31f4ca83a492",
+              "cta": "https://in.bookmyshow.com/explore/comedy-shows",
+              "item": "Comedy Shows"
+            },
+            {
+              "uuid": "7bd3afe1-65a8-3813-bc02-63cf112adcd5",
+              "cta": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+              "item": "Inventions by Biswa Kalyan Rath comedy-shows Event Tickets Hyderabad - BookMyShow"
+            }
+          ],
+          "ldSchema": {
+            "eventSchema": [
+              {
+                "@context": "https://schema.org",
+                "@type": "Event",
+                "name": "Inventions by Biswa Kalyan Rath ",
+                "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                "description": "Biswa Kalyan Rath is an Indian stand-up comedian, writer and YouTuber. He came into prominence through the YouTube comedy series, Pretentious Movie Reviews with fellow comedian Kanan Gill. He played a supporting role in the 2016 Netflix sex comedy film Brahman Naman.",
+                "doortime": "07:30 PM",
+                "startDate": "2026-05-10T19:30:00Z",
+                "endDate": "2026-05-10T15:30:00Z",
+                "eventStatus": "EventScheduled",
+                "image": [
+                  "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg",
+                  "https://assets-in.bmscdn.com/nmcms/mobile/media-mobile-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg"
+                ],
+                "location": [
+                  {
+                    "@type": "Place",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "India",
+                      "addressLocality": "Hyderabad",
+                      "streetAddress": "Shilparamam, Hitech, Hitech City Rd, Jubilee Enclave, Hyderabad, Telangana 500081, India"
+                    },
+                    "name": "Shilpakala Vedika: Hyderabad"
+                  }
+                ],
+                "offers": [
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "GOLD",
+                    "price": "1499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-10 19:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "BALCONY",
+                    "price": "999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-10 19:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "DIAMOND",
+                    "price": "2499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-10 19:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "PLATINUM",
+                    "price": "1999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-10 19:30:00 +0000 UTC"
+                  }
+                ],
+                "performers": [
+                  {
+                    "@type": "Person",
+                    "name": "Biswa Kalyan Rath"
+                  }
+                ]
+              },
+              {
+                "@context": "https://schema.org",
+                "@type": "Event",
+                "name": "Inventions by Biswa Kalyan Rath ",
+                "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                "description": "Biswa Kalyan Rath is an Indian stand-up comedian, writer and YouTuber. He came into prominence through the YouTube comedy series, Pretentious Movie Reviews with fellow comedian Kanan Gill. He played a supporting role in the 2016 Netflix sex comedy film Brahman Naman.",
+                "doortime": "08:00 PM",
+                "startDate": "2026-05-15T20:00:00Z",
+                "endDate": "2026-05-15T20:00:00Z",
+                "eventStatus": "EventScheduled",
+                "image": [
+                  "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg",
+                  "https://assets-in.bmscdn.com/nmcms/mobile/media-mobile-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg"
+                ],
+                "location": [
+                  {
+                    "@type": "Place",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "India",
+                      "addressLocality": "Mumbai",
+                      "streetAddress": "Doctor Kashinath Ghanekar Natyagruha, Hiranandani Meadows, Ghodbunder Road, Mumbai, Maharashtra 400028, India"
+                    },
+                    "name": "Kashinath Ghanekar Natyagruha: Thane (W)"
+                  }
+                ],
+                "offers": [
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "PLATINUM REGULAR PHASE",
+                    "price": "1999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-15 20:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "PLATINUM EARLY BIRD",
+                    "price": "1399.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-15 20:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "GOLD REGULAR",
+                    "price": "1499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-15 20:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "GOLD EARLY BIRD",
+                    "price": "999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-15 20:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "BALCONY REGULAR",
+                    "price": "999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-15 20:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "BALCONY EARLY BIRD",
+                    "price": "799.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-15 20:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "DIAMOND",
+                    "price": "2499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-15 20:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "DIAMOND EARLY BIRD",
+                    "price": "1799.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-15 20:00:00 +0000 UTC"
+                  }
+                ],
+                "performers": [
+                  {
+                    "@type": "Person",
+                    "name": "Biswa Kalyan Rath"
+                  }
+                ]
+              },
+              {
+                "@context": "https://schema.org",
+                "@type": "Event",
+                "name": "Inventions by Biswa Kalyan Rath ",
+                "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                "description": "Biswa Kalyan Rath is an Indian stand-up comedian, writer and YouTuber. He came into prominence through the YouTube comedy series, Pretentious Movie Reviews with fellow comedian Kanan Gill. He played a supporting role in the 2016 Netflix sex comedy film Brahman Naman.",
+                "doortime": "03:30 PM",
+                "startDate": "2026-05-17T15:30:00Z",
+                "endDate": "2026-05-17T19:00:00Z",
+                "eventStatus": "EventScheduled",
+                "image": [
+                  "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg",
+                  "https://assets-in.bmscdn.com/nmcms/mobile/media-mobile-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg"
+                ],
+                "location": [
+                  {
+                    "@type": "Place",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "India",
+                      "addressLocality": "Mumbai",
+                      "streetAddress": "Behind Gandhi Market, Comrade Harbanslal Marg, Sion, Mumbai, Maharashtra 400022, India"
+                    },
+                    "name": "Shanmukhananda Hall: Mumbai"
+                  }
+                ],
+                "offers": [
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "GOLD",
+                    "price": "1999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-17 15:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "SILVER",
+                    "price": "1499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-17 15:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "BALCONY 1ST DECK",
+                    "price": "999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-17 15:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "BALCONY 2ND DECK",
+                    "price": "799.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-17 15:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "PLATINUM",
+                    "price": "2499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-17 15:30:00 +0000 UTC"
+                  }
+                ],
+                "performers": [
+                  {
+                    "@type": "Person",
+                    "name": "Biswa Kalyan Rath"
+                  }
+                ]
+              },
+              {
+                "@context": "https://schema.org",
+                "@type": "Event",
+                "name": "Inventions by Biswa Kalyan Rath ",
+                "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                "description": "Biswa Kalyan Rath is an Indian stand-up comedian, writer and YouTuber. He came into prominence through the YouTube comedy series, Pretentious Movie Reviews with fellow comedian Kanan Gill. He played a supporting role in the 2016 Netflix sex comedy film Brahman Naman.",
+                "doortime": "08:00 PM",
+                "startDate": "2026-05-22T20:00:00Z",
+                "endDate": "2026-05-22T20:00:00Z",
+                "eventStatus": "EventScheduled",
+                "image": [
+                  "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg",
+                  "https://assets-in.bmscdn.com/nmcms/mobile/media-mobile-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg"
+                ],
+                "location": [
+                  {
+                    "@type": "Place",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "India",
+                      "addressLocality": "Bengaluru",
+                      "streetAddress": "Yuvapatha, 4, 31st cross Road, 4th T Block East, 4th Block, Jayanagar, Bengaluru, Karnataka 560011, India"
+                    },
+                    "name": "Viveka Auditorium: Bengaluru"
+                  }
+                ],
+                "offers": [
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "PLATINUM",
+                    "price": "1499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-22 20:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "GOLD",
+                    "price": "999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-22 20:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "DIAMOND",
+                    "price": "1999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-22 20:00:00 +0000 UTC"
+                  }
+                ],
+                "performers": [
+                  {
+                    "@type": "Person",
+                    "name": "Biswa Kalyan Rath"
+                  }
+                ]
+              },
+              {
+                "@context": "https://schema.org",
+                "@type": "Event",
+                "name": "Inventions by Biswa Kalyan Rath ",
+                "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                "description": "Biswa Kalyan Rath is an Indian stand-up comedian, writer and YouTuber. He came into prominence through the YouTube comedy series, Pretentious Movie Reviews with fellow comedian Kanan Gill. He played a supporting role in the 2016 Netflix sex comedy film Brahman Naman.",
+                "doortime": "07:00 PM",
+                "startDate": "2026-05-23T19:00:00Z",
+                "endDate": "2026-05-23T16:00:00Z",
+                "eventStatus": "EventScheduled",
+                "image": [
+                  "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg",
+                  "https://assets-in.bmscdn.com/nmcms/mobile/media-mobile-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg"
+                ],
+                "location": [
+                  {
+                    "@type": "Place",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "India",
+                      "addressLocality": "Bengaluru",
+                      "streetAddress": "4th Cross Rd, Kaveri Nagar, Whitefield,Bengaluru, Karnataka 560048, India"
+                    },
+                    "name": "MLR Convention Centre: Whitefield, Bengaluru"
+                  }
+                ],
+                "offers": [
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "BALCONY",
+                    "price": "999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-23 19:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "DIAMOND",
+                    "price": "2499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-23 19:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "PLATINUM",
+                    "price": "1999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-23 19:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "GOLD",
+                    "price": "1499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-23 19:00:00 +0000 UTC"
+                  }
+                ],
+                "performers": [
+                  {
+                    "@type": "Person",
+                    "name": "Biswa Kalyan Rath"
+                  }
+                ]
+              },
+              {
+                "@context": "https://schema.org",
+                "@type": "Event",
+                "name": "Inventions by Biswa Kalyan Rath ",
+                "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                "description": "Biswa Kalyan Rath is an Indian stand-up comedian, writer and YouTuber. He came into prominence through the YouTube comedy series, Pretentious Movie Reviews with fellow comedian Kanan Gill. He played a supporting role in the 2016 Netflix sex comedy film Brahman Naman.",
+                "doortime": "07:00 PM",
+                "startDate": "2026-05-24T19:00:00Z",
+                "endDate": "2026-05-24T16:00:00Z",
+                "eventStatus": "EventScheduled",
+                "image": [
+                  "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg",
+                  "https://assets-in.bmscdn.com/nmcms/mobile/media-mobile-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg"
+                ],
+                "location": [
+                  {
+                    "@type": "Place",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "India",
+                      "addressLocality": "Bengaluru",
+                      "streetAddress": "Museum Road, Opposite Patricks Church, Shanthala Nagar, Richmond Town, Bengaluru, Karnataka 560025, India"
+                    },
+                    "name": "Good Shepherd Auditorium: Bengaluru"
+                  }
+                ],
+                "offers": [
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "PLATINUM",
+                    "price": "1999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-24 19:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "GOLD",
+                    "price": "1499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-24 19:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "SILVER",
+                    "price": "999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-24 19:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "DIAMOND",
+                    "price": "2499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-24 19:00:00 +0000 UTC"
+                  }
+                ],
+                "performers": [
+                  {
+                    "@type": "Person",
+                    "name": "Biswa Kalyan Rath"
+                  }
+                ]
+              },
+              {
+                "@context": "https://schema.org",
+                "@type": "Event",
+                "name": "Inventions by Biswa Kalyan Rath ",
+                "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                "description": "Biswa Kalyan Rath is an Indian stand-up comedian, writer and YouTuber. He came into prominence through the YouTube comedy series, Pretentious Movie Reviews with fellow comedian Kanan Gill. He played a supporting role in the 2016 Netflix sex comedy film Brahman Naman.",
+                "doortime": "03:00 PM",
+                "startDate": "2026-05-30T15:00:00Z",
+                "endDate": "2026-05-30T18:00:00Z",
+                "eventStatus": "EventScheduled",
+                "image": [
+                  "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg",
+                  "https://assets-in.bmscdn.com/nmcms/mobile/media-mobile-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg"
+                ],
+                "location": [
+                  {
+                    "@type": "Place",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "India",
+                      "addressLocality": "Pune",
+                      "streetAddress": "4, Atur Foundation House, Dr. Ambedkar Road, Pune, Maharashtra 411001, India"
+                    },
+                    "name": "Jawaharlal Nehru Memorial Hall: Pune"
+                  }
+                ],
+                "offers": [
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "GOLD",
+                    "price": "1499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-30 15:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "BALCONY",
+                    "price": "999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-30 15:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "DIAMOND",
+                    "price": "2499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-30 15:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "PLATINUM",
+                    "price": "1999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-30 15:00:00 +0000 UTC"
+                  }
+                ],
+                "performers": [
+                  {
+                    "@type": "Person",
+                    "name": "Biswa Kalyan Rath"
+                  }
+                ]
+              },
+              {
+                "@context": "https://schema.org",
+                "@type": "Event",
+                "name": "Inventions by Biswa Kalyan Rath ",
+                "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                "description": "Biswa Kalyan Rath is an Indian stand-up comedian, writer and YouTuber. He came into prominence through the YouTube comedy series, Pretentious Movie Reviews with fellow comedian Kanan Gill. He played a supporting role in the 2016 Netflix sex comedy film Brahman Naman.",
+                "doortime": "03:30 PM",
+                "startDate": "2026-05-31T15:30:00Z",
+                "endDate": "2026-05-31T19:30:00Z",
+                "eventStatus": "EventScheduled",
+                "image": [
+                  "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg",
+                  "https://assets-in.bmscdn.com/nmcms/mobile/media-mobile-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg"
+                ],
+                "location": [
+                  {
+                    "@type": "Place",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "India",
+                      "addressLocality": "Kolkata",
+                      "streetAddress": "48, Shakespeare Sarani, Theatre Road, Kolkata, West Bengal 700017, India"
+                    },
+                    "name": "Kala Mandir Auditorium: Kolkata"
+                  }
+                ],
+                "offers": [
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "GOLD",
+                    "price": "999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-31 15:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "SILVER BALCONY",
+                    "price": "799.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-31 15:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "DIAMOND",
+                    "price": "1999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-31 15:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "PLATINUM",
+                    "price": "1499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-05-31 15:30:00 +0000 UTC"
+                  }
+                ],
+                "performers": [
+                  {
+                    "@type": "Person",
+                    "name": "Biswa Kalyan Rath"
+                  }
+                ]
+              },
+              {
+                "@context": "https://schema.org",
+                "@type": "Event",
+                "name": "Inventions by Biswa Kalyan Rath ",
+                "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                "description": "Biswa Kalyan Rath is an Indian stand-up comedian, writer and YouTuber. He came into prominence through the YouTube comedy series, Pretentious Movie Reviews with fellow comedian Kanan Gill. He played a supporting role in the 2016 Netflix sex comedy film Brahman Naman.",
+                "doortime": "04:00 PM",
+                "startDate": "2026-06-06T16:00:00Z",
+                "endDate": "2026-06-07T18:00:00Z",
+                "eventStatus": "EventScheduled",
+                "image": [
+                  "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg",
+                  "https://assets-in.bmscdn.com/nmcms/mobile/media-mobile-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg"
+                ],
+                "location": [
+                  {
+                    "@type": "Place",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "India",
+                      "addressLocality": "Delhi-NCR",
+                      "streetAddress": "J.L Nehru Marg, SKD Basti, Press Enclave, Ajmere Gate, Delhi, NCR 110002, India"
+                    },
+                    "name": "Kedarnath Sahni Auditorium: Delhi"
+                  }
+                ],
+                "offers": [
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "PLATINUM",
+                    "price": "1999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-06-06 16:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "GOLD",
+                    "price": "1499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-06-06 16:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "SILVER BALCONY",
+                    "price": "999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-06-06 16:00:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "DIAMOND",
+                    "price": "2499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-06-06 16:00:00 +0000 UTC"
+                  }
+                ],
+                "performers": [
+                  {
+                    "@type": "Person",
+                    "name": "Biswa Kalyan Rath"
+                  }
+                ]
+              },
+              {
+                "@context": "https://schema.org",
+                "@type": "Event",
+                "name": "Inventions by Biswa Kalyan Rath ",
+                "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                "description": "Biswa Kalyan Rath is an Indian stand-up comedian, writer and YouTuber. He came into prominence through the YouTube comedy series, Pretentious Movie Reviews with fellow comedian Kanan Gill. He played a supporting role in the 2016 Netflix sex comedy film Brahman Naman.",
+                "doortime": "07:30 PM",
+                "startDate": "2026-06-14T19:30:00Z",
+                "endDate": "2026-06-14T19:30:00Z",
+                "eventStatus": "EventScheduled",
+                "image": [
+                  "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg",
+                  "https://assets-in.bmscdn.com/nmcms/mobile/media-mobile-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                  "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg"
+                ],
+                "location": [
+                  {
+                    "@type": "Place",
+                    "address": {
+                      "@type": "PostalAddress",
+                      "addressCountry": "India",
+                      "addressLocality": "Chennai",
+                      "streetAddress": "No. 168, TT Krishnamachari Road, Royapettah, Pudupet, Gopalapuram, Chennai, Tamil Nadu 600004, India"
+                    },
+                    "name": "Music Academy: Chennai"
+                  }
+                ],
+                "offers": [
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "BALCONY SILVER ENTRY",
+                    "price": "999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-06-14 19:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "DIAMOND",
+                    "price": "1999.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-06-14 19:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "BALCONY BRONZE",
+                    "price": "799.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-06-14 19:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "PLATINUM",
+                    "price": "1499.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-06-14 19:30:00 +0000 UTC"
+                  },
+                  {
+                    "@type": "Offer",
+                    "URL": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "name": "GOLD",
+                    "price": "1299.00",
+                    "priceCurrency": "INR",
+                    "validFrom": "2026-06-14 19:30:00 +0000 UTC"
+                  }
+                ],
+                "performers": [
+                  {
+                    "@type": "Person",
+                    "name": "Biswa Kalyan Rath"
+                  }
+                ]
+              }
+            ],
+            "breadcrumbSchema": [
+              {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "item": [
+                      {
+                        "@id": "https://in.bookmyshow.com/",
+                        "name": "Home"
+                      }
+                    ],
+                    "position": 1
+                  },
+                  {
+                    "@type": "ListItem",
+                    "item": [
+                      {
+                        "@id": "https://in.bookmyshow.com/explore/events",
+                        "name": "Events"
+                      }
+                    ],
+                    "position": 2
+                  },
+                  {
+                    "@type": "ListItem",
+                    "item": [
+                      {
+                        "@id": "https://in.bookmyshow.com/explore/comedy-shows",
+                        "name": "Comedy Shows"
+                      }
+                    ],
+                    "position": 3
+                  },
+                  {
+                    "@type": "ListItem",
+                    "item": [
+                      {
+                        "@id": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                        "name": "Inventions by Biswa Kalyan Rath comedy-shows Event Tickets Hyderabad - BookMyShow"
+                      }
+                    ],
+                    "position": 4
+                  }
+                ]
+              }
+            ],
+            "androidViewActionJsonLd": {
+              "@context": "http://schema.org",
+              "@type": "ViewAction",
+              "target": {
+                "@context": "http://schema.org",
+                "@type": "EntryPoint",
+                "urlTemplate": "android-app://com.bt.bms/https/in.bookmyshow.com//events/ET00415541"
+              }
+            },
+            "iosViewActionJsonLd": {
+              "@context": "http://schema.org",
+              "@type": "ViewAction",
+              "target": {
+                "@context": "http://schema.org",
+                "@type": "EntryPoint",
+                "urlTemplate": "ios-app://405894842/bmsIndiaApp/in.bookmyshow.com//events/ET00415541"
+              }
+            }
+          },
+          "flags": {
+            "blockSEOBot": false,
+            "isDescriptionChanged": false
+          },
+          "pageMetaTags": [
+            {
+              "keyName": "property",
+              "keyValue": "og:title",
+              "valueKey": "content",
+              "value": "Inventions by Biswa Kalyan Rath  Comedy Shows, Events, Stand up Comedy Events Tickets - BookMyShow"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "og:description",
+              "valueKey": "content",
+              "value": "Book online tickets for Inventions by Biswa Kalyan Rath  on BookMyShow which is a Comedy Shows event happening at venue near you."
+            },
+            {
+              "keyName": "property",
+              "keyValue": "og:type",
+              "valueKey": "content",
+              "value": "movie"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "og:image",
+              "valueKey": "content",
+              "value": "https://assets-in.bmscdn.com/discovery-catalog/events/et00415541-zbfbzetbwz-landscape.jpg"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "og:url",
+              "valueKey": "content",
+              "value": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541?utm_source=FBLIKE&fbrefresh=1"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "og:site_name",
+              "valueKey": "content",
+              "value": "BookMyShow"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "fb:app_id",
+              "valueKey": "content",
+              "value": "165665113451029"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "al:android:url",
+              "valueKey": "content",
+              "value": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "al:android:package",
+              "valueKey": "content",
+              "value": "com.bt.bms"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "al:android:app_name",
+              "valueKey": "content",
+              "value": "BookMyShow"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "al:ios:url",
+              "valueKey": "content",
+              "value": "bmsIndiaApp://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "al:ios:app_store_id",
+              "valueKey": "content",
+              "value": "405894842"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "al:ios:app_name",
+              "valueKey": "content",
+              "value": "BookMyShow"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "twitter:card",
+              "valueKey": "content",
+              "value": "summary_large_image"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "twitter:site",
+              "valueKey": "content",
+              "value": "@BookMyShow"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "twitter:creator",
+              "valueKey": "content",
+              "value": "@BookMyShow"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "twitter:title",
+              "valueKey": "content",
+              "value": "Inventions by Biswa Kalyan Rath  Comedy Shows, Events, Stand up Comedy Events Tickets - BookMyShow"
+            },
+            {
+              "keyName": "property",
+              "keyValue": "twitter:description",
+              "valueKey": "content",
+              "value": "Book online tickets for Inventions by Biswa Kalyan Rath  on BookMyShow which is a Comedy Shows event happening at venue near you."
+            },
+            {
+              "keyName": "property",
+              "keyValue": "twitter:image",
+              "valueKey": "content",
+              "value": "https://assets-in.bmscdn.com/discovery-catalog/events/et00415541-zbfbzetbwz-landscape.jpg"
+            },
+            {
+              "keyName": "itemProp",
+              "keyValue": "description",
+              "valueKey": "content",
+              "value": "Book online tickets for Inventions by Biswa Kalyan Rath  on BookMyShow which is a Comedy Shows event happening at venue near you."
+            },
+            {
+              "keyName": "property",
+              "keyValue": "image",
+              "valueKey": "content",
+              "value": "http://in.bmscdn.com/events/moviecard/ET00415541.jpg"
+            },
+            {
+              "keyName": "name",
+              "keyValue": "robots",
+              "valueKey": "content",
+              "value": "index,follow"
+            }
+          ],
+          "redirect": ""
+        },
+        "requestId": "initiate-fetchSEOData",
+        "fulfilledTimeStamp": 1777386335460
+      }
+    },
+    "mutations": {},
+    "provided": {
+      "tags": {},
+      "keys": {}
+    },
+    "subscriptions": {},
+    "config": {
+      "online": true,
+      "focused": true,
+      "middlewareRegistered": false,
+      "refetchOnFocus": false,
+      "refetchOnReconnect": false,
+      "refetchOnMountOrArgChange": false,
+      "keepUnusedDataFor": 600,
+      "reducerPath": "seo",
+      "invalidationBehavior": "delayed"
+    }
+  },
+  "withDesktopLayout": {
+    "signInCallback": null,
+    "signOutCallback": null,
+    "regionChangeCallback": null,
+    "pageName": "all",
+    "setSidebarOpen": null
+  },
+  "settings": {
+    "isFetching": false,
+    "isError": false,
+    "isSuccess": false,
+    "values": {}
+  },
+  "appPromotionReducer": {
+    "isAppPromotionDeferredEventAvailable": false,
+    "pwaInstallStatus": false,
+    "displayMode": null,
+    "isPwaCustomInstallSupported": false
+  },
+  "youtube": {
+    "isAPIloaded": false,
+    "currentPlayingVideoID": "",
+    "canPauseAllVideos": false
+  },
+  "loginApi": {
+    "queries": {},
+    "mutations": {},
+    "provided": {
+      "tags": {},
+      "keys": {}
+    },
+    "subscriptions": {},
+    "config": {
+      "online": true,
+      "focused": true,
+      "middlewareRegistered": false,
+      "refetchOnFocus": false,
+      "refetchOnReconnect": false,
+      "refetchOnMountOrArgChange": false,
+      "keepUnusedDataFor": 0,
+      "reducerPath": "loginApi",
+      "invalidationBehavior": "delayed"
+    }
+  },
+  "editProfileApi": {
+    "queries": {},
+    "mutations": {},
+    "provided": {
+      "tags": {},
+      "keys": {}
+    },
+    "subscriptions": {},
+    "config": {
+      "online": true,
+      "focused": true,
+      "middlewareRegistered": false,
+      "refetchOnFocus": false,
+      "refetchOnReconnect": false,
+      "refetchOnMountOrArgChange": false,
+      "keepUnusedDataFor": 0,
+      "reducerPath": "editProfileApi",
+      "invalidationBehavior": "delayed"
+    }
+  },
+  "headerApi": {
+    "queries": {},
+    "mutations": {},
+    "provided": {
+      "tags": {},
+      "keys": {}
+    },
+    "subscriptions": {},
+    "config": {
+      "online": true,
+      "focused": true,
+      "middlewareRegistered": false,
+      "refetchOnFocus": false,
+      "refetchOnReconnect": false,
+      "refetchOnMountOrArgChange": false,
+      "keepUnusedDataFor": 60,
+      "reducerPath": "headerApi",
+      "invalidationBehavior": "delayed"
+    }
+  },
+  "sidebarApi": {
+    "queries": {},
+    "mutations": {},
+    "provided": {
+      "tags": {},
+      "keys": {}
+    },
+    "subscriptions": {},
+    "config": {
+      "online": true,
+      "focused": true,
+      "middlewareRegistered": false,
+      "refetchOnFocus": false,
+      "refetchOnReconnect": false,
+      "refetchOnMountOrArgChange": false,
+      "keepUnusedDataFor": 60,
+      "reducerPath": "sidebarApi",
+      "invalidationBehavior": "delayed"
+    }
+  },
+  "regions": {
+    "isFetching": false,
+    "isFirstLoad": true,
+    "isError": false,
+    "currentRegion": null,
+    "geoLocationErrorMessage": null,
+    "isFetchingLocation": false,
+    "searchKey": ""
+  },
+  "eventsSynopsisApi": {
+    "queries": {
+      "getPrimaryData": {
+        "status": "fulfilled",
+        "isUninitialized": false,
+        "isLoading": false,
+        "isFetching": false,
+        "isSuccess": true,
+        "isError": false,
+        "endpointName": "getPrimaryData",
+        "originalArgs": {
+          "eventCode": "ET00415541",
+          "isDesktop": true
+        },
+        "data": {
+          "flags": {
+            "isGroupPage": false,
+            "redirectUrl": "",
+            "slug": "biswa-kalyan-rath-live",
+            "eventType": "events",
+            "eventTags": [
+              "age-bucket-55-plus",
+              "age-bucket-16-to-21",
+              "age-bucket-22-to-30",
+              "age-bucket-31-to-45",
+              "age-bucket-46-to-55",
+              "outdoor-events"
+            ],
+            "isCustomGroupPage": false,
+            "paymentHandler": "native",
+            "isTransactional": true
+          },
+          "styles": {
+            "about-the-event-description": {
+              "id": "about-the-event-description",
+              "padding": "16,0,0,0"
+            },
+            "about-the-event-description-text": {
+              "id": "about-the-event-description-text",
+              "font": "small-regular",
+              "fontColor": "#404040"
+            },
+            "about-the-event-widget": {
+              "id": "about-the-event-widget",
+              "type": "widget",
+              "margin": "24,0,0,0",
+              "widthInPercentage": 75,
+              "background": {
+                "color": "#FFFFFF"
+              },
+              "textContainer": {
+                "flexWrap": false
+              }
+            },
+            "desktop-about-the-event-description-text": {
+              "id": "desktop-about-the-event-description-text",
+              "font": "body-regular",
+              "fontColor": "#404040"
+            },
+            "desktop-event-download-image": {
+              "id": "desktop-event-download-image",
+              "type": "image",
+              "width": 24,
+              "height": 24,
+              "widthpct": 20,
+              "imageContainer": {
+                "margin": "8,0,8,8",
+                "horizontalAlignment": "left"
+              }
+            },
+            "desktop-event-download-text": {
+              "id": "desktop-event-download-text",
+              "type": "text",
+              "font": "small-regular",
+              "fontColor": "#DC354B",
+              "horizontalAlignment": "left",
+              "imageVerticalAlignment": "bottom",
+              "widthpct": 80
+            },
+            "desktop-tournament-event-info-static-image": {
+              "id": "desktop-tournament-event-info-static-image",
+              "type": "image",
+              "width": 24,
+              "height": 24,
+              "widthpct": 20,
+              "imageContainer": {
+                "margin": "8,0,0,0",
+                "horizontalAlignment": "left"
+              }
+            },
+            "desktop-tournament-event-info-static-text": {
+              "id": "desktop-tournament-event-info-static-text",
+              "type": "text",
+              "margin": "8,0,0,0",
+              "font": "small-regular",
+              "fontColor": "#DC354B",
+              "horizontalAlignment": "left",
+              "imageVerticalAlignment": "bottom"
+            },
+            "event-banner-carousel-card": {
+              "id": "event-banner-carousel-card",
+              "direction": "ltr",
+              "imageContainer": {
+                "aspectRatio": 2
+              }
+            },
+            "event-banner-carousel-widget": {
+              "id": "event-banner-carousel-widget",
+              "padding": "0,0,0,0",
+              "margin": "24,0,0,0",
+              "headerContainer": {
+                "padding": "0,16,0,0"
+              }
+            },
+            "event-download-card": {
+              "id": "event-download-card",
+              "type": "card",
+              "imageContainer": {
+                "width": 24,
+                "height": 24,
+                "aspectRatio": 1,
+                "widthpct": 40
+              }
+            },
+            "event-download-image": {
+              "id": "event-download-image",
+              "type": "image",
+              "width": 24,
+              "height": 24,
+              "widthpct": 20,
+              "imageContainer": {
+                "margin": "8,0,8,8",
+                "horizontalAlignment": "right"
+              }
+            },
+            "event-download-image-desktop": {
+              "id": "event-download-image-desktop",
+              "type": "image",
+              "width": 24,
+              "height": 24,
+              "widthpct": 20,
+              "imageContainer": {
+                "margin": "8,0,8,8",
+                "horizontalAlignment": "center"
+              }
+            },
+            "event-download-text": {
+              "id": "event-download-text",
+              "type": "text",
+              "font": "small-regular",
+              "fontColor": "#1A1A1A",
+              "horizontalAlignment": "left",
+              "imageVerticalAlignment": "bottom",
+              "widthpct": 80
+            },
+            "explore-tournament-card-desktop": {
+              "id": "explore-tournament-card-desktop",
+              "type": "card",
+              "margin": "8,0,0,0",
+              "imageContainer": {
+                "width": 24,
+                "height": 24,
+                "aspectRatio": 1,
+                "widthpct": 40
+              }
+            },
+            "widget-title": {
+              "id": "widget-title",
+              "type": "text",
+              "font": "h5-medium",
+              "fontColor": "#1A1A1A"
+            }
+          },
+          "widgets": {
+            "ABOUT_THE_EVENT": {
+              "cards": [
+                {},
+                {
+                  "analytics": {
+                    "event_action": "event_read_more",
+                    "event_name": "synopsis_cta_clicked"
+                  },
+                  "collapsedText": "Read More",
+                  "expandedText": "Read Less",
+                  "flexWrap": "wrap",
+                  "styleId": "about-the-event-description",
+                  "text": [
+                    {
+                      "maxLines": 4,
+                      "styleId": "desktop-about-the-event-description-text",
+                      "text": "<p>Biswa Kalyan Rath is an Indian stand-up comedian, writer and YouTuber. He came into prominence through the YouTube comedy series, Pretentious Movie Reviews with fellow comedian Kanan Gill. He played a supporting role in the 2016 Netflix sex comedy film Brahman Naman.</p>",
+                      "type": "html",
+                      "uuid": "ABOUT_THE_EVENT|DESKTOP_EVENT_INFO_TEXT_TEMPLATE|DESKTOP_EVENT_INFORMATION_COMPONENT|INFO"
+                    }
+                  ],
+                  "type": "information",
+                  "uuid": "ABOUT_THE_EVENT|DESKTOP_EVENT_INFO_TEXT_TEMPLATE"
+                },
+                {},
+                {},
+                {}
+              ],
+              "id": "ABOUT_THE_EVENT",
+              "itemsPerRow": 1,
+              "styleId": "about-the-event-widget",
+              "title": {
+                "components": [
+                  {
+                    "text": "About The Event",
+                    "type": "text",
+                    "uuid": "ABOUT_THE_EVENT|EVENT_INFO_TITLE_TEMPLATE|STATIC_TEXT|0"
+                  }
+                ],
+                "styleId": "widget-title",
+                "type": "text",
+                "uuid": "ABOUT_THE_EVENT|EVENT_INFO_TITLE_TEMPLATE|STATIC_TEXT"
+              },
+              "type": "flexbox"
+            },
+            "EVENT_BANNER": {
+              "cards": [
+                {
+                  "image": {
+                    "altText": "media-desktop-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg",
+                    "url": "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-biswa-kalyan-rath-live-2026-3-1-t-6-59-25.jpg"
+                  },
+                  "styleId": "event-banner-carousel-card",
+                  "type": "image",
+                  "uuid": "EVENT_BANNER|EVENT_BANNER|CAROUSEL_COMPONENT|0"
+                },
+                {
+                  "styleId": "event-banner-carousel-card",
+                  "type": "video",
+                  "uuid": "EVENT_BANNER|EVENT_BANNER|CAROUSEL_COMPONENT|1",
+                  "video": {
+                    "url": "https://youtu.be/pK5WgUBakBA?si=f7PbJfcuqtn6PBYg"
+                  }
+                }
+              ],
+              "config": {
+                "autoScrollDuration": 6000,
+                "showIndicators": true
+              },
+              "id": "EVENT_BANNER",
+              "itemsPerRow": 10,
+              "styleId": "event-banner-carousel-widget",
+              "type": "carousel"
+            }
+          },
+          "rankings": [
+            {
+              "source": "primary-sessions",
+              "rank": 1,
+              "widgetId": "EVENT_TITLE",
+              "alignment": "left"
+            },
+            {
+              "source": "primary",
+              "rank": 2,
+              "widgetId": "DESKTOP_TRENDING_WIDGET",
+              "alignment": "left"
+            },
+            {
+              "source": "primary",
+              "rank": 3,
+              "widgetId": "EVENT_BANNER",
+              "alignment": "left"
+            },
+            {
+              "source": "primary-sessions",
+              "rank": 4,
+              "widgetId": "EVENT_TAGS_AND_INTERESTED",
+              "alignment": "left"
+            },
+            {
+              "source": "primary-sessions",
+              "rank": 5,
+              "widgetId": "DESKTOP_TICKET_CATEGORY",
+              "alignment": "left"
+            },
+            {
+              "source": "primary-sessions",
+              "rank": 6,
+              "widgetId": "DESKTOP_EVENT_DETAILS",
+              "alignment": "right"
+            },
+            {
+              "source": "primary-sessions",
+              "rank": 7,
+              "widgetId": "DESKTOP_ALL_LOCATIONS",
+              "alignment": "right"
+            },
+            {
+              "source": "primary-sessions",
+              "rank": 8,
+              "widgetId": "SEPARATOR",
+              "alignment": "right"
+            },
+            {
+              "source": "primary-sessions",
+              "rank": 9,
+              "widgetId": "DESKTOP_FAST_FILLING",
+              "alignment": "right"
+            },
+            {
+              "source": "primary-sessions",
+              "rank": 9,
+              "widgetId": "DESKTOP_TICKET_LOCK",
+              "alignment": "right"
+            },
+            {
+              "source": "primary-sessions",
+              "rank": 9,
+              "widgetId": "PRESALES_INFO_WIDGET",
+              "alignment": "right"
+            },
+            {
+              "source": "primary-sessions",
+              "rank": 10,
+              "widgetId": "FOOTER_IMAGE",
+              "alignment": "right"
+            },
+            {
+              "source": "primary-sessions",
+              "rank": 11,
+              "widgetId": "DESKTOP_COMING_SOON",
+              "alignment": "right"
+            },
+            {
+              "source": "primary-sessions",
+              "rank": 11,
+              "widgetId": "BOOK_CTA",
+              "alignment": "right"
+            },
+            {
+              "source": "primary",
+              "rank": 12,
+              "widgetId": "ABOUT_THE_EVENT",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 13,
+              "widgetId": "DESKTOP_OFFERS",
+              "alignment": "right"
+            },
+            {
+              "source": "primary",
+              "rank": 13,
+              "widgetId": "DESKTOP_USER_CONSENT",
+              "alignment": "left"
+            },
+            {
+              "source": "primary",
+              "rank": 14,
+              "widgetId": "DESKTOP_EVENT_USP",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 15,
+              "widgetId": "DESKTOP_YOU_SHOULD_KNOW",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 17,
+              "widgetId": "DESKTOP_ARTIST",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 18,
+              "widgetId": "DESKTOP_MTICKET_INFO",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 19,
+              "widgetId": "DESKTOP_GALLERY",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 19,
+              "widgetId": "DESKTOP_GALLERYV2",
+              "alignment": "left"
+            },
+            {
+              "source": "primary-sessions",
+              "rank": 20,
+              "widgetId": "DESKTOP_ABOUT_THE_VENUE",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 21,
+              "widgetId": "DESKTOP_SPONSOR",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 22,
+              "widgetId": "ADDITIONAL_SECTION",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 23,
+              "widgetId": "DESKTOP_FAQS",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 24,
+              "widgetId": "DESKTOP_REFUND_POLICY",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 25,
+              "widgetId": "DESKTOP_TNC",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 26,
+              "widgetId": "YOU_MAY_ALSO_LIKE",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 27,
+              "widgetId": "DESKTOP_EVENTS_AT_THIS_VENUE",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 28,
+              "widgetId": "DESKTOP_EVENTS_BY_ARTIST",
+              "alignment": "left"
+            },
+            {
+              "source": "secondary",
+              "rank": 29,
+              "widgetId": "WHITELABEL_WEB_FOOTER",
+              "alignment": "left"
+            }
+          ],
+          "rankingKey": "default_DESKTOP",
+          "parsedStyles": {
+            "about-the-event-description": "padding: 16px 0 0 0;",
+            "about-the-event-description-text": "color: rgba(64, 64, 64, 1);font-size: 14px; font-weight: 400; line-height: 20px; letter-spacing: 0.2px;",
+            "about-the-event-widget": "width: 75%;margin: 24px 0 0 0;",
+            "desktop-about-the-event-description-text": "color: rgba(64, 64, 64, 1);font-size: 16px; font-weight: 400; line-height: 24px; letter-spacing: 0.2px;",
+            "desktop-event-download-image": "width: 24px;height: 24px;",
+            "desktop-event-download-text": "color: rgba(220, 53, 75, 1);font-size: 14px; font-weight: 400; line-height: 20px; letter-spacing: 0.2px;justify-content: flex-start;",
+            "desktop-tournament-event-info-static-image": "width: 24px;height: 24px;",
+            "desktop-tournament-event-info-static-text": "color: rgba(220, 53, 75, 1);margin: 8px 0 0 0;font-size: 14px; font-weight: 400; line-height: 20px; letter-spacing: 0.2px;justify-content: flex-start;",
+            "event-banner-carousel-card": "",
+            "event-banner-carousel-widget": "margin: 24px 0 0 0;padding: 0 0 0 0;",
+            "event-download-card": "",
+            "event-download-image": "width: 24px;height: 24px;",
+            "event-download-image-desktop": "width: 24px;height: 24px;",
+            "event-download-text": "color: rgba(26, 26, 26, 1);font-size: 14px; font-weight: 400; line-height: 20px; letter-spacing: 0.2px;justify-content: flex-start;",
+            "explore-tournament-card-desktop": "margin: 8px 0 0 0;",
+            "widget-title": "color: rgba(26, 26, 26, 1);font-size: 24px; font-weight: 500; line-height: 30px;"
+          }
+        },
+        "requestId": "initiate-getPrimaryData",
+        "fulfilledTimeStamp": 1777386335493
+      },
+      "getPrimarySessionData": {
+        "status": "fulfilled",
+        "isUninitialized": false,
+        "isLoading": false,
+        "isFetching": false,
+        "isSuccess": true,
+        "isError": false,
+        "endpointName": "getPrimarySessionData",
+        "originalArgs": {
+          "eventCode": "ET00415541",
+          "isDesktop": true
+        },
+        "data": {
+          "flags": {
+            "isGroupPage": false,
+            "redirectUrl": "",
+            "slug": "biswa-kalyan-rath-live",
+            "eventType": "events",
+            "eventTags": [
+              "age-bucket-55-plus",
+              "age-bucket-16-to-21",
+              "age-bucket-22-to-30",
+              "age-bucket-31-to-45",
+              "age-bucket-46-to-55",
+              "outdoor-events"
+            ],
+            "isCustomGroupPage": false,
+            "paymentHandler": "native",
+            "isTransactional": true
+          },
+          "realtimeConfig": {
+            "transitionEnabled": false,
+            "forceRefetch": true
+          },
+          "background": "#F2F5F9",
+          "meta": {
+            "analytics": {
+              "product": "events",
+              "screen_name": "events_synopsis",
+              "event_name": "synopsis_viewed",
+              "title": "Inventions by Biswa Kalyan Rath ",
+              "event_code": "ET00415541",
+              "event_group": "EG00413782",
+              "venue_code": "SHVD|KGNT|MUKH|VAUB|MLRW|GSAU|NMHP|KMAU|KADL|MACH",
+              "category": "Comedy Shows",
+              "genre": "Comedy",
+              "tags": "age-bucket-55-plus,age-bucket-16-to-21,age-bucket-22-to-30,age-bucket-31-to-45,age-bucket-46-to-55,outdoor-events",
+              "type": "multiple_venues,multiple_dates,multiple_ticket_category,nonseated",
+              "language": "Hindi,English",
+              "format": "offline",
+              "label": "Biswa Kalyan Rath",
+              "metadata": "m-ticket=true,type=paid,registration_required=true,coupon_code=no,event_currency=INR,consent=na",
+              "pagetype": "events_synopsis",
+              "event_status": "registration",
+              "event_slug": "events/biswa-kalyan-rath-live/ET00415541",
+              "start_date_time": "20260515|2000",
+              "end_date_time": "20260517|1900"
+            }
+          },
+          "header": {
+            "isSticky": false,
+            "isOverlay": false,
+            "actions": {
+              "right": [
+                {
+                  "cta": {
+                    "id": "share_event",
+                    "type": "share",
+                    "url": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                    "description": "Hey checkout this event :- ",
+                    "analytics": {
+                      "event_name": "synopsis_cta_clicked",
+                      "event_action": "share"
+                    }
+                  }
+                }
+              ]
+            },
+            "text": [
+              {
+                "styleId": "header-regular-desktop",
+                "uuid": "HEADER_DESKTOP|HEADER_STICKY_TEXT_WEB|HEADER_STICKY_TEXT_DESKTOP",
+                "maxLines": 2,
+                "components": [
+                  {
+                    "type": "text",
+                    "uuid": "HEADER_DESKTOP|HEADER_STICKY_TEXT_WEB|HEADER_STICKY_TEXT_DESKTOP|0",
+                    "text": "Inventions by Biswa Kalyan Rath ",
+                    "styleId": "header-regular-desktop",
+                    "elementType": "h1"
+                  }
+                ]
+              }
+            ]
+          },
+          "styles": {
+            "about-the-event-tags": {
+              "id": "about-the-event-tags",
+              "padding": "8,0,0,0"
+            },
+            "about-the-event-without-spacing": {
+              "id": "about-the-event-without-spacing",
+              "type": "widget",
+              "padding": "0,16,0,16",
+              "background": {
+                "color": "#FFFFFF"
+              }
+            },
+            "all-venues-bottomsheet": {
+              "id": "all-venues-bottomsheet",
+              "type": "bottomsheet",
+              "padding": "0,32,16,0",
+              "margin": "28,8,16,32",
+              "width": 676
+            },
+            "all-venues-cta-desktop": {
+              "id": "all-venues-cta-desktop",
+              "type": "text",
+              "margin": "0,0,0,36",
+              "font": "small-regular",
+              "fontColor": "#DC354B"
+            },
+            "all-venues-without-spacing": {
+              "id": "all-venues-without-spacing",
+              "type": "widget",
+              "padding": "0,16,8,8",
+              "background": {
+                "color": "#FFFFFF"
+              }
+            },
+            "artist-bottomsheet": {
+              "id": "artist-bottomsheet",
+              "padding": "0,0"
+            },
+            "availability-static-text": {
+              "id": "availability-static-text",
+              "font": "small-medium",
+              "fontColor": "#1A1A1A"
+            },
+            "desktop-all-details-component": {
+              "id": "desktop-all-details-component",
+              "margin": "0,4,0,0",
+              "imageContainer": {
+                "width": 20,
+                "height": 20,
+                "aspectRatio": 1,
+                "padding": "2,0,0,0",
+                "horizontalAlignment": "center"
+              },
+              "textContainer": {
+                "flexWrap": false
+              }
+            },
+            "desktop-all-locations": {
+              "id": "desktop-all-locations",
+              "type": "widget",
+              "padding": "0,20,0,20",
+              "border": {
+                "color": "#D0D5E6",
+                "width": 1,
+                "side": "left,right"
+              }
+            },
+            "desktop-event-details-component": {
+              "id": "desktop-event-details-component",
+              "padding": "4,0,4,0",
+              "margin": "0,4,0,0",
+              "imageContainer": {
+                "width": 20,
+                "height": 20,
+                "aspectRatio": 1,
+                "padding": "2,0,0,0",
+                "horizontalAlignment": "center"
+              },
+              "textContainer": {
+                "flexWrap": false
+              }
+            },
+            "desktop-event-details-text": {
+              "id": "desktop-event-details-text",
+              "type": "text",
+              "padding": "0,0,0,16",
+              "margin": "0,4,4,0",
+              "font": "body-large",
+              "fontColor": "#404040"
+            },
+            "desktop-event-details-widget": {
+              "id": "desktop-event-details-widget",
+              "type": "widget",
+              "padding": "20,20,4,20",
+              "border": {
+                "cornerRadius": "16,16,0,0",
+                "color": "#D0D5E6",
+                "width": 1,
+                "side": "left,top,right"
+              },
+              "background": {
+                "color": "#FFFFFF"
+              }
+            },
+            "desktop-event-separator": {
+              "id": "desktop-event-separator",
+              "padding": "0,4,0,4",
+              "margin": "12,0,12,0",
+              "widthInPercentage": 87,
+              "height": 1,
+              "fillColor": "#CCCCCC",
+              "background": {
+                "color": "#ffffff"
+              }
+            },
+            "desktop-filling-fast-text": {
+              "id": "desktop-filling-fast-text",
+              "font": "small-medium",
+              "fontColor": "#F3993E"
+            },
+            "desktop-interested-widget-button-image": {
+              "id": "desktop-interested-widget-button-image",
+              "type": "image",
+              "padding": "4,4,4,4",
+              "width": 124,
+              "height": 32,
+              "imageContainer": {
+                "margin": "8,0,8,0",
+                "horizontalAlignment": "right"
+              }
+            },
+            "desktop-primary-button-text": {
+              "id": "desktop-primary-button-text",
+              "type": "text",
+              "font": "large-medium",
+              "fontColor": "#ffffff",
+              "horizontalAlignment": "center",
+              "imageVerticalAlignment": "bottom"
+            },
+            "desktop-ticket-lock": {
+              "id": "desktop-ticket-lock",
+              "type": "widget",
+              "padding": "4,16,4,16",
+              "border": {
+                "color": "#D0D5E6",
+                "width": 1,
+                "side": "left,right"
+              },
+              "background": {
+                "color": "#FFFFFF"
+              }
+            },
+            "desktop-ticket-lock-component": {
+              "id": "desktop-ticket-lock-component",
+              "type": "card",
+              "padding": "4,16,4,16",
+              "margin": "0,0,0,0",
+              "border": {
+                "cornerRadius": "8,8,8,8"
+              },
+              "background": {
+                "color": "#FFF9EB"
+              },
+              "imageContainer": {
+                "width": 16,
+                "height": 16,
+                "aspectRatio": 1,
+                "padding": "4,0,0,0",
+                "horizontalAlignment": "center"
+              }
+            },
+            "desktop-venue-bottomsheet-maps-variant-cta": {
+              "id": "desktop-venue-bottomsheet-maps-variant-cta",
+              "type": "text",
+              "padding": "0,4,12,0",
+              "margin": "0,0,0,0",
+              "font": "body-medium",
+              "fontColor": "#DC354B",
+              "cursor": "pointer"
+            },
+            "desktop-venue-bottomsheet-text": {
+              "id": "desktop-venue-bottomsheet-text",
+              "type": "text",
+              "padding": "12,8,4,0",
+              "font": "h6-bold",
+              "fontColor": "#404040"
+            },
+            "desktop-venue-variant-bottomsheet-subtitle": {
+              "id": "desktop-venue-variant-bottomsheet-subtitle",
+              "type": "text",
+              "padding": "6,4,8,0",
+              "widthInPercentage": 90,
+              "font": "body-regular",
+              "fontColor": "#1A1A1A"
+            },
+            "desktop-whitelabel-button-text": {
+              "id": "desktop-whitelabel-button-text",
+              "type": "text",
+              "font": "large-medium",
+              "horizontalAlignment": "center",
+              "imageVerticalAlignment": "bottom"
+            },
+            "event-details-component": {
+              "id": "event-details-component",
+              "padding": "4,0,4,0",
+              "margin": "0,4,0,0",
+              "imageContainer": {
+                "width": 16,
+                "height": 16,
+                "aspectRatio": 1,
+                "padding": "2,0,0,0",
+                "horizontalAlignment": "center"
+              },
+              "textContainer": {
+                "flexWrap": false
+              }
+            },
+            "event-details-cta": {
+              "id": "event-details-cta",
+              "type": "text",
+              "padding": "0,4,2,8",
+              "margin": "0,0,0,0",
+              "font": "tiny-medium",
+              "fontColor": "#DC354B"
+            },
+            "event-details-image": {
+              "id": "event-details-image",
+              "type": "image",
+              "imageContainer": {
+                "width": 16,
+                "height": 16,
+                "margin": "0,0,14,0"
+              }
+            },
+            "event-details-separator": {
+              "id": "event-details-separator",
+              "padding": "4,20,4,20",
+              "widthInPercentage": 100,
+              "height": 1,
+              "fillColor": "#CCCCCC",
+              "border": {
+                "color": "#D0D5E6",
+                "width": 1,
+                "side": "left,right"
+              },
+              "background": {
+                "color": "#ffffff"
+              }
+            },
+            "event-details-text": {
+              "id": "event-details-text",
+              "type": "text",
+              "padding": "0,0,0,4",
+              "margin": "0,0,4,0",
+              "font": "subtitle-medium",
+              "fontColor": "#404040"
+            },
+            "event-tags": {
+              "id": "event-tags",
+              "type": "image",
+              "padding": "2,8,2,8",
+              "margin": "0,8,4,0",
+              "height": 24,
+              "font": "small-regular",
+              "fontColor": "#FFFFFF",
+              "border": {
+                "cornerRadius": "4,4,4,4"
+              },
+              "background": {
+                "color": "#2B3148"
+              }
+            },
+            "event-tags-interested-widget": {
+              "id": "event-tags-interested-widget",
+              "type": "widget",
+              "margin": "4,0,0,0",
+              "background": {
+                "color": "#FFFFFF"
+              }
+            },
+            "event-tags-interested-widget-box": {
+              "id": "event-tags-interested-widget-box",
+              "type": "card",
+              "padding": "0,0,8,0",
+              "background": {
+                "color": "#FFFFFF"
+              },
+              "imageContainer": {},
+              "cardsContainer": {
+                "margin": "0,0,12,0"
+              },
+              "textContainer": {
+                "flexWrap": false
+              }
+            },
+            "event-tags-uninterested-widget-box": {
+              "id": "event-tags-uninterested-widget-box",
+              "type": "card",
+              "padding": "10,0,18,0",
+              "background": {
+                "color": "#FFFFFF"
+              },
+              "imageContainer": {},
+              "cardsContainer": {
+                "margin": "0,0,12,0"
+              },
+              "textContainer": {
+                "flexWrap": false
+              }
+            },
+            "event-title": {
+              "id": "event-title",
+              "type": "widget",
+              "margin": "24,0,0,0",
+              "background": {
+                "color": "#FFFFFF"
+              },
+              "imageContainer": {
+                "width": 28,
+                "height": 28,
+                "horizontalAlignment": "right"
+              },
+              "textContainer": {
+                "flexWrap": false
+              }
+            },
+            "event-title-text": {
+              "id": "event-title-text",
+              "type": "text",
+              "margin": "0,8,0,0",
+              "widthInPercentage": 94,
+              "font": "h4-bold",
+              "fontColor": "#1A1A1A",
+              "backgroundColor": "#FFFFFF"
+            },
+            "event_details_hide_cta": {
+              "id": "event_details_hide_cta",
+              "type": "widget",
+              "padding": "20",
+              "border": {
+                "cornerRadius": "16,16,16,16",
+                "color": "#D0D5E6",
+                "width": 1,
+                "side": "left,top,right,bottom"
+              },
+              "background": {
+                "color": "#FFFFFF"
+              }
+            },
+            "footer-cta": {
+              "id": "footer-cta",
+              "type": "widget",
+              "padding": "0,0,0,0",
+              "margin": "8,12,0,12",
+              "imageVerticalAlignment": "bottom",
+              "background": {
+                "color": "#ffffff"
+              }
+            },
+            "footer-widget-card": {
+              "id": "footer-widget-card",
+              "padding": "4,0,12,0",
+              "alignVertical": "center",
+              "imageVerticalAlignment": "bottom",
+              "direction": "ltr",
+              "border": {
+                "cornerRadius": "0,0,16,16",
+                "color": "#D0D5E6",
+                "width": 1,
+                "side": "left,bottom,right"
+              },
+              "imageContainer": {
+                "width": 16,
+                "height": 16,
+                "aspectRatio": 1,
+                "padding": "2,0,0,0",
+                "horizontalAlignment": "center"
+              },
+              "textContainer": {
+                "flexWrap": false,
+                "padding": "0,0,0,16"
+              }
+            },
+            "header-regular-desktop": {
+              "id": "header-regular-desktop",
+              "font": "h5-bold",
+              "fontColor": "#1A1A1A"
+            },
+            "maps-icon": {
+              "id": "maps-icon",
+              "type": "image",
+              "padding": "4",
+              "aspectRatio": 1,
+              "width": 24,
+              "height": 24,
+              "imageContainer": {
+                "width": 24,
+                "height": 24,
+                "horizontalAlignment": "left"
+              }
+            },
+            "price-dynamic-text": {
+              "id": "price-dynamic-text",
+              "font": "body-bold",
+              "fontColor": "#1A1A1A"
+            },
+            "primary-button": {
+              "id": "primary-button",
+              "type": "button",
+              "margin": "0,4,0,4",
+              "minHeight": 40,
+              "imageVerticalAlignment": "bottom",
+              "widthpct": 100,
+              "border": {
+                "cornerRadius": "8,8,8,8"
+              },
+              "background": {
+                "color": "#F84464"
+              }
+            },
+            "read-more-cta-text": {
+              "id": "read-more-cta-text",
+              "margin": "0,0,0,8",
+              "font": "body-medium",
+              "fontColor": "#DC354B"
+            },
+            "right-interested-widget-image": {
+              "id": "right-interested-widget-image",
+              "type": "image",
+              "padding": "4,4,4,4",
+              "margin": "4,0,4,0",
+              "width": 24,
+              "height": 24
+            },
+            "right-interested-widget-text": {
+              "id": "right-interested-widget-text",
+              "type": "text",
+              "padding": "4,4,4,4",
+              "margin": "0,8,0,4",
+              "font": "body-medium",
+              "fontColor": "#333333",
+              "background": {
+                "color": "#FFFFFF"
+              }
+            },
+            "separator-full": {
+              "id": "separator-full",
+              "padding": "0,16,0,16",
+              "height": 1,
+              "fillColor": "#CCCCCC",
+              "widgetSpacing": "0,0,16,0",
+              "background": {
+                "color": "#ffffff"
+              }
+            },
+            "share-icon": {
+              "id": "share-icon",
+              "type": "image",
+              "width": 36,
+              "height": 36,
+              "imageContainer": {
+                "width": 36,
+                "height": 36,
+                "horizontalAlignment": "top"
+              }
+            },
+            "ticket-limit-text": {
+              "id": "ticket-limit-text",
+              "padding": "0,0,0,4",
+              "margin": "2,0,4,0",
+              "font": "tiny-medium",
+              "fontColor": "#1A1A1A"
+            },
+            "venue-name-variant-bottomsheet-text": {
+              "id": "venue-name-variant-bottomsheet-text",
+              "type": "text",
+              "padding": "12,8,4,0",
+              "font": "large-medium",
+              "fontColor": "#1A1A1A"
+            },
+            "venue-variant-bottomsheet-datetime": {
+              "id": "venue-variant-bottomsheet-datetime",
+              "type": "text",
+              "padding": "6,8,6,0",
+              "font": "small-regular",
+              "fontColor": "#1A1A1A"
+            },
+            "venues-bottomsheet-header": {
+              "id": "venues-bottomsheet-header",
+              "padding": "32,32,32,32",
+              "font": "h4-bold",
+              "fontColor": "#333333"
+            }
+          },
+          "widgets": {
+            "BOOK_CTA": {
+              "id": "BOOK_CTA",
+              "itemsPerRow": 1,
+              "type": "footer",
+              "styleId": "footer-cta",
+              "visibleItems": 1,
+              "uuid": "BOOK_CTA_WIDGET",
+              "cards": [
+                {
+                  "type": "horizontal",
+                  "styleId": "footer-widget-card",
+                  "uuid": "FOOTER_CARD",
+                  "text": [
+                    {
+                      "styleId": "price-dynamic-text",
+                      "uuid": "BOOK_CTA|SESSION_PRICE_DETAILS_TEXT|EVENT_PRICE_DYNAMIC_TEXT",
+                      "components": [
+                        {
+                          "type": "text",
+                          "uuid": "BOOK_CTA|SESSION_PRICE_DETAILS_TEXT|EVENT_PRICE_DYNAMIC_TEXT|0",
+                          "text": "\u20b9799 onwards"
+                        }
+                      ]
+                    },
+                    {
+                      "styleId": "desktop-filling-fast-text",
+                      "uuid": "BOOK_CTA|SESSION_PRICE_DETAILS_TEXT|EVENT_AVAILABILITY_STATUS_TEXT",
+                      "components": [
+                        {
+                          "type": "text",
+                          "uuid": "BOOK_CTA|SESSION_PRICE_DETAILS_TEXT|EVENT_AVAILABILITY_STATUS_TEXT|0",
+                          "text": "Filling Fast"
+                        }
+                      ]
+                    }
+                  ],
+                  "flexWrap": "wrap",
+                  "buttons": [
+                    {
+                      "styleId": "primary-button",
+                      "uuid": "BOOK_CTA|FOOTER_BUTTON_CTA|SYNOPSIS_BUTTON_CTA",
+                      "label": {
+                        "styleId": "desktop-primary-button-text",
+                        "uuid": "BOOK_CTA|FOOTER_BUTTON_CTA|SYNOPSIS_BUTTON_CTA",
+                        "components": [
+                          {
+                            "type": "text",
+                            "uuid": "BOOK_CTA|FOOTER_BUTTON_CTA|SYNOPSIS_BUTTON_CTA|0",
+                            "text": "Book Now"
+                          }
+                        ]
+                      },
+                      "cta": {
+                        "id": "FOOTER_CTA",
+                        "type": "router_m6",
+                        "url": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541/venue",
+                        "analytics": {
+                          "event_name": "synopsis_book_clicked",
+                          "event_action": "login_to_register"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "DESKTOP_ALL_LOCATIONS": {
+              "id": "DESKTOP_ALL_LOCATIONS",
+              "itemsPerRow": 1,
+              "type": "flexbox",
+              "styleId": "desktop-all-locations",
+              "cards": [
+                {
+                  "type": "horizontal",
+                  "styleId": "desktop-event-details-component",
+                  "text": [
+                    {
+                      "type": "horizontal",
+                      "styleId": "desktop-all-details-component",
+                      "uuid": "DESKTOP_ALL_LOCATIONS|DESKTOP_ALL_LOCATIONS_TEMPLATE|DESKTOP_MULTIPLE_LOCATIONS_CTA",
+                      "components": [
+                        {
+                          "type": "text",
+                          "uuid": "DESKTOP_ALL_LOCATIONS|DESKTOP_ALL_LOCATIONS_TEMPLATE|DESKTOP_MULTIPLE_LOCATIONS_CTA|0",
+                          "text": "View 9 Other Venues",
+                          "styleId": "all-venues-cta-desktop",
+                          "cta": {
+                            "id": "",
+                            "type": "bottomsheet",
+                            "additionalData": {
+                              "bottomSheetData": {
+                                "backgroundColor": "#808080",
+                                "styleId": "all-venues-bottomsheet",
+                                "header": {
+                                  "text": [
+                                    {
+                                      "styleId": "venues-bottomsheet-header",
+                                      "uuid": "DESKTOP_VIEW_ALL_BOTTOMSHEET_HEADER|TEXT_HORIZONTAL",
+                                      "components": [
+                                        {
+                                          "type": "text",
+                                          "uuid": "DESKTOP_VIEW_ALL_BOTTOMSHEET_HEADER|TEXT_HORIZONTAL|0",
+                                          "text": "Venues"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "widgets": [
+                                  {
+                                    "type": "text",
+                                    "styleId": "",
+                                    "data": [
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_REGION_TEXT|",
+                                            "text": "Mumbai (2 venues)",
+                                            "styleId": "desktop-venue-bottomsheet-text"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TEXT|",
+                                            "text": "Kashinath Ghanekar Natyagruha: Thane (W)",
+                                            "styleId": "venue-name-variant-bottomsheet-text"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TIME_TEXT|",
+                                            "text": "Fri 15 May 2026 | 08:00 PM",
+                                            "styleId": "venue-variant-bottomsheet-datetime"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_SUBTITLE_TEXT|",
+                                            "text": "Doctor Kashinath Ghanekar Natyagruha, Hiranandani Meadows, Ghodbunder Road, Mumbai, Maharashtra 400028, India",
+                                            "styleId": "desktop-venue-variant-bottomsheet-subtitle"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_VIEW_ON_MAPS_VARIANT_TEXT|",
+                                            "text": "View On Maps",
+                                            "styleId": "desktop-venue-bottomsheet-maps-variant-cta",
+                                            "cta": {
+                                              "type": "external",
+                                              "analytics": {
+                                                "event_name": "synopsis_cta_clicked",
+                                                "event_action": "view_on_map"
+                                              },
+                                              "url": "https://www.google.com/maps/search/?api=1&query=19.2295,72.97"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TEXT|",
+                                            "text": "Shanmukhananda Hall: Mumbai",
+                                            "styleId": "venue-name-variant-bottomsheet-text"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TIME_TEXT|",
+                                            "text": "Sun 17 May 2026 | 03:30 PM",
+                                            "styleId": "venue-variant-bottomsheet-datetime"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_SUBTITLE_TEXT|",
+                                            "text": "Behind Gandhi Market, Comrade Harbanslal Marg, Sion, Mumbai, Maharashtra 400022, India",
+                                            "styleId": "desktop-venue-variant-bottomsheet-subtitle"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_VIEW_ON_MAPS_VARIANT_TEXT|",
+                                            "text": "View On Maps",
+                                            "styleId": "desktop-venue-bottomsheet-maps-variant-cta",
+                                            "cta": {
+                                              "type": "external",
+                                              "analytics": {
+                                                "event_name": "synopsis_cta_clicked",
+                                                "event_action": "view_on_map"
+                                              },
+                                              "url": "https://www.google.com/maps/search/?api=1&query=19.0316,72.8598"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "separator",
+                                        "styleId": "desktop-event-separator",
+                                        "data": {
+                                          "styleId": "desktop-event-separator"
+                                        }
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_REGION_TEXT|",
+                                            "text": "Pune (1 venue)",
+                                            "styleId": "desktop-venue-bottomsheet-text"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TEXT|",
+                                            "text": "Jawaharlal Nehru Memorial Hall: Pune",
+                                            "styleId": "venue-name-variant-bottomsheet-text"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TIME_TEXT|",
+                                            "text": "Sat 30 May 2026 | 03:00 PM",
+                                            "styleId": "venue-variant-bottomsheet-datetime"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_SUBTITLE_TEXT|",
+                                            "text": "4, Atur Foundation House, Dr. Ambedkar Road, Pune, Maharashtra 411001, India",
+                                            "styleId": "desktop-venue-variant-bottomsheet-subtitle"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_VIEW_ON_MAPS_VARIANT_TEXT|",
+                                            "text": "View On Maps",
+                                            "styleId": "desktop-venue-bottomsheet-maps-variant-cta",
+                                            "cta": {
+                                              "type": "external",
+                                              "analytics": {
+                                                "event_name": "synopsis_cta_clicked",
+                                                "event_action": "view_on_map"
+                                              },
+                                              "url": "https://www.google.com/maps/search/?api=1&query=18.5198,73.8758"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "separator",
+                                        "styleId": "desktop-event-separator",
+                                        "data": {
+                                          "styleId": "desktop-event-separator"
+                                        }
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_REGION_TEXT|",
+                                            "text": "Hyderabad (1 venue)",
+                                            "styleId": "desktop-venue-bottomsheet-text"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TEXT|",
+                                            "text": "Shilpakala Vedika: Hyderabad",
+                                            "styleId": "venue-name-variant-bottomsheet-text"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TIME_TEXT|",
+                                            "text": "Sun 10 May 2026 | 03:30 PM",
+                                            "styleId": "venue-variant-bottomsheet-datetime"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_SUBTITLE_TEXT|",
+                                            "text": "Shilparamam, Hitech, Hitech City Rd, Jubilee Enclave, Hyderabad, Telangana 500081, India",
+                                            "styleId": "desktop-venue-variant-bottomsheet-subtitle"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_VIEW_ON_MAPS_VARIANT_TEXT|",
+                                            "text": "View On Maps",
+                                            "styleId": "desktop-venue-bottomsheet-maps-variant-cta",
+                                            "cta": {
+                                              "type": "external",
+                                              "analytics": {
+                                                "event_name": "synopsis_cta_clicked",
+                                                "event_action": "view_on_map"
+                                              },
+                                              "url": "https://www.google.com/maps/search/?api=1&query=17.4514,78.3795"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "separator",
+                                        "styleId": "desktop-event-separator",
+                                        "data": {
+                                          "styleId": "desktop-event-separator"
+                                        }
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_REGION_TEXT|",
+                                            "text": "Bengaluru (3 venues)",
+                                            "styleId": "desktop-venue-bottomsheet-text"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TEXT|",
+                                            "text": "MLR Convention Centre: Whitefield, Bengaluru",
+                                            "styleId": "venue-name-variant-bottomsheet-text"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TIME_TEXT|",
+                                            "text": "Sat 23 May 2026 | 04:00 PM",
+                                            "styleId": "venue-variant-bottomsheet-datetime"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_SUBTITLE_TEXT|",
+                                            "text": "4th Cross Rd, Kaveri Nagar, Whitefield,Bengaluru, Karnataka 560048, India",
+                                            "styleId": "desktop-venue-variant-bottomsheet-subtitle"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_VIEW_ON_MAPS_VARIANT_TEXT|",
+                                            "text": "View On Maps",
+                                            "styleId": "desktop-venue-bottomsheet-maps-variant-cta",
+                                            "cta": {
+                                              "type": "external",
+                                              "analytics": {
+                                                "event_name": "synopsis_cta_clicked",
+                                                "event_action": "view_on_map"
+                                              },
+                                              "url": "https://www.google.com/maps/search/?api=1&query=12.9991,77.7017"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TEXT|",
+                                            "text": "Good Shepherd Auditorium: Bengaluru",
+                                            "styleId": "venue-name-variant-bottomsheet-text"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TIME_TEXT|",
+                                            "text": "Sun 24 May 2026 | 04:00 PM",
+                                            "styleId": "venue-variant-bottomsheet-datetime"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_SUBTITLE_TEXT|",
+                                            "text": "Museum Road, Opposite Patricks Church, Shanthala Nagar, Richmond Town, Bengaluru, Karnataka 560025, India",
+                                            "styleId": "desktop-venue-variant-bottomsheet-subtitle"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_VIEW_ON_MAPS_VARIANT_TEXT|",
+                                            "text": "View On Maps",
+                                            "styleId": "desktop-venue-bottomsheet-maps-variant-cta",
+                                            "cta": {
+                                              "type": "external",
+                                              "analytics": {
+                                                "event_name": "synopsis_cta_clicked",
+                                                "event_action": "view_on_map"
+                                              },
+                                              "url": "https://www.google.com/maps/search/?api=1&query=12.9704,77.6046"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TEXT|",
+                                            "text": "Viveka Auditorium: Bengaluru",
+                                            "styleId": "venue-name-variant-bottomsheet-text"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TIME_TEXT|",
+                                            "text": "Fri 22 May 2026 | 08:00 PM",
+                                            "styleId": "venue-variant-bottomsheet-datetime"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_SUBTITLE_TEXT|",
+                                            "text": "Yuvapatha, 4, 31st cross Road, 4th T Block East, 4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+                                            "styleId": "desktop-venue-variant-bottomsheet-subtitle"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_VIEW_ON_MAPS_VARIANT_TEXT|",
+                                            "text": "View On Maps",
+                                            "styleId": "desktop-venue-bottomsheet-maps-variant-cta",
+                                            "cta": {
+                                              "type": "external",
+                                              "analytics": {
+                                                "event_name": "synopsis_cta_clicked",
+                                                "event_action": "view_on_map"
+                                              },
+                                              "url": "https://www.google.com/maps/search/?api=1&query=12.9272,77.5872"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "separator",
+                                        "styleId": "desktop-event-separator",
+                                        "data": {
+                                          "styleId": "desktop-event-separator"
+                                        }
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_REGION_TEXT|",
+                                            "text": "Chennai (1 venue)",
+                                            "styleId": "desktop-venue-bottomsheet-text"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TEXT|",
+                                            "text": "Music Academy: Chennai",
+                                            "styleId": "venue-name-variant-bottomsheet-text"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TIME_TEXT|",
+                                            "text": "Sun 14 Jun 2026 | 07:30 PM",
+                                            "styleId": "venue-variant-bottomsheet-datetime"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_SUBTITLE_TEXT|",
+                                            "text": "No. 168, TT Krishnamachari Road, Royapettah, Pudupet, Gopalapuram, Chennai, Tamil Nadu 600004, India",
+                                            "styleId": "desktop-venue-variant-bottomsheet-subtitle"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_VIEW_ON_MAPS_VARIANT_TEXT|",
+                                            "text": "View On Maps",
+                                            "styleId": "desktop-venue-bottomsheet-maps-variant-cta",
+                                            "cta": {
+                                              "type": "external",
+                                              "analytics": {
+                                                "event_name": "synopsis_cta_clicked",
+                                                "event_action": "view_on_map"
+                                              },
+                                              "url": "https://www.google.com/maps/search/?api=1&query=13.0459,80.2595"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "separator",
+                                        "styleId": "desktop-event-separator",
+                                        "data": {
+                                          "styleId": "desktop-event-separator"
+                                        }
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_REGION_TEXT|",
+                                            "text": "Delhi-NCR (1 venue)",
+                                            "styleId": "desktop-venue-bottomsheet-text"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TEXT|",
+                                            "text": "Kedarnath Sahni Auditorium: Delhi",
+                                            "styleId": "venue-name-variant-bottomsheet-text"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TIME_TEXT|",
+                                            "text": "Sat 06 Jun 2026 | 04:00 PM",
+                                            "styleId": "venue-variant-bottomsheet-datetime"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_SUBTITLE_TEXT|",
+                                            "text": "J.L Nehru Marg, SKD Basti, Press Enclave, Ajmere Gate, Delhi, NCR 110002, India",
+                                            "styleId": "desktop-venue-variant-bottomsheet-subtitle"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_VIEW_ON_MAPS_VARIANT_TEXT|",
+                                            "text": "View On Maps",
+                                            "styleId": "desktop-venue-bottomsheet-maps-variant-cta",
+                                            "cta": {
+                                              "type": "external",
+                                              "analytics": {
+                                                "event_name": "synopsis_cta_clicked",
+                                                "event_action": "view_on_map"
+                                              },
+                                              "url": "https://www.google.com/maps/search/?api=1&query=28.6409,77.2274"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "separator",
+                                        "styleId": "desktop-event-separator",
+                                        "data": {
+                                          "styleId": "desktop-event-separator"
+                                        }
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_REGION_TEXT|",
+                                            "text": "Kolkata (1 venue)",
+                                            "styleId": "desktop-venue-bottomsheet-text"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "components": [
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TEXT|",
+                                            "text": "Kala Mandir Auditorium: Kolkata",
+                                            "styleId": "venue-name-variant-bottomsheet-text"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_TIME_TEXT|",
+                                            "text": "Sun 31 May 2026 | 03:30 PM",
+                                            "styleId": "venue-variant-bottomsheet-datetime"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_BOTTOMSHEET_SUBTITLE_TEXT|",
+                                            "text": "48, Shakespeare Sarani, Theatre Road, Kolkata, West Bengal 700017, India",
+                                            "styleId": "desktop-venue-variant-bottomsheet-subtitle"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "uuid": "DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_WIDGET|DESKTOP_VIEW_ALL_VENUES_BOTTOMSHEET_VARIANT_TEMPLATE|DESKTOP_VENUE_VIEW_ON_MAPS_VARIANT_TEXT|",
+                                            "text": "View On Maps",
+                                            "styleId": "desktop-venue-bottomsheet-maps-variant-cta",
+                                            "cta": {
+                                              "type": "external",
+                                              "analytics": {
+                                                "event_name": "synopsis_cta_clicked",
+                                                "event_action": "view_on_map"
+                                              },
+                                              "url": "https://www.google.com/maps/search/?api=1&query=22.5442,88.3595"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "separator",
+                                        "styleId": "desktop-event-separator",
+                                        "data": {
+                                          "styleId": "desktop-event-separator"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            },
+                            "analytics": {
+                              "event_name": "synopsis_cta_clicked",
+                              "event_action": "more_venue"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "flexWrap": "wrap"
+                }
+              ]
+            },
+            "DESKTOP_EVENT_DETAILS": {
+              "id": "DESKTOP_EVENT_DETAILS",
+              "itemsPerRow": 1,
+              "type": "flexbox",
+              "styleId": "desktop-event-details-widget",
+              "imgQuickLoad": true,
+              "cards": [
+                {
+                  "type": "horizontal",
+                  "styleId": "desktop-event-details-component",
+                  "image": {
+                    "url": "https://assets-in.bmscdn.com/nmcms/synopsis/calendar.png",
+                    "uuid": "|",
+                    "type": "image"
+                  },
+                  "text": [
+                    {
+                      "type": "horizontal",
+                      "uuid": "DESKTOP_EVENT_DETAILS|1|DESKTOP_EVENTS_DETAILS_TEMPLATE|0|DESKTOP_EVENT_DETAILS_TEXT",
+                      "components": [
+                        {
+                          "type": "text",
+                          "uuid": "DESKTOP_EVENT_DETAILS|1|DESKTOP_EVENTS_DETAILS_TEMPLATE|0|DESKTOP_EVENT_DETAILS_TEXT|0",
+                          "text": "Sun 10 May 2026 - Sun 14 Jun 2026",
+                          "styleId": "desktop-event-details-text"
+                        }
+                      ]
+                    }
+                  ],
+                  "flexWrap": "unset"
+                },
+                {
+                  "type": "horizontal",
+                  "styleId": "desktop-event-details-component",
+                  "image": {
+                    "url": "https://assets-in.bmscdn.com/nmcms/synopsis/duration.png",
+                    "uuid": "|",
+                    "type": "image"
+                  },
+                  "text": [
+                    {
+                      "type": "horizontal",
+                      "uuid": "DESKTOP_EVENT_DETAILS|1|DESKTOP_EVENTS_DETAILS_TEMPLATE|0|DESKTOP_EVENT_DETAILS_TEXT",
+                      "components": [
+                        {
+                          "type": "text",
+                          "uuid": "DESKTOP_EVENT_DETAILS|1|DESKTOP_EVENTS_DETAILS_TEMPLATE|0|DESKTOP_EVENT_DETAILS_TEXT|0",
+                          "text": "1 hour 15 minutes",
+                          "styleId": "desktop-event-details-text"
+                        }
+                      ]
+                    }
+                  ],
+                  "flexWrap": "unset"
+                },
+                {
+                  "type": "horizontal",
+                  "styleId": "desktop-event-details-component",
+                  "image": {
+                    "url": "https://assets-in.bmscdn.com/nmcms/synopsis/key_info/age_limit.png",
+                    "uuid": "|",
+                    "type": "image"
+                  },
+                  "text": [
+                    {
+                      "type": "horizontal",
+                      "uuid": "DESKTOP_EVENT_DETAILS|1|DESKTOP_EVENTS_DETAILS_TEMPLATE|0|DESKTOP_EVENT_DETAILS_TEXT",
+                      "components": [
+                        {
+                          "type": "text",
+                          "uuid": "DESKTOP_EVENT_DETAILS|1|DESKTOP_EVENTS_DETAILS_TEMPLATE|0|DESKTOP_EVENT_DETAILS_TEXT|0",
+                          "text": "Age Limit - 16yrs +",
+                          "styleId": "desktop-event-details-text"
+                        }
+                      ]
+                    }
+                  ],
+                  "flexWrap": "unset"
+                },
+                {
+                  "type": "horizontal",
+                  "styleId": "desktop-event-details-component",
+                  "image": {
+                    "url": "https://assets-in.bmscdn.com/nmcms/synopsis/language.png",
+                    "uuid": "|",
+                    "type": "image"
+                  },
+                  "text": [
+                    {
+                      "type": "horizontal",
+                      "uuid": "DESKTOP_EVENT_DETAILS|1|DESKTOP_EVENTS_DETAILS_TEMPLATE|0|DESKTOP_EVENT_DETAILS_TEXT",
+                      "components": [
+                        {
+                          "type": "text",
+                          "uuid": "DESKTOP_EVENT_DETAILS|1|DESKTOP_EVENTS_DETAILS_TEMPLATE|0|DESKTOP_EVENT_DETAILS_TEXT|0",
+                          "text": "Hindi, English",
+                          "styleId": "desktop-event-details-text"
+                        }
+                      ]
+                    }
+                  ],
+                  "flexWrap": "unset"
+                },
+                {
+                  "type": "horizontal",
+                  "styleId": "desktop-event-details-component",
+                  "image": {
+                    "url": "https://assets-in.bmscdn.com/nmcms/synopsis/genre.png",
+                    "uuid": "|",
+                    "type": "image"
+                  },
+                  "text": [
+                    {
+                      "type": "horizontal",
+                      "uuid": "DESKTOP_EVENT_DETAILS|1|DESKTOP_EVENTS_DETAILS_TEMPLATE|0|DESKTOP_EVENT_DETAILS_TEXT",
+                      "components": [
+                        {
+                          "type": "text",
+                          "uuid": "DESKTOP_EVENT_DETAILS|1|DESKTOP_EVENTS_DETAILS_TEMPLATE|0|DESKTOP_EVENT_DETAILS_TEXT|0",
+                          "text": "Comedy",
+                          "styleId": "desktop-event-details-text"
+                        }
+                      ]
+                    }
+                  ],
+                  "flexWrap": "unset"
+                },
+                {
+                  "type": "horizontal",
+                  "styleId": "desktop-event-details-component",
+                  "image": {
+                    "url": "https://assets-in.bmscdn.com/nmcms/synopsis/location.png",
+                    "uuid": "|",
+                    "type": "image"
+                  },
+                  "text": [
+                    {
+                      "uuid": "DESKTOP_EVENT_DETAILS|DESKTOP_EVENT_LOCATION_TEMPLATE",
+                      "type": "horizontal",
+                      "components": [
+                        {
+                          "type": "text",
+                          "uuid": "DESKTOP_EVENT_DETAILS|2|DESKTOP_EVENT_LOCATION_TEMPLATE|0|DESKTOP_EVENT_DETAILS_TEXT|",
+                          "text": "Kashinath Ghanekar Natyagruha: Thane (W)",
+                          "styleId": "desktop-event-details-text"
+                        },
+                        {
+                          "styleId": "maps-icon",
+                          "uuid": "DESKTOP_EVENT_DETAILS|2|DESKTOP_EVENT_LOCATION_TEMPLATE|1|DESKTOP_VIEW_ON_MAPS_ICON|",
+                          "type": "image",
+                          "imageUrl": "https://assets-in.bmscdn.com/nmcms/synopsis/navigate_icon.png",
+                          "cta": {
+                            "type": "external",
+                            "url": "https://www.google.com/maps/search/?api=1&query=19.229500,72.970000",
+                            "analytics": {
+                              "event_name": "synopsis_cta_clicked",
+                              "event_action": "view_on_map"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "flexWrap": "unset"
+                }
+              ]
+            },
+            "DESKTOP_FAST_FILLING": {
+              "id": "DESKTOP_FAST_FILLING",
+              "itemsPerRow": 1,
+              "type": "flexbox",
+              "styleId": "desktop-ticket-lock",
+              "imgQuickLoad": true,
+              "cards": [
+                {
+                  "type": "horizontal",
+                  "styleId": "desktop-ticket-lock-component",
+                  "uuid": "DESKTOP_FAST_FILLING_USER_TICKET_LOCK_IMAGE",
+                  "image": {
+                    "url": "https://assets-in.bmscdn.com/nmcms/synopsis/info.png",
+                    "uuid": "DESKTOP_FAST_FILLING|DESKTOP_TICKET_LOCK_IMAGE|IMAGE|",
+                    "type": "image"
+                  },
+                  "text": [
+                    {
+                      "type": "text",
+                      "styleId": "ticket-limit-text",
+                      "uuid": "DESKTOP_FAST_FILLING|USER_TICKET_LOCK_TEXT|TEXT_HORIZONTAL",
+                      "components": [
+                        {
+                          "type": "text",
+                          "uuid": "DESKTOP_FAST_FILLING|USER_TICKET_LOCK_TEXT|TEXT_HORIZONTAL|0",
+                          "text": "Bookings are filling fast for Mumbai"
+                        }
+                      ]
+                    }
+                  ],
+                  "flexWrap": "wrap"
+                }
+              ]
+            },
+            "EVENT_TAGS_AND_INTERESTED": {
+              "id": "EVENT_TAGS_AND_INTERESTED",
+              "itemsPerRow": 1,
+              "type": "flexbox",
+              "styleId": "event-tags-interested-widget",
+              "visibleItems": 1,
+              "imgQuickLoad": true,
+              "cards": [
+                {
+                  "type": "horizontal",
+                  "styleId": "event-tags-interested-widget-box",
+                  "uuid": "EVENT_TAGS_AND_INTERESTED|RIGHT_INTERESTED_IMAGE|CARD",
+                  "flexWrap": "wrap",
+                  "leftRightText": [
+                    {
+                      "leftText": {
+                        "uuid": "LEFT_TEXT|COMPONENT",
+                        "text": [
+                          {
+                            "uuid": "LEFT_TEXT",
+                            "components": [
+                              {
+                                "type": "text",
+                                "uuid": "EVENT_TAGS_AND_INTERESTED|LEFT_TEXT_EVENT_TAGS|TEXT_HORIZONTAL|",
+                                "text": "Stand up Comedy",
+                                "styleId": "event-tags"
+                              },
+                              {
+                                "type": "text",
+                                "uuid": "EVENT_TAGS_AND_INTERESTED|LEFT_TEXT_EVENT_TAGS|TEXT_HORIZONTAL|",
+                                "text": "Comedy Shows",
+                                "styleId": "event-tags"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      "rightText": {
+                        "uuid": "RIGHT_TEXT|COMPONENT",
+                        "text": [
+                          {
+                            "uuid": "RIGHT_TEXT",
+                            "components": [
+                              {
+                                "styleId": "right-interested-widget-image",
+                                "uuid": "EVENT_TAGS_AND_INTERESTED|RIGHT_TEXT_INTERESTED_LIKE_IMAGE|RIGHT_INTERSTED_LIKE_IMAGE|",
+                                "type": "image",
+                                "imageUrl": "https://assets-in.bmscdn.com/nmcms/synopsis/like_icon.png"
+                              },
+                              {
+                                "type": "text",
+                                "uuid": "EVENT_TAGS_AND_INTERESTED|RIGHT_TEXT_INTERESTED_COUNT|RIGHT_INTERESTED_COUNT|",
+                                "text": "1.4k are interested",
+                                "styleId": "right-interested-widget-text"
+                              },
+                              {
+                                "styleId": "desktop-interested-widget-button-image",
+                                "uuid": "EVENT_TAGS_AND_INTERESTED|RIGHT_INTERESTED_IMAGE|DESKTOP_RIGHT_INTERESTED_IMAGE|",
+                                "type": "image",
+                                "imageUrl": "https://assets-in.bmscdn.com/nmcms/synopsis/interested_desktop.png",
+                                "cta": {
+                                  "id": "login",
+                                  "type": "bottomsheet",
+                                  "url": "https://in.bookmyshow.com/login",
+                                  "analytics": {
+                                    "event_name": "interested_button_clicked"
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "tooltip": {}
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "EVENT_TITLE": {
+              "id": "EVENT_TITLE",
+              "itemsPerRow": 1,
+              "type": "flexbox",
+              "styleId": "event-title",
+              "imgQuickLoad": true,
+              "cards": [
+                {
+                  "type": "horizontal",
+                  "styleId": "event-title",
+                  "uuid": "event_title_widget_card",
+                  "text": [
+                    {
+                      "styleId": "event-title-text",
+                      "uuid": "EVENT_TITLE|EVENT_TITLE_TEMPLATE|EVENT_TITLE_TEXT",
+                      "h1Header": true,
+                      "components": [
+                        {
+                          "type": "text",
+                          "uuid": "EVENT_TITLE|EVENT_TITLE_TEMPLATE|EVENT_TITLE_TEXT|0",
+                          "text": "Inventions by Biswa Kalyan Rath ",
+                          "styleId": "event-title-text"
+                        },
+                        {
+                          "styleId": "share-icon",
+                          "uuid": "EVENT_TITLE|EVENT_SHARE_ICON|EVENT_SHARE_ICON|",
+                          "type": "image",
+                          "imageUrl": "https://assets-in.bmscdn.com/nmcms/synopsis/share_v2.png",
+                          "cta": {
+                            "type": "share",
+                            "url": "https://in.bookmyshow.com/events/biswa-kalyan-rath-live/ET00415541",
+                            "description": "Hey checkout this event :- ",
+                            "analytics": {
+                              "event_name": "synopsis_cta_clicked",
+                              "event_action": "share"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "flexWrap": "unset"
+                }
+              ]
+            },
+            "SEPARATOR": {
+              "type": "separator",
+              "styleId": "event-details-separator",
+              "data": {
+                "styleId": "event-details-separator"
+              }
+            }
+          },
+          "rankingKey": "default_DESKTOP",
+          "parsedStyles": {
+            "about-the-event-tags": "padding: 8px 0 0 0;",
+            "about-the-event-without-spacing": "padding: 0 16px 0 16px;",
+            "all-venues-bottomsheet": "width: 676px;margin: 28px 8px 16px 32px;padding: 0 32px 16px 0;box-sizing: content-box;",
+            "all-venues-cta-desktop": "color: rgba(220, 53, 75, 1);margin: 0 0 0 36px;font-size: 14px; font-weight: 400; line-height: 20px; letter-spacing: 0.2px;",
+            "all-venues-without-spacing": "padding: 0 16px 8px 8px;",
+            "artist-bottomsheet": "padding: 0 0;",
+            "availability-static-text": "color: rgba(26, 26, 26, 1);font-size: 14px; font-weight: 500; line-height: 20px; letter-spacing: 0.2px;",
+            "desktop-all-details-component": "margin: 0 4px 0 0;",
+            "desktop-all-locations": "padding: 0 20px 0 20px;border-left,right: 1px solid rgba(208, 213, 230, 1);",
+            "desktop-event-details-component": "margin: 0 4px 0 0;padding: 4px 0 4px 0;",
+            "desktop-event-details-text": "color: rgba(64, 64, 64, 1);margin: 0 4px 4px 0;padding: 0 0 0 16px;font-family: Roboto;font-size: 16px;font-weight: normal;line-height: 1.5;",
+            "desktop-event-details-widget": "border-radius: 16px 16px 0 0;padding: 20px 20px 4px 20px;border-left,top,right: 1px solid rgba(208, 213, 230, 1);",
+            "desktop-event-separator": "width: 87%;height: 1px;background-color: rgba(204, 204, 204, 1);margin: 12px 0 12px 0;padding: 0 4px 0 4px;",
+            "desktop-filling-fast-text": "color: rgba(243, 153, 62, 1);font-size: 14px; font-weight: 500; line-height: 20px; letter-spacing: 0.2px;",
+            "desktop-interested-widget-button-image": "width: 124px;height: 32px;padding: 4px 4px 4px 4px;box-sizing: content-box;",
+            "desktop-primary-button-text": "color: rgba(255, 255, 255, 1);font-size: 18px; font-weight: 500; line-height: 24px;justify-content: center;",
+            "desktop-ticket-lock": "padding: 4px 16px 4px 16px;border-left,right: 1px solid rgba(208, 213, 230, 1);",
+            "desktop-ticket-lock-component": "border-radius: 8px 8px 8px 8px;margin: 0 0 0 0;padding: 4px 16px 4px 16px;",
+            "desktop-venue-bottomsheet-maps-variant-cta": "color: rgba(220, 53, 75, 1);margin: 0 0 0 0;padding: 0 4px 12px 0;font-size: 16px; font-weight: 500; line-height: 20px; letter-spacing: 0.2px;cursor: pointer;",
+            "desktop-venue-bottomsheet-text": "color: rgba(64, 64, 64, 1);padding: 12px 8px 4px 0;font-family: Roboto;font-size: 21px;font-weight: 700;line-height: 1.33;",
+            "desktop-venue-variant-bottomsheet-subtitle": "width: 90%;color: rgba(26, 26, 26, 1);padding: 6px 4px 8px 0;font-size: 16px; font-weight: 400; line-height: 24px; letter-spacing: 0.2px;",
+            "desktop-whitelabel-button-text": "font-size: 18px; font-weight: 500; line-height: 24px;justify-content: center;",
+            "event-details-component": "margin: 0 4px 0 0;padding: 4px 0 4px 0;",
+            "event-details-cta": "color: rgba(220, 53, 75, 1);margin: 0 0 0 0;padding: 0 4px 2px 8px;font-size: 12px; font-weight: 500; line-height: 16px; letter-spacing: 0.2px;",
+            "event-details-image": "",
+            "event-details-separator": "width: 100%;height: 1px;background-color: rgba(204, 204, 204, 1);padding: 4px 20px 4px 20px;border-left,right: 1px solid rgba(208, 213, 230, 1);",
+            "event-details-text": "color: rgba(64, 64, 64, 1);margin: 0 0 4px 0;padding: 0 0 0 4px;font-family: Roboto;font-size: 14px;font-weight: 500;line-height: 1.5;",
+            "event-tags": "height: 24px;color: rgba(255, 255, 255, 1);border-radius: 4px 4px 4px 4px;margin: 0 8px 4px 0;padding: 2px 8px 2px 8px;font-size: 14px; font-weight: 400; line-height: 20px; letter-spacing: 0.2px;",
+            "event-tags-interested-widget": "margin: 4px 0 0 0;",
+            "event-tags-interested-widget-box": "padding: 0 0 8px 0;",
+            "event-tags-uninterested-widget-box": "padding: 10px 0 18px 0;",
+            "event-title": "margin: 24px 0 0 0;",
+            "event-title-text": "width: 94%;color: rgba(26, 26, 26, 1);background-color: rgba(255, 255, 255, 1);margin: 0 8px 0 0;font-size: 32px; font-weight: 700; line-height: 36px;",
+            "event_details_hide_cta": "border-radius: 16px 16px 16px 16px;padding: 20px;border-left,top,right,bottom: 1px solid rgba(208, 213, 230, 1);",
+            "footer-cta": "margin: 8px 12px 0 12px;padding: 0 0 0 0;",
+            "footer-widget-card": "border-radius: 0 0 16px 16px;padding: 4px 0 12px 0;border-left,bottom,right: 1px solid rgba(208, 213, 230, 1);align-self: center;",
+            "header-regular-desktop": "color: rgba(26, 26, 26, 1);font-size: 24px; font-weight: 700; line-height: 30px;",
+            "maps-icon": "width: 24px;height: 24px;padding: 4px;box-sizing: content-box;",
+            "price-dynamic-text": "color: rgba(26, 26, 26, 1);font-size: 16px; font-weight: 700; line-height: 24px; letter-spacing: 0.2px;",
+            "primary-button": "border-radius: 8px 8px 8px 8px;margin: 0 4px 0 4px;",
+            "read-more-cta-text": "color: rgba(220, 53, 75, 1);margin: 0 0 0 8px;font-size: 16px; font-weight: 500; line-height: 20px; letter-spacing: 0.2px;",
+            "right-interested-widget-image": "width: 24px;height: 24px;margin: 4px 0 4px 0;padding: 4px 4px 4px 4px;box-sizing: content-box;",
+            "right-interested-widget-text": "color: rgba(51, 51, 51, 1);margin: 0 8px 0 4px;padding: 4px 4px 4px 4px;font-size: 16px; font-weight: 500; line-height: 20px; letter-spacing: 0.2px;",
+            "separator-full": "height: 1px;background-color: rgba(204, 204, 204, 1);padding: 0 16px 0 16px;",
+            "share-icon": "width: 36px;height: 36px;",
+            "ticket-limit-text": "color: rgba(26, 26, 26, 1);margin: 2px 0 4px 0;padding: 0 0 0 4px;font-size: 12px; font-weight: 500; line-height: 16px; letter-spacing: 0.2px;",
+            "venue-name-variant-bottomsheet-text": "color: rgba(26, 26, 26, 1);padding: 12px 8px 4px 0;font-size: 18px; font-weight: 500; line-height: 24px;",
+            "venue-variant-bottomsheet-datetime": "color: rgba(26, 26, 26, 1);padding: 6px 8px 6px 0;font-size: 14px; font-weight: 400; line-height: 20px; letter-spacing: 0.2px;",
+            "venues-bottomsheet-header": "color: rgba(51, 51, 51, 1);padding: 32px 32px 32px 32px;font-size: 32px; font-weight: 700; line-height: 36px;"
+          }
+        },
+        "requestId": "initiate-getPrimarySessionData",
+        "fulfilledTimeStamp": 1777386335494
+      }
+    },
+    "mutations": {},
+    "provided": {
+      "tags": {},
+      "keys": {}
+    },
+    "subscriptions": {},
+    "config": {
+      "online": true,
+      "focused": true,
+      "middlewareRegistered": false,
+      "refetchOnFocus": false,
+      "refetchOnReconnect": false,
+      "refetchOnMountOrArgChange": false,
+      "keepUnusedDataFor": 0,
+      "reducerPath": "eventsSynopsisApi",
+      "invalidationBehavior": "delayed"
+    }
+  }
+}

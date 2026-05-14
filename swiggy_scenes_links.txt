@@ -1,0 +1,10 @@
+ -> /
+0
+Cart -> /checkout
+Help -> /support
+Offers
+NEW -> /offers-near-me
+Search -> /search
+Swiggy Corporate -> /corporate
+ -> https://itunes.apple.com/in/app/id989540920?referrer=utm_source%3Dswiggy%26utm_medium%3Dhomepage
+ -> https://play.google.com/store/apps/details?id=in.swiggy.android&referrer=utm_source%3Dswiggy%26utm_medium%3Dheader

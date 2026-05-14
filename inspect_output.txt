@@ -1,0 +1,947 @@
+=== Navigating to BMS explore page ===
+Found 23 event URLs
+  https://in.bookmyshow.com/events/fast-lane-by-sumit-sourav/ET00492105
+  https://in.bookmyshow.com/events/taaza-phool-ft-pranav-sharma/ET00408533
+  https://in.bookmyshow.com/events/pottery-workshop-at-house-of-gourmet/ET00391835
+  https://in.bookmyshow.com/events/pottery-workshop/ET00485203
+  https://in.bookmyshow.com/events/aerial-yoga-workshop/ET00468453
+
+=== Visiting event page: https://in.bookmyshow.com/events/fast-lane-by-sumit-sourav/ET00492105 ===
+
+=== JSON-LD Data ===
+
+JSON-LD #1:
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "BookMyShow",
+  "url": "https://in.bookmyshow.com/"
+}
+
+JSON-LD #2:
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://in.bookmyshow.com/",
+  "logo": "https://in.bmscdn.com/bmsin/new/BMS_logo_new.png",
+  "name": "BookMyShow",
+  "sameAs": [
+    "https://www.facebook.com/BookMyShowIN",
+    "http://www.twitter.com/BookMyShow/",
+    "http://www.youtube.com/user/BookMyShow/",
+    "http://pinterest.com/bookmyshow/",
+    "https://plus.google.com/110517543803442814698/",
+    "http://www.linkedin.com/company/bookmyshow/"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+9122 6144 5050",
+      "contactType": "customer service",
+      "areaServed": "IN",
+      "availableLanguage": [
+        "English",
+        "Hindi",
+        "Marathi",
+        "Tamil",
+        "Telugu",
+        "Kannada",
+        "Gujarati",
+        "Punjabi"
+      ]
+    }
+  ]
+}
+
+JSON-LD #3:
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Fast Lane by Sumit Sourav ",
+    "URL": "https://in.bookmyshow.com/events/fast-lane-by-sumit-sourav/ET00492105",
+    "description": "",
+    "doortime": "08:00 PM",
+    "startDate": "2026-05-02T20:00:00Z",
+    "endDate": "2026-05-02T20:00:00Z",
+    "eventStatus": "EventScheduled",
+    "image": [
+      "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-fast-lane-by-sumit-sourav--2026-3-24-t-14-21-36.jpg",
+      "https://youtu.be/7-fA0KkkSIM?si=aG3emcwewc58u5Q1",
+      "https://assets-in.bmscdn.com/nmcms/mobile/media-mobile-fast-lane-by-sumit-sourav--2026-3-24-t-14-21-36.jpg",
+      "https://youtu.be/7-fA0KkkSIM?si=aG3emcwewc58u5Q1"
+    ],
+    "location": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "India",
+          "addressLocality": "Hyderabad",
+          "streetAddress": "Gate 6, Elixir Tower, Level 4, Knowledge City Road, Madhapur, Hyderabad, Telangana 500081, India"
+        },
+        "name": "District 150: Hyderabad"
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "URL": "https://in.bookmyshow.com/events/fast-lane-by-sumit-sourav/ET00492105",
+        "name": "COUPLE ENTRY - 2 PERSON",
+        "price": "749.00",
+        "priceCurrency": "INR",
+        "validFrom": "2026-05-02 20:00:00 +0000 UTC"
+      },
+      {
+        "@type": "Offer",
+        "URL": "https://in.bookmyshow.com/events/fast-lane-by-sumit-sourav/ET00492105",
+        "name": "EARLY BIRD - 1 PERSON",
+        "price": "399.00",
+        "priceCurrency": "INR",
+        "validFrom": "2026-05-02 20:00:00 +0000 UTC"
+      },
+      {
+        "@type": "Offer",
+        "URL": "https://in.bookmyshow.com/events/fast-lane-by-sumit-sourav/ET00492105",
+        "name": "SINGLE ENTRY - 1 PERSON",
+        "price": "499.00",
+        "priceCurrency": "INR",
+        "validFrom": "2026-05-02 20:00:00 +0000 UTC"
+      }
+    ],
+    "performers": [
+      {
+        "@type": "Person",
+        "name": "Sumit Sourav"
+      }
+    ]
+  }
+]
+
+JSON-LD #4:
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "item": [
+          {
+            "@id": "https://in.bookmyshow.com/",
+            "name": "Home"
+          }
+        ],
+        "position": 1
+      },
+      {
+        "@type": "ListItem",
+        "item": [
+          {
+            "@id": "https://in.bookmyshow.com/explore/events",
+            "name": "Events"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "@type": "ListItem",
+        "item": [
+          {
+            "@id": "https://in.bookmyshow.com/explore/comedy-shows",
+            "name": "Comedy Shows"
+          }
+        ],
+        "position": 3
+      },
+      {
+        "@type": "ListItem",
+        "item": [
+          {
+            "@id": "https://in.bookmyshow.com/events/the-funny-buzzness/ET00495705",
+            "name": "The Funny Buzzness"
+          }
+        ],
+        "position": 4
+      },
+      {
+        "@type": "ListItem",
+        "item": [
+          {
+            "@id": "https://in.bookmyshow.com/events/fast-lane-by-sumit-sourav/ET00492105",
+            "name": "Fast Lane by Sumit Sourav comedy-shows Event Tickets Hyderabad - BookMyShow"
+          }
+        ],
+        "position": 5
+      }
+    ]
+  }
+]
+
+JSON-LD #5:
+{
+  "@context": "http://schema.org",
+  "@type": "ViewAction",
+  "target": {
+    "@context": "http://schema.org",
+    "@type": "EntryPoint",
+    "urlTemplate": "android-app://com.bt.bms/https/in.bookmyshow.com//events/ET00492105"
+  }
+}
+
+JSON-LD #6:
+{
+  "@context": "http://schema.org",
+  "@type": "ViewAction",
+  "target": {
+    "@context": "http://schema.org",
+    "@type": "EntryPoint",
+    "urlTemplate": "ios-app://405894842/bmsIndiaApp/in.bookmyshow.com//events/ET00492105"
+  }
+}
+
+=== __INITIAL_STATE__ (event keys) ===
+Top-level keys: ['appConfig', 'config', 'cookies', 'seo', 'withDesktopLayout', 'settings', 'appPromotionReducer', 'youtube', 'loginApi', 'editProfileApi', 'headerApi', 'sidebarApi', 'regions', 'eventsSynopsisApi']
+
+  appConfig keys: ['ads', 'reserve', 'fnb', 'loginStrip', 'hamburgerMenu', 'comingSoon', 'searchCoach', 'locationCheck', 'posterCardClick', 'paymentLogin', 'expressPay', 'favourite', 'showMyProfileLink', 'bookASmileFlag', 'offers', 'winpin', 'appCode', 'platformCode', 'userAgent', 'isCWCPage']
+
+  config keys: []
+
+  cookies keys: ['rgn', 'platform', 'bmsId', 'preferences', 'mqttuid', 'recents']
+
+  seo keys: ['queries', 'mutations', 'provided', 'subscriptions', 'config']
+
+  withDesktopLayout keys: ['signInCallback', 'signOutCallback', 'regionChangeCallback', 'pageName', 'setSidebarOpen']
+
+  settings keys: ['isFetching', 'isError', 'isSuccess', 'values']
+
+  appPromotionReducer keys: ['isAppPromotionDeferredEventAvailable', 'pwaInstallStatus', 'displayMode', 'isPwaCustomInstallSupported']
+
+  youtube keys: ['isAPIloaded', 'currentPlayingVideoID', 'canPauseAllVideos']
+
+  loginApi keys: ['queries', 'mutations', 'provided', 'subscriptions', 'config']
+
+  editProfileApi keys: ['queries', 'mutations', 'provided', 'subscriptions', 'config']
+
+  headerApi keys: ['queries', 'mutations', 'provided', 'subscriptions', 'config']
+
+  sidebarApi keys: ['queries', 'mutations', 'provided', 'subscriptions', 'config']
+
+  regions keys: ['isFetching', 'isFirstLoad', 'isError', 'currentRegion', 'geoLocationErrorMessage', 'isFetchingLocation', 'searchKey']
+
+  eventsSynopsisApi keys: ['queries', 'mutations', 'provided', 'subscriptions', 'config']
+{
+  "queries": {
+    "getPrimaryData": {
+      "status": "fulfilled",
+      "isUninitialized": false,
+      "isLoading": false,
+      "isFetching": false,
+      "isSuccess": true,
+      "isError": false,
+      "endpointName": "getPrimaryData",
+      "originalArgs": {
+        "eventCode": "ET00492105",
+        "isDesktop": true
+      },
+      "data": {
+        "flags": {
+          "isGroupPage": false,
+          "belongsToGroupPage": true,
+          "redirectUrl": "",
+          "slug": "fast-lane-by-sumit-sourav",
+          "eventType": "events",
+          "eventTags": [
+            "outdoor-events",
+            "age-bucket-16-to-21",
+            "age-bucket-22-to-30",
+            "age-bucket-31-to-45",
+            "age-bucket-46-to-55",
+            "age-bucket-55-plus"
+          ],
+          "isCustomGroupPage": false,
+          "paymentHandler": "native",
+          "isTransactional": true
+        },
+        "styles": {
+          "about-the-event-description": {
+            "id": "about-the-event-description",
+            "padding": "16,0,0,0"
+          },
+          "about-the-event-description-text": {
+            "id": "about-the-event-description-text",
+            "font": "small-regular",
+            "fontColor": "#404040"
+          },
+          "about-the-event-widget": {
+            "id": "about-the-event-widget",
+            "type": "widget",
+            "margin": "24,0,0,0",
+            "widthInPercentage": 75,
+            "background": {
+              "color": "#FFFFFF"
+            },
+            "textContainer": {
+              "flexWrap": false
+            }
+          },
+          "desktop-about-the-event-description-text": {
+            "id": "desktop-about-the-event-description-text",
+            "font": "body-regular",
+            "fontColor": "#404040"
+          },
+          "desktop-event-download-image": {
+            "id": "desktop-event-download-image",
+            "type": "image",
+            "width": 24,
+            "height": 24,
+            "widthpct": 20,
+            "imageContainer": {
+              "margin": "8,0,8,8",
+              "horizontalAlignment": "left"
+            }
+          },
+          "desktop-event-download-text": {
+            "id": "desktop-event-download-text",
+            "type": "text",
+            "font": "small-regular",
+            "fontColor": "#DC354B",
+            "horizontalAlignment": "left",
+            "imageVerticalAlignment": "bottom",
+            "widthpct": 80
+          },
+          "desktop-tournament-event-info-static-image": {
+            "id": "desktop-tournament-event-info-static-image",
+            "type": "image",
+            "width": 24,
+            "height": 24,
+            "widthpct": 20,
+            "imageContainer": {
+              "margin": "8,0,0,0",
+              "horizontalAlignment": "left"
+            }
+          },
+          "desktop-tournament-event-info-static-text": {
+            "id": "desktop-tournament-event-info-static-text",
+            "type": "text",
+            "margin": "8,0,0,0",
+            "font": "small-regular",
+            "fontColor": "#DC354B",
+            "horizontalAlignment": "left",
+            "imageVerticalAlignment": "bottom"
+          },
+          "event-banner-carousel-card": {
+            "id": "event-banner-carousel-card",
+            "direction": "ltr",
+            "imageContainer": {
+              "aspectRatio": 2
+            }
+          },
+          "event-banner-carousel-widget": {
+            "id": "event-banner-carousel-widget",
+            "padding": "0,0,0,0",
+            "margin": "24,0,0,0",
+            "headerContainer": {
+              "padding": "0,16,0,0"
+            }
+          },
+          "event-download-card": {
+            "id": "event-download-card",
+            "type": "card",
+            "imageContainer": {
+              "width": 24,
+              "height": 24,
+              "aspectRatio": 1,
+              "widthpct": 40
+            }
+          },
+          "event-download-image": {
+            "id
+
+=== Key DOM Elements ===
+
+h1 (title) (h1) -> 1 elements
+  [0] <H1> class='sc-7o7nez-0 fESPan'
+       text='Fast Lane by Sumit Sourav'
+       html='<h1 class="sc-7o7nez-0 fESPan">Fast Lane by Sumit Sourav&nbsp;</h1>'
+
+Price-class ([class*='price'], [class*='Price']) -> NOT FOUND
+
+Ticket-class ([class*='ticket'], [class*='Ticket']) -> NOT FOUND
+
+Amount-class ([class*='amount'], [class*='Amount']) -> NOT FOUND
+
+Rupee spans (span) -> 7 elements
+  [0] <SPAN> class='sc-1or3vea-14 eFzanq'
+       text=''
+       html='<span class="sc-1or3vea-14 eFzanq"><svg width="15" height="15" color="#000000" style="transform:rotate(0deg)"><use href="/chunks/icons/common-icons-c62b3c3f.svg#icon-search-icon"></use></svg></span>'
+  [1] <SPAN> class='sc-1or3vea-15 bMabGE'
+       text='Search for Movies, Events, Plays, Sports and Activities'
+       html='<span class="sc-1or3vea-15 bMabGE">Search for Movies, Events, Plays, Sports and Activities</span>'
+  [2] <SPAN> class='sc-1or3vea-16 hrepuk'
+       text='Hyderabad'
+       html='<span class="sc-1or3vea-16 hrepuk">Hyderabad</span>'
+  [3] <SPAN> class='sc-1qdowf4-0 dpaUna'
+       text='₹499 onwards'
+       html='<span class="sc-1qdowf4-0 dpaUna">₹499 onwards</span>'
+  [4] <SPAN> class='sc-1qdowf4-0 dpaUna'
+       text='Available'
+       html='<span class="sc-1qdowf4-0 dpaUna">Available</span>'
+
+About-class ([class*='about'], [class*='About']) -> NOT FOUND
+
+Description-class ([class*='description'], [class*='Description']) -> NOT FOUND
+
+Hashtag-class ([class*='hashtag'], [class*='Hashtag']) -> NOT FOUND
+
+Tag-class ([class*='tag'], [class*='Tag']) -> NOT FOUND
+
+Genre-class ([class*='genre'], [class*='Genre']) -> NOT FOUND
+
+Interest-class ([class*='interest'], [class*='Interest']) -> NOT FOUND
+
+Duration-class ([class*='duration'], [class*='Duration']) -> NOT FOUND
+
+Date-class ([class*='date'], [class*='Date']) -> NOT FOUND
+
+Time-class ([class*='time'], [class*='Time']) -> NOT FOUND
+
+Venue-class ([class*='venue'], [class*='Venue']) -> NOT FOUND
+
+Location-class ([class*='location'], [class*='Location']) -> NOT FOUND
+
+Organizer-class ([class*='organizer'], [class*='Organizer']) -> NOT FOUND
+
+Host-class ([class*='host'], [class*='Host']) -> NOT FOUND
+
+Presenter-class ([class*='presenter'], [class*='Presenter']) -> NOT FOUND
+
+Artist-class ([class*='artist'], [class*='Artist']) -> NOT FOUND
+
+Performer-class ([class*='performer'], [class*='Performer']) -> NOT FOUND
+
+Cast-class ([class*='cast'], [class*='Cast']) -> NOT FOUND
+
+Venue link (a[href*='/venue/']) -> NOT FOUND
+
+data-testid ([data-testid]) -> NOT FOUND
+
+=== CSS classes with event-related keywords ===
+
+=== Full body text (first 8000 chars) ===
+Search for Movies, Events, Plays, Sports and Activities
+Hyderabad
+Sign in
+Movies
+Stream
+Events
+Plays
+Sports
+Activities
+TATA IPL 2026
+ListYourShow
+Corporates
+Offers
+Gift Cards
+Fast Lane by Sumit Sourav 
+Stand up Comedy
+Comedy Shows
+4 are interested
+About The Event
+
+In Fast Lane!, Sumit Sourav explores what it feels like to constantly be in a rush… without actually getting ahead. Through sharp observations on money, family, status, and the illusion of “premium” living, he turns everyday struggles into comedy. It’s about ambition, impatience, and the ridiculous ways we try to hack life—while life quietly humbles us.
+
+Read More
+Artists
+Sumit Sourav
+Comedian
+M-Ticket
+Contactless Ticketing & Fast-track Entry with M-ticket.
+Learn How
+Terms & Conditions
+You May Also Like
+Events around you, book now
+Gaurav Kapoor LIVE
+Monster ft. Gurleen Pannu
+Tempo Tantrums - Kenny Sebastian (Comedy Show)
+Inventions by Biswa Kalyan Rath 
+Gaurav Gupta Live - India Tour
+Main Shayar Toh Nahi- Manhar Seth
+Its Funny to Me - Standup comedy by Urooj Ashfaq
+PS - I Love You By Pranav Sharma
+Baap Ki Adalat - Panel Show
+Vipul Goyal-Unleashed
+Sat 2 May 2026
+8:00 PM
+1 Hour
+Age Limit - 16yrs +
+Hindi, English
+Comedy
+District 150: Hyderabad
+₹499 onwards
+Available
+Book Now
+HomeEventsComedy ShowsThe Funny BuzznessFast Lane by Sumit Sourav comedy-shows Event Tickets Hyderabad - BookMyShow
+List your Show
+Got a show, event, activity or a great experience? Partner with us & get listed on BookMyShow
+Contact today!
+24/7 CUSTOMER CARE
+RESEND BOOKING CONFIRMATION
+SUBSCRIBE TO THE NEWSLETTER
+EVENTS IN TOP CITIES
+Events in Mumbai
+Events in Delhi-NCR
+Events in Chennai
+Events in Bengaluru
+Events in Hyderabad
+Events in Pune
+Events in Ahmedabad
+Events in Kolkata
+Events in Kochi
+BOOK YOUR CALENDER
+Events happening Today
+Events happening Tomorrow
+Events happening This Weekend
+EVENTS
+Workshops
+Comedy Shows
+Kids
+Music Shows
+Vaccination
+Award shows
+Exhibitions
+Online Streaming Events
+Screening
+Conferences
+Spirituality
+Beer Festival
+Meetups
+Celebrity Wishes
+New Year Parties
+Talks
+MORE EVENTS
+Antiques
+Business
+Dance
+Dating
+Fashion and Beauty Talks
+History
+LGBTQ
+Music Festivals
+NYE Star Hotels
+Poetry
+Acting
+Food and Drinks
+Magic
+Music
+Dance
+Photography
+Sports
+Technology
+Books and Literature
+Business
+Business
+Environment Talks
+Environment
+Furniture
+Health and Fitness Talks
+Heritage
+Jewellery Workshops
+Magic Workshops
+Music
+Photography
+Painting
+Poetry
+Science
+Trade Shows
+Wellness
+Yoga
+Arts and Crafts
+Books and Literature Talks
+Concerts
+Education
+Education
+Open Mic
+VENUES
+The Hype Cafe: Pune
+Tantra, The Park Hotel: Kolkata
+Connaught Place : Delhi
+Olipo Cafe: Delhi
+Royal Punjab Restaurant and Bar: Mumbai
+HELP
+About Us
+Contact Us
+Current Opening
+Press Release
+Press Coverage
+FAQs
+Terms and Conditions
+Privacy Policy
+BOOKMYSHOW EXCLUSIVES
+Lollapalooza India
+BookAChange
+Corporate Vouchers
+Gift Cards
+List My Show
+Offers
+Stream
+Movie Trailers
+Summer Activities
+Copyright 2026 ©Bigtree Entertainment Pvt. Ltd.All Rights Reserved.
+The content and images used on this site are copyright protected and copyrights vests with the respective owners. The usage of the content and images on this website is intended to promote the works and no endorsement of the artist shall be implied. Unauthorized use is prohibited and punishable by law.
+
+
+=== SECOND EVENT: https://in.bookmyshow.com/events/taaza-phool-ft-pranav-sharma/ET00408533 ===
+
+JSON-LD #1:
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "BookMyShow",
+  "url": "https://in.bookmyshow.com/"
+}
+
+JSON-LD #2:
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://in.bookmyshow.com/",
+  "logo": "https://in.bmscdn.com/bmsin/new/BMS_logo_new.png",
+  "name": "BookMyShow",
+  "sameAs": [
+    "https://www.facebook.com/BookMyShowIN",
+    "http://www.twitter.com/BookMyShow/",
+    "http://www.youtube.com/user/BookMyShow/",
+    "http://pinterest.com/bookmyshow/",
+    "https://plus.google.com/110517543803442814698/",
+    "http://www.linkedin.com/company/bookmyshow/"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+9122 6144 5050",
+      "contactType": "customer service",
+      "areaServed": "IN",
+      "availableLanguage": [
+        "English",
+        "Hindi",
+        "Marathi",
+        "Tamil",
+        "Telugu",
+        "Kannada",
+        "Gujarati",
+        "Punjabi"
+      ]
+    }
+  ]
+}
+
+JSON-LD #3:
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "PS - I Love You By Pranav Sharma",
+    "URL": "https://in.bookmyshow.com/events/taaza-phool-ft-pranav-sharma/ET00408533",
+    "description": "Get ready for a night of laughter and entertainment as Pranav Sharma, one of India`s most talented standup comedians, takes the stage! Known for his sharp wit, hilarious anecdotes, and relatable humor, Pranav brings a fresh perspective to everyday situations, leaving audiences in splits. Join him on his India tour for an unforgettable comedy experience that promises to tickle your funny bone and keep you laughing all night long. Don`t miss out on the comedy event of the year!",
+    "doortime": "04:00 PM",
+    "startDate": "2026-05-02T16:00:00Z",
+    "endDate": "2026-05-02T18:30:00Z",
+    "eventStatus": "EventScheduled",
+    "image": [
+      "https://assets-in.bmscdn.com/nmcms/desktop/media-desktop-ps-i-love-you-by-pranav-sharma-2026-4-27-t-12-26-56.jpg",
+      "https://assets-in.bmscdn.com/nmcms/mobile/media-mobile-ps-i-love-you-by-pranav-sharma-2026-4-27-t-12-26-56.jpg"
+    ],
+    "location": [
+      {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "India",
+          "addressLocality": "Bengaluru",
+          "streetAddress": "3rd floor, 950, Bayt Towers, 12th Main Road, HAL, Indiranagar, Bengaluru, Karnataka 560008, India"
+        },
+        "name": "The Comedy Theatre, Indiranagar: Bengaluru"
+      }
+    ],
+    "offers": [
+      {
+        "@type": "Offer",
+        "URL": "https://in.bookmyshow.com/events/taaza-phool-ft-pranav-sharma/ET00408533",
+        "name": "TICKETS FOR 2",
+        "price": "799.00",
+        "priceCurrency": "INR",
+        "validFrom": "2026-05-02 16:00:00 +0000 UTC"
+      },
+      {
+        "@type": "Offer",
+        "URL": "https://in.bookmyshow.com/events/taaza-phool-ft-pranav-sharma/ET00408533",
+        "name": "ENTRY FOR 1",
+        "price": "499.00",
+        "priceCurrency": "INR",
+        "validFrom": "2026-05-02 16:00:00 +0000 UTC"
+      }
+    ],
+    "performers": [
+      {
+        "@type": "Person",
+        "name": "Pranav Sharma"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "PS - I Love You By Pranav Sharma",
+    "URL": "https://in.bookmyshow.com/events/taaza-phool-ft-pranav-sharma/ET00408533",
+    "description": "Get ready for a night of laughter and entertainment as Pranav Sharma, one of India`s most talented standup comedians, takes the stage! Known for his sharp wit, hilarious anecdotes, and relatable humor, Pranav brings a fresh perspective to everyday situations, leaving audiences in splits. Join him on his India tour for an unforgettable comedy experience that promises to tickle your funny bone and keep you laughing all night long. Don`t miss out on the comedy event of the year!",
+    "doortime": "04:00 PM",
+    "startDate": "2026-05-03T16:00:00Z",
+    "endDate": "2026-05-03T16:0
+
+JSON-LD #4:
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "item": [
+          {
+            "@id": "https://in.bookmyshow.com/",
+            "name": "Home"
+          }
+        ],
+        "position": 1
+      },
+      {
+        "@type": "ListItem",
+        "item": [
+          {
+            "@id": "https://in.bookmyshow.com/explore/events",
+            "name": "Events"
+          }
+        ],
+        "position": 2
+      },
+      {
+        "@type": "ListItem",
+        "item": [
+          {
+            "@id": "https://in.bookmyshow.com/explore/comedy-shows",
+            "name": "Comedy Shows"
+          }
+        ],
+        "position": 3
+      },
+      {
+        "@type": "ListItem",
+        "item": [
+          {
+            "@id": "https://in.bookmyshow.com/events/the-laugh-store-dlf-cyberhub/ET00398972?webview=true",
+            "name": "The Laugh Store: DLF Cyberhub"
+          }
+        ],
+        "position": 4
+      },
+      {
+        "@type": "ListItem",
+        "item": [
+          {
+            "@id": "https://in.bookmyshow.com/events/taaza-phool-ft-pranav-sharma/ET00408533",
+            "name": "PS - I Love You By Pranav Sharma comedy-shows Event Tickets Bengaluru - BookMyShow"
+          }
+        ],
+        "position": 5
+      }
+    ]
+  }
+]
+
+JSON-LD #5:
+{
+  "@context": "http://schema.org",
+  "@type": "ViewAction",
+  "target": {
+    "@context": "http://schema.org",
+    "@type": "EntryPoint",
+    "urlTemplate": "android-app://com.bt.bms/https/in.bookmyshow.com//events/ET00408533"
+  }
+}
+
+JSON-LD #6:
+{
+  "@context": "http://schema.org",
+  "@type": "ViewAction",
+  "target": {
+    "@context": "http://schema.org",
+    "@type": "EntryPoint",
+    "urlTemplate": "ios-app://405894842/bmsIndiaApp/in.bookmyshow.com//events/ET00408533"
+  }
+}
+
+=== Body text (event 2) ===
+Search for Movies, Events, Plays, Sports and Activities
+Hyderabad
+Sign in
+Movies
+Stream
+Events
+Plays
+Sports
+Activities
+TATA IPL 2026
+ListYourShow
+Corporates
+Offers
+Gift Cards
+PS - I Love You By Pranav Sharma
+Stand up Comedy
+Comedy Shows
+3.6k are interested
+About The Event
+
+Get ready for a night of laughter and entertainment as Pranav Sharma, one of India`s most talented standup comedians, takes the stage! Known for his sharp wit, hilarious anecdotes, and relatable humor, Pranav brings a fresh perspective to everyday situations, leaving audiences in splits. Join him on his India tour for an unforgettable comedy experience that promises to tickle your funny bone and keep you laughing all night long. Don`t miss out on the comedy event of the year!
+
+Read More
+Artists
+Pranav Sharma
+Actor
+M-Ticket
+Contactless Ticketing & Fast-track Entry with M-ticket.
+Learn How
+Terms & Conditions
+You May Also Like
+Events around you, book now
+Main Shayar Toh Nahi- Manhar Seth
+Best in Standup Comedy
+Halki Halki Fati? By Vikas Kush Sharma
+Its Funny to Me - Standup comedy by Urooj Ashfaq
+The Bads of Hyderabad
+Out of Office - Corporate Comedy Special
+Namak Kam Hai By Vidit Sharma
+Rock Bottom - A Standup Solo By Shubham Pujari
+Vipul Goyal-Unleashed
+Fast Lane by Sumit Sourav 
+Sat 2 May 2026 - Sun 17 May 2026
+1 hour 15 minutes
+Age Limit - 16yrs +
+Hindi, English
+Comedy
+KLN Prasad Auditorium - FTCCI: Hyderabad
+View 5 Other Cities
+Bookings are filling fast for Hyderabad
+₹499 onwards
+Filling Fast
+Book Now
+HomeEventsComedy ShowsThe Laugh Store: DLF CyberhubPS - I Love You By Pranav Sharma comedy-shows Event Tickets Bengaluru - BookMyShow
+List your Show
+Got a show, event, activity or a great experience? Partner with us & get listed on BookMyShow
+Contact today!
+24/7 CUSTOMER CARE
+RESEND BOOKING CONFIRMATION
+SUBSCRIBE TO THE NEWSLETTER
+EVENTS IN TOP CITIES
+Events in Mumbai
+Events in Delhi-NCR
+Events in Chennai
+Events in Bengaluru
+Events in Hyderabad
+Events in Pune
+Events in Ahmedabad
+Events in Kolkata
+Events in Kochi
+BOOK YOUR CALENDER
+Events happening Today
+Events happening Tomorrow
+Events happening This Weekend
+EVENTS
+Workshops
+Comedy Shows
+Kids
+Music Shows
+Vaccination
+Award shows
+Exhibitions
+Online Streaming Events
+Screening
+Conferences
+Spirituality
+Beer Festival
+Meetups
+Celebrity Wishes
+New Year Parties
+Talks
+MORE EVENTS
+Entertainment
+Film Making
+Handicrafts
+Kids Workshop
+NYE Parties
+Open Mic Comedy
+Photography
+Painting
+Heritage
+Hobby Classes
+Music
+Science
+Acting
+Books and Literature
+Circus
+Competition
+Environment
+Fashion and Beauty
+Films
+Health Care
+Health, Fitness and Wellbeing
+Music Screening
+NYE Live Performances
+NYE GetAway
+Performance
+Sports Screening
+Storytelling
+Yoga
+Antiques
+Business
+Dance
+Dating
+Fashion and Beauty Talks
+History
+LGBTQ
+Music Festivals
+NYE Star Hotels
+Poetry
+Acting
+Food and Drinks
+Magic
+Music
+Dance
+Photography
+VENUES
+The Hype Cafe: Pune
+Tantra, The Park Hotel: Kolkata
+Connaught Place : Delhi
+Olipo Cafe: Delhi
+Royal Punjab Restaurant and Bar: Mumbai
+HELP
+About Us
+Contact Us
+Current Opening
+Press Release
+Press Coverage
+FAQs
+Terms and Conditions
+Privacy Policy
+BOOKMYSHOW EXCLUSIVES
+Lollapalooza India
+BookAChange
+Corporate Vouchers
+Gift Cards
+List My Show
+Offers
+Stream
+Movie Trailers
+Summer Activities
+Copyright 2026 ©Bigtree Entertainment Pvt. Ltd.All Rights Reserved.
+The content and images used on this site are copyright protected and copyrights vests with the respective owners. The usage of the content and images on this website is intended to promote the works and no endorsement of the artist shall be implied. Unauthorized use is prohibited and punishable by law.
