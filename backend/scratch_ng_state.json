@@ -1,0 +1,1856 @@
+{
+  "home_spot": [
+    {
+      "account_id": 670,
+      "account_slug": "pintofviewhyd",
+      "address": "Knowledge City, Commerzone Rd, Silpa Gram Craft Village, Madhapur, Rai Durg, Hyderabad, Telangana 500032, India",
+      "admin_note_for_calender": "",
+      "approved_id": 12567,
+      "available_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "available_for_booking": true,
+      "average": 0,
+      "booking_confirmation_message": "<p><strong>Welcome to Pint of View </strong>\ud83c\udf78</p><p>Hello, fellow seeker!</p><p>We're absolutely thrilled that you've booked your spot for our latest Pint of View lecture! You're now officially part of something special \u2013 a community that believes the best learning happens when brilliant minds meet in relaxed spaces.</p><p><strong>Your Evening with us:</strong></p><p>\ud83d\udcc5 Sunday, May 3rd | 4 PM - 6 PM</p><p>\ud83d\udccd Windmills, Madhapur</p><p>Topic: Mind Games</p><p><strong>What's Next:</strong></p><ul><li>Arrive a few minutes early to grab your favourite spot and your drink</li><li>Bring your curiosity (and maybe a notebook!) \u2013 you\u2019ll want to make notes</li><li>Come with your questions \u2013 Dr. Shinod will share his philosophical insights on the brain and mental disorders in with depth.</li></ul><p><strong>Heads Up:</strong>&nbsp;Your ticket covers one complimentary mocktail. Additional food and drinks can be ordered from the \u00e0 la carte menu at the counter. Venue will be providing 15% off on entire F &amp; B. Beer on tap available. </p><p>We're building something beautiful here \u2013 a space where cultural conversations aren't confined to universities, museums and archives, but lives and breathes in the conversations we have in casual spaces, over cocktails. You're not just attending an event. You're helping us weave Hyderabad's newest intellectual tradition.</p><p>Can't wait to see you there!</p><p>Cheers&nbsp;\ud83c\udf7b</p><p>Trisha, Pint of View</p><p><em>P.S. Follow us on&nbsp;</em><a href=\"https://www.instagram.com/pintofview.hyd/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>@</em>pintofview.hyd</a><em>&nbsp;for behind-the-scenes content and updates about our upcoming speakers!</em></p>",
+      "can_be_booked_before": 12,
+      "can_book_till_end": true,
+      "cancel_pending_payment": 12,
+      "cancellation_policy": "<p>Tickets are transferable but not refundable.</p>",
+      "category_data": [
+        {
+          "id": 12,
+          "name": "Events",
+          "slug": "events"
+        }
+      ],
+      "city": "Hyderabad",
+      "city_fk_id": 65,
+      "coming_soon": false,
+      "company_name": "Pint of View Hyderabad",
+      "contributor": {
+        "email": "pintofview.hyd@gmail.com",
+        "first_name": "Pint of View Hyderabad",
+        "id": 15956
+      },
+      "contributor_id": 15956,
+      "cover_img": "images/91554FC86CC64FB8A4EA81480F693396_converted_webp.webp",
+      "credit": "",
+      "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+      "display_rank": 1,
+      "display_score": 0.6155,
+      "display_timing": "",
+      "early_access": false,
+      "email": "pintofview.hyd@gmail.com",
+      "enable_calendar_invite": false,
+      "enable_list_view": true,
+      "enable_qr_code": false,
+      "end": "2026-05-03 18:00:00",
+      "end_timestamp": 1777811400,
+      "genre_tag": [
+        {
+          "id": 7,
+          "name": "Leisure",
+          "path": "genretags/leisure.png"
+        },
+        {
+          "id": 4,
+          "name": "Food & drink",
+          "path": "genretags/food_and_drink.png"
+        }
+      ],
+      "google_map_link": "https://maps.google.com/?cid=16465204764493369731",
+      "google_tag": "",
+      "has_end_timestamp": true,
+      "id": "12160",
+      "insider_tip": "This experience sells out pretty quick!",
+      "instant_booking": true,
+      "instructions_from_experience_provider": "",
+      "is_bookable": false,
+      "is_filling_fast": false,
+      "is_itinerary": false,
+      "is_live": true,
+      "is_renamed": false,
+      "is_same_working_hours": false,
+      "lat": "17.42990300000000000000",
+      "lat_lng": [
+        17.429903,
+        78.381441
+      ],
+      "lng": "78.38144100000000000000",
+      "medias": [
+        {
+          "id": 597543,
+          "name": null,
+          "order": 0,
+          "path": "images/91554FC86CC64FB8A4EA81480F693396_converted_webp.webp",
+          "type": "Cover Photo"
+        },
+        {
+          "id": 597544,
+          "name": null,
+          "order": 1,
+          "path": "images/6B4D3AC5015B4A5491ADE6CC43809B9F_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 597545,
+          "name": null,
+          "order": 2,
+          "path": "images/60CDDBA6FC5A45CDACC21A8B97B36E97_converted_webp.webp",
+          "type": "Photo"
+        }
+      ],
+      "modified": "2026-04-28 21:00:29",
+      "modified_timestamp": 1777390229,
+      "multi_session": false,
+      "must_see": false,
+      "name": "PoV Hyd (Lecture 15): Mind Games",
+      "note_from_experience_provider": "",
+      "notify_me": true,
+      "offer_banner": "",
+      "order": 11599,
+      "partner_details": "[{\"name\": null, \"email\": null, \"phone\": null}]",
+      "permanently_closed": false,
+      "price_added": true,
+      "price_starts_at": 350,
+      "private_booking_available": false,
+      "pro_tip": "",
+      "quality": 0.35,
+      "questions_to_ask": "{\"custom_questions\": [{\"optional\": true, \"question\": \"Your age (so we can finally solve if wisdom really comes with it)?\", \"required\": true, \"input_type\": \"TEXT\"}, {\"optional\": false, \"question\": \"What do you do?\", \"required\": true, \"input_type\": \"TEXT\"}], \"default_questions\": []}",
+      "scarcity": 1,
+      "short_description_plain_text": "The crisis in psychiatry wasn't a sudden accident; it\u2019s a \"looping effect\" that has been rewriting human nature for decades. While we've been focused on the biology we can see, the reality of the human mind is that we are being shaped by classifications we often mistake for discoveries. We are effectively trying to treat the soul while wearing a biological blindfold. From the \"epidemic\" of Multiple Personalities in the 90s to the day Homosexuality was simply voted out of existence by the DSM in 1973, the way we label human suffering is changing how we live. How did we end up in a global scramble to treat disorders that might be partly created by the very manuals used to diagnose them, and what does the \"new map\" of the human mind look like from the perspective of its most misunderstood behaviors?The Session:Dr. Shinod N.K. joins us to dissect the mechanics of Dynamic Nominalism - the philosophical reality that naming a condition actually changes the person being named. Moving from the rigid, objective laws of Physics to the fluid epistemology of the mind, Shinod brings a rare perspective on how 50 years of shifting classifications are finally catching up with us. This isn't a therapy session; it\u2019s a masterclass in Ontological Mystery and Conceptual Survival. Missing this means missing the chance to understand the very labels that define our modern lives.What to Expect:50-minute Masterclass: On \"The Looping Effect,\" the shifting status of the DSM, and why the global \"Science Map\" of the mind is being redrawn by committees rather than microscopes.15\u201320 mins Q&amp;A: Challenge Shinod on the \"Brain-First\" myth, the politics of psychiatric labels, and the reality of \"inventing\" disorders in 2026.30-minute Mixer: Discuss the new \"mental world order\" and the ethics of diagnosis with fellow skeptics at Windmills.One complimentary mocktail included.Event Details:\ud83d\udcc5 Date: 03/05/26 | 4 PM \u2013 6 PM\ud83d\udccd Venue: Windmills, Hyderabad (Madhapur)\ud83c\udfab Limited seating available\ud83d\udcb0 Early bird pricing for the first 20 tickets.About the Lecturer:Dr. Shinod N.K. is an Assistant Professor of Philosophy at the University of Hyderabad and a former Post-Doc Research Affiliate at IIT Delhi. A Gold Medalist in M.Phil (Pondicherry University), he specializes in the History and Philosophy of Science. Having transitioned from a background in Physics to the complex epistemology of psychiatry, his work focuses on the boundaries where scientific data meets human narrative. In his downtime, he is a published poet and a fan of philosophical cinema.About Pint of View:Inspired by Lectures on Tap (U.S.), we\u2019re bringing big ideas to the table in Hyderabad. No whiteboards, no exams\u2014just high-level intellect served with a side of irony.",
+      "slug": "mind-games",
+      "specific_sections": "{\"custom\": [], \"default_section\": [{\"text\": \"One complimentary drink\\nLots of fun\", \"label\": \"What's included\"}, {\"text\": \"Food\\nExtra drinks\", \"label\": \"What's not\"}]}",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 0,
+      "start": "2026-05-03 16:00:00",
+      "start_timestamp": 1777804200,
+      "status": "live",
+      "type": "public",
+      "upcoming_session": "2026-05-03 16:00:00",
+      "upcoming_session_timestamp": 1777804200,
+      "urgency": 0.5,
+      "venue": "Windmills Craftworks [Madhapur]",
+      "who_is_it_for_tag": [
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/adults_only.png",
+          "id": 4,
+          "name": "Adults Only",
+          "path": "who_is_it_tags/adults_only.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/solo_friendly.png",
+          "id": 7,
+          "name": "Solo-Friendly",
+          "path": "who_is_it_tags/solo_friendly.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/great_for_groups.png",
+          "id": 9,
+          "name": "Great For Groups",
+          "path": "who_is_it_tags/great_for_groups.png"
+        }
+      ],
+      "photo": "images/91554FC86CC64FB8A4EA81480F693396_converted_webp.webp",
+      "categories_name": [
+        "Events"
+      ],
+      "photo_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91554FC86CC64FB8A4EA81480F693396_converted_webp.webp",
+      "start_date": "Sunday, May 3",
+      "upcoming_session_date": "Sunday, May 3",
+      "end_date": "May 3"
+    },
+    {
+      "account_id": 1068,
+      "account_slug": "alteff-filmclub",
+      "address": "Mathrusree Nagar, Hafeezpet, Miyapur, Hyderabad, Telangana 500049, India",
+      "admin_note_for_calender": "",
+      "approved_id": 11256,
+      "available_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "available_for_booking": true,
+      "average": 5,
+      "booking_confirmation_message": "<p>Your Seat at the ALT EFF Film Club Is Confirmed \ud83c\udf3f</p><p>&nbsp;</p><p>Hey there!</p><p><br></p><p>You did it.&nbsp;</p><p><br></p><p>You took the leap to shake off collective amnesia and numbness. At the Film Club, we won't promise neat solutions to the climate crisis. Instead, we're diving headfirst into the rich, messy, and compelling stories of humanity right in its midst. Join us for an evening of remarkable environmental films paired with delicious snacks and great company.</p><p>&nbsp;</p><p><strong>Date:</strong> 15th May 2026</p><p><strong>Time:</strong> 7:00 pm</p><p><strong>Venue:</strong> Charcha Community Space</p><p>&nbsp;</p><p>Let's keep this momentum going beyond just an evening! You can stay in touch and be part of our journey:&nbsp;</p><ul><li><strong>Newsletter:</strong> [<a href=\"https://www.alteff.in/newsletter\" rel=\"noopener noreferrer\" target=\"_blank\">Sign up here</a>]</li><li><strong>Instagram:</strong> [<a href=\"https://www.instagram.com/alt.eff/?hl=en\" rel=\"noopener noreferrer\" target=\"_blank\">Check out our feed</a>]</li><li><strong>WhatsApp:</strong> [<a href=\"https://chat.whatsapp.com/JFpttZzNN4L7mmTD6AFCs9?mode=gi_t\" rel=\"noopener noreferrer\" target=\"_blank\">Join the group</a>]</li></ul><p>&nbsp;</p><p>We can\u2019t wait to welcome you to our cozy circle.</p><p>&nbsp;</p><p>Warm regards,</p><p>The ALT EFF Team \ud83c\udf31</p><p>&nbsp;</p><p>P.S. Bring your curiosity, your friends and your appetite!</p>",
+      "can_be_booked_before": 0,
+      "can_book_till_end": true,
+      "cancel_pending_payment": 12,
+      "cancellation_policy": "<p>While tickets are non-refundable, we understand that plans can change.</p><p>You can transfer your ticket to a friend or family member if you're unable to attend.</p>",
+      "category_data": [
+        {
+          "id": 12,
+          "name": "Events",
+          "slug": "events"
+        }
+      ],
+      "city": "Miyapur",
+      "city_fk_id": 3003,
+      "coming_soon": false,
+      "company_description": "All Living Things Environmental Film Festival (ALT EFF) is the world\u2019s largest decentralised film festival and a powerful showcase of environmental cinema rooted in renewal, repair, and resistance. Through cinema, conversations, and community, we reimagine our relationship with all living things.",
+      "company_name": "All Living Things Environmental Film Festival",
+      "contributor": {
+        "email": "krutarth@alteff.in",
+        "first_name": "All Living Things Environmental Film Festival",
+        "id": 19591
+      },
+      "contributor_id": 19591,
+      "cover_img": "images/5389F96B94F94EC690ABF6FD06A903E7_converted_webp.webp",
+      "credit": "",
+      "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+      "display_rank": 1,
+      "display_score": 0.4254,
+      "display_timing": "",
+      "early_access": false,
+      "email": "krutarth@alteff.in",
+      "enable_calendar_invite": false,
+      "enable_list_view": true,
+      "enable_qr_code": false,
+      "end": "2026-05-15 21:00:00",
+      "end_timestamp": 1778859000,
+      "genre_tag": [
+        {
+          "id": 9,
+          "name": "Local",
+          "path": "genretags/local.png"
+        },
+        {
+          "id": 18,
+          "name": "Festival",
+          "path": "genretags/festival.png"
+        },
+        {
+          "id": 2,
+          "name": "Art & culture",
+          "path": "genretags/art_and_culture.png"
+        }
+      ],
+      "google_map_link": "https://maps.google.com/?cid=8594994645851251305",
+      "google_place_id": "ChIJ5aISFQCTyzsRaSJZmBeOR3c",
+      "google_tag": "",
+      "has_end_timestamp": true,
+      "id": "10849",
+      "insider_tip": "This experience sells out pretty quick!",
+      "instant_booking": true,
+      "instructions_from_experience_provider": "",
+      "is_bookable": false,
+      "is_filling_fast": false,
+      "is_itinerary": false,
+      "is_live": true,
+      "is_renamed": false,
+      "is_same_working_hours": false,
+      "lat": "17.49424850000000000000",
+      "lat_lng": [
+        17.4942485,
+        78.3677496
+      ],
+      "lng": "78.36774960000000000000",
+      "medias": [
+        {
+          "id": 593705,
+          "name": null,
+          "order": 0,
+          "path": "images/5389F96B94F94EC690ABF6FD06A903E7_converted_webp.webp",
+          "type": "Cover Photo"
+        },
+        {
+          "id": 593706,
+          "name": null,
+          "order": 1,
+          "path": "images/B19E5FF69C774B23B472BA9866BBCB60_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 593707,
+          "name": null,
+          "order": 2,
+          "path": "images/2A6B769B3CEE4C7F9558EDDFE78C9069_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 593708,
+          "name": null,
+          "order": 3,
+          "path": "images/7D3F4491C7064896BDB540F55B0DA2EB_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 593709,
+          "name": null,
+          "order": 4,
+          "path": "images/36E5507234634F138CD7FEB3FFEDFF4D_converted_webp.webp",
+          "type": "Photo"
+        }
+      ],
+      "modified": "2026-04-28 21:00:24",
+      "modified_timestamp": 1777390224,
+      "multi_session": true,
+      "must_see": false,
+      "name": "ALT EFF Film Club x Charcha Hyderabad | 15th May",
+      "note_from_experience_provider": "",
+      "notify_me": false,
+      "offer_banner": "",
+      "order": 10338,
+      "partner_details": "[{\"name\": null, \"email\": null, \"phone\": null}]",
+      "permanently_closed": false,
+      "price_added": true,
+      "price_starts_at": 354,
+      "private_booking_available": false,
+      "pro_tip": "",
+      "quality": 0.98,
+      "questions_to_ask": "{\"custom_questions\": [], \"default_questions\": []}",
+      "scarcity": 0,
+      "short_description_plain_text": "If you are tired of the outrage cycle, doomscrolling collapse, and the looming AI takeover narrative. If you have caught yourself going numb just to cope. We see you.All Living Things Environmental Film Festival is back with the third season of Film Club. A monthly meet up across 10 cities over 5 months, orbiting environmental cinema that cracks you open without trapping you in doom and gloom.It is a room full of people choosing to show up in cities whose infrastructure persuades you to stay home, choosing to sit together, watch together, and turn private anxiety into collective imagination. Messy. Human. Honest conversation.With snacks. Always snacks.PROGRAMME:Some Thoughts on the Common ToadThe FeastThe Butterfly ManThe Floating worldTo become a Film Club Member, continue with the regular booking process. The membership option will appear after you select the venue and date.All activities, including discussions and refreshments, will occur between 7:00 and 9:00 PM.What's Included?Film screeningGroup discussionLight refreshmentsCommunity spaceStudent Discount50% off for students with a valid ID (&amp; must bring ID to the screening).CODE: ALTSTUDENTABOUT ALT EFFAll Living Things Environmental Film Festival (ALT EFF) is the world\u2019s largest decentralised film festival and a premiere showcase for environmental cinema.Across its annual festival, monthly Film Club, schools initiatives, film fund, and year round curations, ALT EFF nurtures stories grounded in care, collective responsibility, stewardship, and an abiding love for the natural world.Spanning countries, genres, languages, and forms, it brings together stories reimagining our relationship with all living things.",
+      "slug": "alteff-filmclub-hyderabad",
+      "specific_sections": "{\"custom\": [], \"default_section\": [{\"text\": \"Environmental Film Club\\nSustainable Living\\nCinema\\nFilm Screening \\nCommunity Building\\nLight Refreshments \", \"label\": \"What's included\"}, {\"text\": \"\", \"label\": \"What's not\"}]}",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 1,
+      "start": "2026-05-15 19:00:00",
+      "start_timestamp": 1778851800,
+      "status": "live",
+      "type": "public",
+      "upcoming_session": "2026-05-15 19:00:00",
+      "upcoming_session_timestamp": 1778851800,
+      "urgency": 0.3,
+      "venue": "Charcha",
+      "who_is_it_for_tag": [
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/for_couples.png",
+          "id": 6,
+          "name": "For Couples",
+          "path": "who_is_it_tags/for_couples.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/solo_friendly.png",
+          "id": 7,
+          "name": "Solo-Friendly",
+          "path": "who_is_it_tags/solo_friendly.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/great_for_groups.png",
+          "id": 9,
+          "name": "Great For Groups",
+          "path": "who_is_it_tags/great_for_groups.png"
+        }
+      ],
+      "photo": "images/5389F96B94F94EC690ABF6FD06A903E7_converted_webp.webp",
+      "categories_name": [
+        "Events"
+      ],
+      "photo_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5389F96B94F94EC690ABF6FD06A903E7_converted_webp.webp",
+      "start_date": "Friday, May 15",
+      "upcoming_session_date": "Friday, May 15",
+      "end_date": "May 15"
+    },
+    {
+      "account_id": 1001,
+      "account_slug": "district150byQUORUM",
+      "address": "Gate 6, Elixir Tower, Level 4, Knowledge City Rd, Silpa Gram Craft Village, Madhapur, Hyderabad, Telangana 500032, India",
+      "approved_id": 12326,
+      "available_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "available_for_booking": true,
+      "average": 0,
+      "booking_confirmation_message": "<p>Thank you for booking a ticket for \"All That Jazz\", we're beyond excited to host you!</p>",
+      "can_be_booked_before": 0,
+      "can_book_till_end": false,
+      "cancel_pending_payment": 12,
+      "cancellation_policy": "<p>Please note we do not do any refunds or transfers, upon cancellation your ticket cannot be refunded. </p>",
+      "category_data": [
+        {
+          "id": 12,
+          "name": "Events",
+          "slug": "events"
+        }
+      ],
+      "city": "Hyderabad",
+      "city_fk_id": 65,
+      "coming_soon": false,
+      "company_description": "Reimagining how people gather over meals, discover cultural experiences & host private events.",
+      "company_name": "district150 by QUORUM",
+      "company_tag_line": "A Contemporary Public Square",
+      "contributor": {
+        "email": "youhyderabad@thequorumclub.com",
+        "first_name": "Front Desk - TQH",
+        "id": 19235
+      },
+      "contributor_id": 19235,
+      "cover_img": "images/E8E677D1D10846B890D2080C29EC4C23_converted_webp.webp",
+      "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+      "display_rank": 5,
+      "display_score": 0.5116,
+      "early_access": false,
+      "email": "youhyderabad@thequorumclub.com",
+      "enable_calendar_invite": false,
+      "enable_list_view": true,
+      "enable_qr_code": false,
+      "end": "2026-05-02 23:00:00",
+      "end_timestamp": 1777743000,
+      "genre_tag": [
+        {
+          "id": 8,
+          "name": "Live GIG",
+          "path": "genretags/live_gig.png"
+        },
+        {
+          "id": 10,
+          "name": "Music",
+          "path": "genretags/music.png"
+        }
+      ],
+      "google_map_link": "https://maps.google.com/?cid=10844849932335510772",
+      "has_end_timestamp": true,
+      "id": "11919",
+      "insider_tip": "This experience sells out pretty quick!",
+      "instant_booking": true,
+      "instructions_from_experience_provider": "",
+      "is_bookable": false,
+      "is_filling_fast": false,
+      "is_itinerary": false,
+      "is_live": true,
+      "is_renamed": false,
+      "is_same_working_hours": false,
+      "lat": "17.43318340000000000000",
+      "lat_lng": [
+        17.4331834,
+        78.3823052
+      ],
+      "lng": "78.38230520000000000000",
+      "medias": [
+        {
+          "id": 585751,
+          "name": null,
+          "order": 0,
+          "path": "images/E8E677D1D10846B890D2080C29EC4C23_converted_webp.webp",
+          "type": "Cover Photo"
+        },
+        {
+          "id": 585752,
+          "name": null,
+          "order": 1,
+          "path": "images/9F2EADE6B8424D908AE98D4B7B297FFF_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 585753,
+          "name": null,
+          "order": 2,
+          "path": "images/6D9DA0E6615C47BA993DCA80635F6C51_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 585754,
+          "name": null,
+          "order": 3,
+          "path": "images/82BE0A1B754A46E18386D1A5EE39F88D_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 585755,
+          "name": null,
+          "order": 4,
+          "path": "images/3EB77483DF494B12A46F66617C815E0F_converted_webp.webp",
+          "type": "Photo"
+        }
+      ],
+      "modified": "2026-04-28 21:23:15",
+      "modified_timestamp": 1777391595,
+      "multi_session": false,
+      "must_see": false,
+      "name": "All That Jazz",
+      "notify_me": false,
+      "order": 11360,
+      "partner_details": "[{\"name\": null, \"email\": null, \"phone\": null}]",
+      "permanently_closed": false,
+      "price_added": true,
+      "price_starts_at": 999,
+      "private_booking_available": false,
+      "quality": 0.4,
+      "questions_to_ask": "{\"custom_questions\": [], \"default_questions\": []}",
+      "scarcity": 0.12,
+      "short_description_plain_text": "The debut of All That Jazz with a dynamic ensemble curated by George Hull delivering an evening of live jazz, funk, and swing, with rich arrangements creating an unforgettable musical experience.",
+      "slug": "all-that-jazz",
+      "specific_sections": "{\"custom\": [], \"default_section\": [{\"text\": \"Entry to the event\\nOne cocktail / zero-proof beverage on arrival\", \"label\": \"What's included\"}, {\"text\": \"\", \"label\": \"What's not\"}]}",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 0,
+      "start": "2026-05-02 20:00:00",
+      "start_timestamp": 1777732200,
+      "status": "live",
+      "type": "public",
+      "upcoming_session": "2026-05-02 20:00:00",
+      "upcoming_session_timestamp": 1777732200,
+      "urgency": 1,
+      "venue": "district150 by QUORUM",
+      "who_is_it_for_tag": [
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/adults_only.png",
+          "id": 4,
+          "name": "Adults Only",
+          "path": "who_is_it_tags/adults_only.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/solo_friendly.png",
+          "id": 7,
+          "name": "Solo-Friendly",
+          "path": "who_is_it_tags/solo_friendly.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/great_for_groups.png",
+          "id": 9,
+          "name": "Great For Groups",
+          "path": "who_is_it_tags/great_for_groups.png"
+        }
+      ],
+      "photo": "images/E8E677D1D10846B890D2080C29EC4C23_converted_webp.webp",
+      "categories_name": [
+        "Events"
+      ],
+      "photo_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E8E677D1D10846B890D2080C29EC4C23_converted_webp.webp",
+      "start_date": "Saturday, May 2",
+      "upcoming_session_date": "Saturday, May 2",
+      "end_date": "May 2"
+    },
+    {
+      "account_id": 1129,
+      "account_slug": "sammelanam",
+      "address": "Road No. 10, Singada Kunta, Banjara Hills, Hyderabad, Telangana 500034, India",
+      "approved_id": 12629,
+      "available_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "available_for_booking": true,
+      "average": 0,
+      "booking_confirmation_message": "<p>Thanks for Registering with us . Follow Sammelanam Page for more updates</p>",
+      "can_be_booked_before": 0,
+      "can_book_till_end": false,
+      "cancel_pending_payment": 12,
+      "cancellation_policy": "<p>No Refunds on Cancellations</p>",
+      "category_data": [
+        {
+          "id": 12,
+          "name": "Events",
+          "slug": "events"
+        }
+      ],
+      "city": "Hyderabad",
+      "city_fk_id": 65,
+      "coming_soon": false,
+      "company_description": "Building Community for Artists",
+      "company_name": "SamMELAnam",
+      "company_tag_line": "Building Community for Artists",
+      "contributor": {
+        "email": "sammelanamevents@gmail.com",
+        "first_name": "Sammelanam",
+        "id": 20040
+      },
+      "contributor_id": 20040,
+      "cover_img": "images/D8E17E4ECFF248CCA1B469135C2577FE_converted_webp.webp",
+      "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+      "display_rank": 5,
+      "display_score": 0.34,
+      "early_access": false,
+      "email": "sammelanamevents@gmail.com",
+      "enable_calendar_invite": false,
+      "enable_list_view": true,
+      "enable_qr_code": false,
+      "end": "2026-05-02 21:00:00",
+      "end_timestamp": 1777735800,
+      "genre_tag": [
+        {
+          "id": 8,
+          "name": "Live GIG",
+          "path": "genretags/live_gig.png"
+        },
+        {
+          "id": 10,
+          "name": "Music",
+          "path": "genretags/music.png"
+        },
+        {
+          "id": 20,
+          "name": "Pop-up Event",
+          "path": "genretags/pop_up_event.png"
+        }
+      ],
+      "google_map_link": "https://maps.google.com/?cid=5296413768915836014",
+      "has_end_timestamp": true,
+      "id": "12222",
+      "insider_tip": "This experience sells out pretty quick!",
+      "instant_booking": true,
+      "instructions_from_experience_provider": "",
+      "is_bookable": false,
+      "is_filling_fast": false,
+      "is_itinerary": false,
+      "is_live": true,
+      "is_renamed": false,
+      "is_same_working_hours": false,
+      "lat": "17.41538630000000000000",
+      "lat_lng": [
+        17.4153863,
+        78.43455829999999
+      ],
+      "lng": "78.43455829999999000000",
+      "medias": [
+        {
+          "id": 590293,
+          "name": null,
+          "order": 0,
+          "path": "images/D8E17E4ECFF248CCA1B469135C2577FE_converted_webp.webp",
+          "type": "Cover Photo"
+        }
+      ],
+      "modified": "2026-04-28 21:24:04",
+      "modified_timestamp": 1777391645,
+      "multi_session": false,
+      "must_see": false,
+      "name": "Bollywood Fusion Jamming",
+      "notify_me": false,
+      "order": 11660,
+      "partner_details": "[{\"name\": null, \"email\": null, \"phone\": null}]",
+      "permanently_closed": false,
+      "price_added": true,
+      "price_starts_at": 149,
+      "private_booking_available": false,
+      "quality": 0,
+      "questions_to_ask": "{\"custom_questions\": [], \"default_questions\": []}",
+      "scarcity": 0,
+      "short_description_plain_text": "Bollywood Fusion Jamming \u2013 Live, Loud &amp; LimitlessStep into a space where music isn\u2019t just performed \u2014 it\u2019s *created together*. Bollywood Fusion Jamming is a high-energy, interactive musical experience where artists and audiences come together to celebrate music beyond boundaries. From soulful Bollywood melodies to electrifying fusion blends with indie, rock, Sufi, and folk \u2014 this is where spontaneity meets pure vibe.What is Jamming?Jamming is an open, collaborative musical session where musicians and singers come together without rigid structure. It\u2019s about improvisation, creativity, and connection. Whether you're a trained artist or someone who simply loves to sing along, jamming allows you to express freely, experiment with music, and be part of something organic and real.What to Expect?* Live band setting the stage with Bollywood + fusion tracks* Open mic-style participation \u2014 sing, perform, or simply vibe* A mix of classic hits, modern chartbusters, and unexpected mashups* An energetic crowd that turns into a musical communityWhy You Should Join:* Experience music *beyond just listening* \u2014 become part of it* Meet like-minded music lovers and performers* Break the monotony of regular gigs with something interactive* No pressure, no judgment \u2014 just pure musical expressionWhether you\u2019re a bathroom singer, a stage performer, or someone who just loves Bollywood music \u2014 this is your stage, your vibe, your night.Come for the music. Stay for the magic.",
+      "slug": "bollywood-fusion-jamming",
+      "specific_sections": "{\"custom\": [], \"default_section\": [{\"text\": \"\", \"label\": \"What's included\"}, {\"text\": \"\", \"label\": \"What's not included\"}]}",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 0,
+      "start": "2026-05-02 18:00:00",
+      "start_timestamp": 1777725000,
+      "status": "live",
+      "type": "public",
+      "upcoming_session": "2026-05-02 18:00:00",
+      "upcoming_session_timestamp": 1777725000,
+      "urgency": 1,
+      "venue": "Cafin Coffee & Kitchen",
+      "who_is_it_for_tag": [
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/family_friendly.png",
+          "id": 5,
+          "name": "Family-Friendly",
+          "path": "who_is_it_tags/family_friendly.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/for_couples.png",
+          "id": 6,
+          "name": "For Couples",
+          "path": "who_is_it_tags/for_couples.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/great_for_groups.png",
+          "id": 9,
+          "name": "Great For Groups",
+          "path": "who_is_it_tags/great_for_groups.png"
+        }
+      ],
+      "photo": "images/D8E17E4ECFF248CCA1B469135C2577FE_converted_webp.webp",
+      "categories_name": [
+        "Events"
+      ],
+      "photo_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D8E17E4ECFF248CCA1B469135C2577FE_converted_webp.webp",
+      "start_date": "Saturday, May 2",
+      "upcoming_session_date": "Saturday, May 2",
+      "end_date": "May 2"
+    },
+    {
+      "account_id": 1129,
+      "account_slug": "sammelanam",
+      "address": "Flix and Fun, 1-98/5/3, near bank of baroda, VIP Hills, Silicon Valley, Madhapur, Hyderabad, Telangana 500081, India",
+      "approved_id": 12784,
+      "available_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "available_for_booking": true,
+      "average": 0,
+      "booking_confirmation_message": "<p>Thanks for Registering with us. Follow Sammelanam Page for More Updates</p>",
+      "can_be_booked_before": 0,
+      "can_book_till_end": false,
+      "cancel_pending_payment": 12,
+      "cancellation_policy": "<p><strong>Tickets once booked are non-refundable and non-transferable.</strong></p><p>Entry is permitted only with a valid ticket (digital or printed) shown at the venue.</p><p>Seating/standing is on a <strong>first-come, first-served basis</strong> unless specified otherwise.</p><p>The event organizer reserves the right to <strong>deny entry</strong> in case of late arrival, misconduct, or non-compliance with venue rules.</p><p><strong>Outside food and beverages are not allowed</strong> inside the venue.</p><p>Participants are expected to maintain decorum; any <strong>misbehavior may lead to removal</strong> from the event without refund.</p><p>The event may be <strong>photographed or recorded</strong>; attendees consent to the use of their images/videos for promotional purposes.</p><p><strong>Lineup, timings, or flow of the event are subject to change</strong> without prior notice due to unforeseen circumstances.</p><p>The organizer is not responsible for <strong>any personal belongings lost or damaged</strong> during the event.</p><p>Any damage caused to the venue property by attendees will be <strong>chargeable</strong>.</p><p>Entry may be restricted based on <strong>age limits or venue policies</strong>, if applicable.</p>",
+      "category_data": [
+        {
+          "id": 12,
+          "name": "Events",
+          "slug": "events"
+        }
+      ],
+      "city": "Hyderabad",
+      "city_fk_id": 65,
+      "coming_soon": false,
+      "company_description": "Building Community for Artists",
+      "company_name": "SamMELAnam",
+      "company_tag_line": "Building Community for Artists",
+      "contributor": {
+        "email": "sammelanamevents@gmail.com",
+        "first_name": "Sammelanam",
+        "id": 20040
+      },
+      "contributor_id": 20040,
+      "cover_img": "images/4106B6E0A48B44D997F9D9A33044EDC8_converted_webp.webp",
+      "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+      "display_rank": 5,
+      "display_score": 0.34,
+      "early_access": false,
+      "email": "sammelanamevents@gmail.com",
+      "enable_calendar_invite": false,
+      "enable_list_view": true,
+      "enable_qr_code": false,
+      "end": "2026-05-02 21:00:00",
+      "end_timestamp": 1777735800,
+      "genre_tag": [
+        {
+          "id": 8,
+          "name": "Live GIG",
+          "path": "genretags/live_gig.png"
+        },
+        {
+          "id": 10,
+          "name": "Music",
+          "path": "genretags/music.png"
+        },
+        {
+          "id": 1,
+          "name": "Active",
+          "path": "genretags/active.png"
+        }
+      ],
+      "google_map_link": "https://maps.google.com/?cid=18399394919860204994",
+      "google_place_id": "ChIJeeoHcgCRyzsRwvVkCDLIV_8",
+      "has_end_timestamp": true,
+      "id": "12377",
+      "insider_tip": "This experience sells out pretty quick!",
+      "instant_booking": true,
+      "instructions_from_experience_provider": "",
+      "is_bookable": false,
+      "is_filling_fast": false,
+      "is_itinerary": false,
+      "is_live": true,
+      "is_renamed": false,
+      "is_same_working_hours": false,
+      "lat": "17.44619140000000000000",
+      "lat_lng": [
+        17.4461914,
+        78.3877921
+      ],
+      "lng": "78.38779210000000000000",
+      "medias": [
+        {
+          "id": 600092,
+          "name": null,
+          "order": 0,
+          "path": "images/4106B6E0A48B44D997F9D9A33044EDC8_converted_webp.webp",
+          "type": "Cover Photo"
+        }
+      ],
+      "modified": "2026-04-28 21:24:33",
+      "modified_timestamp": 1777391674,
+      "multi_session": false,
+      "must_see": false,
+      "name": "Tollywood Jamming and Open Mic",
+      "notify_me": false,
+      "order": 11811,
+      "partner_details": "[{\"name\": null, \"email\": null, \"phone\": null}]",
+      "permanently_closed": false,
+      "price_added": true,
+      "price_starts_at": 199,
+      "private_booking_available": false,
+      "quality": 0,
+      "questions_to_ask": "{\"custom_questions\": [], \"default_questions\": []}",
+      "scarcity": 0,
+      "short_description_plain_text": "Sammelanam Presents \u2013 Season 23 \ud83c\udfb6Musical Jamming: Voice of Mani YashwanthStep into an evening where music meets pure emotion as Sammelanam Presents Season 23, featuring the incredible voice of Mani Yashwanth!Recognized for his standout journey on Sa Re Ga Ma Pa and Super Singer, Mani Yashwanth brings a magical blend of soulful melodies, powerful vocals, and unmatched stage presence that will leave you mesmerized.This isn\u2019t just a performance \u2014 it\u2019s a live musical jamming experience where the audience becomes part of the rhythm. Sing along, vibe with like-minded music lovers, and witness a voice that truly carries charisma and depth.\u2728 What makes this special:Live jamming with a renowned singing sensationBollywood, fusion &amp; soulful tracks performed liveInteractive sing-along experienceA vibrant atmosphere filled with music, energy &amp; connectionIf you love music that you can feel, this is your moment. Gather your gang, bring your vibe, and be part of an unforgettable night with Sammelanam.Limited entries only \u2013 Book your tickets now! \ud83c\udfa4",
+      "slug": "tollywood-jamming-and-open-mic",
+      "specific_sections": "{\"custom\": [], \"default_section\": [{\"text\": \"\", \"label\": \"What's included\"}, {\"text\": \"\", \"label\": \"What's not included\"}]}",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 0,
+      "start": "2026-05-02 18:00:00",
+      "start_timestamp": 1777725000,
+      "status": "live",
+      "type": "public",
+      "upcoming_session": "2026-05-02 18:00:00",
+      "upcoming_session_timestamp": 1777725000,
+      "urgency": 1,
+      "venue": "Kriya Cafe",
+      "who_is_it_for_tag": [
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/family_friendly.png",
+          "id": 5,
+          "name": "Family-Friendly",
+          "path": "who_is_it_tags/family_friendly.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/great_for_groups.png",
+          "id": 9,
+          "name": "Great For Groups",
+          "path": "who_is_it_tags/great_for_groups.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/for_all_ages.png",
+          "id": 8,
+          "name": "For All Ages",
+          "path": "who_is_it_tags/for_all_ages.png"
+        }
+      ],
+      "photo": "images/4106B6E0A48B44D997F9D9A33044EDC8_converted_webp.webp",
+      "categories_name": [
+        "Events"
+      ],
+      "photo_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4106B6E0A48B44D997F9D9A33044EDC8_converted_webp.webp",
+      "start_date": "Saturday, May 2",
+      "upcoming_session_date": "Saturday, May 2",
+      "end_date": "May 2"
+    },
+    {
+      "account_id": 1213,
+      "account_slug": "thebrainbar",
+      "address": "Level 2, The District, near Regus, Financial District, Nanakramguda, Hyderabad, Telangana 500032, India",
+      "approved_id": 12694,
+      "available_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "available_for_booking": true,
+      "average": 0,
+      "booking_confirmation_message": "<p>Hey there,</p><p>Welcome to the community of curious minds!</p><p>We\u2019re really glad you\u2019ve booked your spot. You\u2019re now part of a small curated group of people who\u2019ve chosen to spend an evening exploring an idea that might just change how you see the world.</p><p><strong>Your Session Details:</strong></p><p>Topic: <em>Your Closet Is Full. So Why Is Getting Dressed So Hard?</em></p><p>\ud83d\udcc5 Saturday, 2nd May</p><p>\ud83d\udd54 5:00 PM \u2013 7:00 PM</p><p>\ud83d\udccd 3 Bears Caf\u00e9, Financial District</p><p><strong>What to Expect:</strong></p><p>An evening of ideas, conversations, and curiosity:</p><ul><li>A thought-provoking session by a fashion expert</li><li>Open discussion and Q&amp;A</li><li>A chance to meet a room full of curious, like-minded people</li><li>\u20b9150 redeemable F&amp;B coupon to enjoy at the caf\u00e9</li></ul><p><br></p><p><strong> A few quick notes:</strong></p><ul><li>We recommend arriving atleast <strong>10 minutes early</strong> to settle in</li><li>Bring your curiosity and a notebook (if you'd like to take notes)</li><li>Feel free to ask questions -&nbsp;<strong>Prof. Jasti Pooja</strong> encourages an open, interactive discussion.</li></ul><p><br></p><p>We\u2019re trying to build something a little different here - a space where interesting ideas are explored not in lecture halls, but in everyday settings, through conversations. <em>You won\u2019t just attend a session; you\u2019ll leave with a new way of seeing something you thought you already understood.</em></p><p>To stay connected - for behind the scene contents and updates about our upcoming sessions:</p><p><em>Join our </em><a href=\"https://chat.whatsapp.com/FuZBWYruFGd4xCHIrTOhZL\" rel=\"noopener noreferrer\" target=\"_blank\"><em>whatsapp community</em></a><em> and follow us on </em><a href=\"https://www.instagram.com/thebrainbar.hyd/\" rel=\"noopener noreferrer\" target=\"_blank\"><em>instagram</em></a></p><p><br></p><p>If you have any questions before the event, please feel free to reach out to us!</p><p>See you soon, and here\u2019s to making learning a regular weekend habit.</p><p><br></p><p>Best,</p><p>Team The Brain Bar</p>",
+      "can_be_booked_before": 0,
+      "can_book_till_end": true,
+      "cancel_pending_payment": 12,
+      "cancellation_policy": "<ul><li>Tickets are strictly not refundable however you can transfer your tickets to a friend/family if you are unable to join.</li><li>If the Brain Bar cancels or reschedules the event, attendees will receive a full refund.</li><li>Only for student tickets: please carry your student ID for verification at the event. This ticket does not include any redeemable coupon.</li></ul>",
+      "category_data": [
+        {
+          "id": 12,
+          "name": "Events",
+          "slug": "events"
+        }
+      ],
+      "city": "Hyderabad",
+      "city_fk_id": 65,
+      "coming_soon": false,
+      "company_description": "The Brain Bar is a series of intimate gatherings that bring bold, interesting ideas into unconventional spaces. Each session features a thought-led conversation with an expert, followed by Q&A and informal discussions over food and coffee.",
+      "company_name": "The Brain Bar",
+      "company_tag_line": "Coffee, Conversations & Curiosity",
+      "contributor": {
+        "email": "itsbrainbar@gmail.com",
+        "first_name": "The Brain Bar",
+        "id": 20670
+      },
+      "contributor_id": 20670,
+      "cover_img": "images/0ECC7BC644184CDDAF4F79B04019B5F1_converted_webp.webp",
+      "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+      "display_rank": 5,
+      "display_score": 0.4687,
+      "early_access": false,
+      "email": "itsbrainbar@gmail.com",
+      "enable_calendar_invite": false,
+      "enable_list_view": true,
+      "enable_qr_code": false,
+      "end": "2026-05-02 19:00:00",
+      "end_timestamp": 1777728600,
+      "genre_tag": [
+        {
+          "id": 4,
+          "name": "Food & drink",
+          "path": "genretags/food_and_drink.png"
+        }
+      ],
+      "google_map_link": "https://maps.google.com/?cid=16472332012930285595",
+      "google_place_id": "ChIJYRms-CGVyzsRG0ABDbF6meQ",
+      "has_end_timestamp": true,
+      "id": "12287",
+      "insider_tip": "This experience sells out pretty quick!",
+      "instant_booking": true,
+      "instructions_from_experience_provider": "",
+      "is_bookable": false,
+      "is_filling_fast": false,
+      "is_itinerary": false,
+      "is_live": true,
+      "is_renamed": false,
+      "is_same_working_hours": false,
+      "lat": "17.41291850000000000000",
+      "lat_lng": [
+        17.4129185,
+        78.3349838
+      ],
+      "lng": "78.33498380000000000000",
+      "medias": [
+        {
+          "id": 600321,
+          "name": null,
+          "order": 0,
+          "path": "images/0ECC7BC644184CDDAF4F79B04019B5F1_converted_webp.webp",
+          "type": "Cover Photo"
+        }
+      ],
+      "modified": "2026-04-28 21:24:16",
+      "modified_timestamp": 1777391656,
+      "multi_session": false,
+      "must_see": false,
+      "name": "Why Is Getting Dressed So Hard?",
+      "notify_me": false,
+      "order": 11725,
+      "partner_details": "[{\"name\": null, \"email\": null, \"phone\": null}]",
+      "permanently_closed": false,
+      "price_added": true,
+      "price_starts_at": 349,
+      "private_booking_available": false,
+      "quality": 0.36,
+      "questions_to_ask": "{\"custom_questions\": [{\"optional\": false, \"question\": \"How old are you? (to gauge if wisdom comes with age :p)\", \"required\": true, \"input_type\": \"TEXT\"}, {\"optional\": false, \"question\": \"How did you hear about us?\", \"required\": true, \"input_type\": \"TEXT\"}], \"default_questions\": []}",
+      "scarcity": 0.03,
+      "short_description_plain_text": "\ud83e\udde0 The Brain Bar presents\u201cYour Closet Is Full. So Why Is Getting Dressed So Hard?\u201d\ud83d\udcc5 Saturday, May 2nd | \ud83d\udd54 5:00 PM \u2013 7:00 PM\ud83d\udccd 3 Bears Cafe, Financial District If we have more clothing choices than any generation before us, why do so many of us feel worse getting dressed?Closets are fuller. Trends move faster. Style advice is everywhere.And yet every morning, people still stand in front of wardrobes feeling unsure, underwhelmed, or strangely disconnected from what they wear.Too plain. Too much. Too old. Too forced. Too expensive to fix.So what\u2019s really going on?About the Session:Fashion is rarely just about clothes. It shapes first impressions, confidence, identity, belonging, gender expectations, status, and the quiet fear of being judged.This session explores why getting dressed has become unexpectedly complicated in modern life and why having more options often creates more confusion, not more freedom.We\u2019ll unpack questions like:Why do people with full wardrobes still feel like they have nothing to wear?Who created the \u201crules\u201d of dressing well and who benefits from them?Why does fashion advice often feel aspirational but unusable?Why do trends make us buy more, yet feel less satisfied?Why do many men feel excluded from style conversations until they need help?Why has the best fashion advice in your life probably come from a woman?What does it truly mean to develop personal style instead of performing one?We\u2019ll also look at how clothing has evolved from utility to identity marker and how culture, media, and insecurity now shape what hangs in our closets.This is not a lecture on brands or aesthetics.It is a sharp, honest conversation about why something as ordinary as getting dressed can feel so psychologically loaded.Some of it may sting. But it may also change how you look at your wardrobe forever.About the Speaker:Prof. Jasti Pooja is an Associate Professor in the Department of Fashion Design at National Institute of Fashion Technology. An alumna of National Institute of Fashion Technology and National Institute of Design, she brings both industry and academic experience to her work in fashion education. Her teaching and research focus on pattern making, fashion theory, and the history of fashion, exploring how design, culture, and craft intersect. Since joining NIFT in 2009, she has also served as Course Coordinator in the Fashion Design department, helping shape the next generation of designers.About The Brain Bar:The Brain Bar is a series of intimate, idea-driven gatherings hosted in caf\u00e9s and bars, where complex ideas are explored through engaging, discussion-led conversations. It\u2019s where you come not just to listen, but to think, question, and see the world a little differently.If you\u2019ve ever looked at a full closet and still felt like you had nothing to wear - this conversation is for you.",
+      "slug": "whyisgettingdressedsohard",
+      "specific_sections": "{\"custom\": [], \"default_section\": [{\"text\": \"Rs. 150 redeemable F&B coupon\\nBeginner-friendly Lecture session\\nQ&A and Informal Discussions\\nNetworking\", \"label\": \"What's included\"}, {\"text\": \"\", \"label\": \"What's not\"}]}",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 0,
+      "start": "2026-05-02 17:00:00",
+      "start_timestamp": 1777721400,
+      "status": "live",
+      "type": "public",
+      "upcoming_session": "2026-05-02 17:00:00",
+      "upcoming_session_timestamp": 1777721400,
+      "urgency": 1,
+      "venue": "3 Bears Cafe | Financial District",
+      "who_is_it_for_tag": [
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/beginner_friendly.png",
+          "id": 3,
+          "name": "Beginner-Friendly",
+          "path": "who_is_it_tags/beginner_friendly.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/solo_friendly.png",
+          "id": 7,
+          "name": "Solo-Friendly",
+          "path": "who_is_it_tags/solo_friendly.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/for_all_ages.png",
+          "id": 8,
+          "name": "For All Ages",
+          "path": "who_is_it_tags/for_all_ages.png"
+        }
+      ],
+      "photo": "images/0ECC7BC644184CDDAF4F79B04019B5F1_converted_webp.webp",
+      "categories_name": [
+        "Events"
+      ],
+      "photo_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0ECC7BC644184CDDAF4F79B04019B5F1_converted_webp.webp",
+      "start_date": "Saturday, May 2",
+      "upcoming_session_date": "Saturday, May 2",
+      "end_date": "May 2"
+    },
+    {
+      "account_id": 1298,
+      "account_slug": "well-being-arts-hub",
+      "address": "Hyderabad, Telangana, India",
+      "approved_id": 12745,
+      "available_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "available_for_booking": true,
+      "average": 0,
+      "booking_confirmation_message": "<p>You\u2019re in.</p><p>Thank you for signing up for <strong>Adulting Classroom: Heartbreaks</strong>. We\u2019re looking forward to having you with us.</p><p>Before the lecture, please take a moment to fill this short form so we can stay in touch and share important updates:</p><p><a href=\"https://forms.gle/G5hrdZtmdMuBvreB7\" rel=\"noopener noreferrer\" target=\"_blank\">https://forms.gle/G5hrdZtmdMuBvreB7</a></p><p>You\u2019ll receive all further details, including access information, closer to the date.</p><p>See you there. Bring your curiosity.</p><p>- Well-being and Arts Hub</p>",
+      "can_be_booked_before": 0,
+      "can_book_till_end": false,
+      "cancel_pending_payment": 12,
+      "cancellation_policy": "<h3><strong>Refund Policy</strong></h3><ul><li>All bookings are final. We do not offer refunds once a spot has been confirmed</li><li>If you\u2019re unable to attend, you may transfer your spot to someone else with prior notice</li><li>In case of unforeseen circumstances from our end, a full refund or reschedule will be offered&nbsp;</li></ul><p><br></p>",
+      "category_data": [
+        {
+          "id": 12,
+          "name": "Events",
+          "slug": "events"
+        }
+      ],
+      "city": "Hyderabad",
+      "city_fk_id": 65,
+      "coming_soon": false,
+      "company_description": "We are your creative corner for feeling, connecting and belonging.",
+      "company_name": "Well-being & Arts Hub",
+      "company_tag_line": "The art of being well",
+      "contributor": {
+        "email": "amruta@wearehub.org",
+        "first_name": "Amruta",
+        "id": 21387
+      },
+      "contributor_id": 21387,
+      "cover_img": "images/239D268302E84FACB1CA13642D546C8F_converted_webp.webp",
+      "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+      "display_rank": 5,
+      "display_score": 0.102,
+      "early_access": false,
+      "email": "amruta@wearehub.org",
+      "enable_calendar_invite": false,
+      "enable_list_view": true,
+      "enable_qr_code": false,
+      "end": "2026-05-16 13:30:00",
+      "end_timestamp": 1778918400,
+      "genre_tag": [
+        {
+          "id": 13,
+          "name": "Responsible",
+          "path": "genretags/responsible.png"
+        },
+        {
+          "id": 16,
+          "name": "Wellness",
+          "path": "genretags/wellness.png"
+        },
+        {
+          "id": 17,
+          "name": "Workshop",
+          "path": "genretags/workshop.png"
+        }
+      ],
+      "google_map_link": "https://maps.google.com/?cid=12579599959906253762",
+      "has_end_timestamp": true,
+      "id": "12338",
+      "insider_tip": "This experience sells out pretty quick!",
+      "instant_booking": true,
+      "instructions_from_experience_provider": "",
+      "is_bookable": false,
+      "is_filling_fast": false,
+      "is_itinerary": false,
+      "is_live": true,
+      "is_renamed": false,
+      "is_same_working_hours": false,
+      "lat": "17.40649800000000000000",
+      "lat_lng": [
+        17.406498,
+        78.47724389999999
+      ],
+      "lng": "78.47724389999999000000",
+      "medias": [
+        {
+          "id": 597642,
+          "name": null,
+          "order": 0,
+          "path": "images/239D268302E84FACB1CA13642D546C8F_converted_webp.webp",
+          "type": "Cover Photo"
+        },
+        {
+          "id": 597643,
+          "name": null,
+          "order": 1,
+          "path": "images/35E47725B2C2415AB138F97946E2A614_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 597644,
+          "name": null,
+          "order": 2,
+          "path": "images/63DFD08AAE214B8EA66D8AB1125EFBD4_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 597645,
+          "name": null,
+          "order": 3,
+          "path": "images/56A29B26951E4B93BFA9AE9FF1FB91A0_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 597646,
+          "name": null,
+          "order": 4,
+          "path": "images/D1F7600596A04823987B29569D48CDE2_converted_webp.webp",
+          "type": "Photo"
+        }
+      ],
+      "modified": "2026-04-28 21:24:27",
+      "modified_timestamp": 1777391667,
+      "multi_session": false,
+      "must_see": false,
+      "name": "Adulting Classroom (Online Lecture) - Heartbreaks",
+      "notify_me": false,
+      "order": 11776,
+      "partner_details": "[{\"name\": null, \"email\": null, \"phone\": null}]",
+      "permanently_closed": false,
+      "price_added": true,
+      "price_starts_at": 1200,
+      "private_booking_available": false,
+      "quality": 0,
+      "questions_to_ask": "{\"custom_questions\": [], \"default_questions\": []}",
+      "scarcity": 0,
+      "short_description_plain_text": "Adulting ClassroomThere should have been a class for this.Not just math and science.But love. Emotions. People. Decisions. Life.But there wasn\u2019t.So we grew up.And now we\u2019re all out here\u2026 figuring it out. Sometimes well, sometimes not so much.Adulting Classroom is where we finally sit down and learn the things we somehow missed.Clear, thoughtful, and rooted in psychological insight.Slightly uncomfortable in a good way.This is a LIVE ONLINE LECTURE SERIES across six Saturdays from 9 May to 13 June, 12 pm to 1:30 pm.Different topic each week. Same question underneath it all:why does being human feel like this?Lecture 2: HeartbreaksAt some point, something breaks.And no one really tells you what to do with that.So you sit with it. Distract yourself. Overthink it.Or pretend you\u2019re over it when you\u2019re\u2026 not entirely.Heartbreaks is a lecture about that space.What are we actually feeling when something ends?What makes it linger?Why does it come back when we think we\u2019ve moved on?Grounded in psychological insight, this lecture looks at heartbreak not just as something to \u201cget over\u201d,but something that stays, shifts, and sometimes teaches.Led by a registered psychotherapist with over 8 years of experience,this lecture is part of Adulting Classroom by Well-being and Arts Hub.\ud83d\udccd Live online lectureLimited spots to keep the space focusedCome if you\u2019re curious.Stay if it feels a little too familiar.",
+      "slug": "adulting-classroom-online-lecture-heartbreaks",
+      "specific_sections": "{\"custom\": [], \"default_section\": [{\"text\": \"A 90-minute lecture grounded in psychological insight\\nUnderstanding heartbreak beyond the usual \u201cjust move on\u201d advice\", \"label\": \"What's included\"}, {\"text\": \"\", \"label\": \"What's not included\"}]}",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 0,
+      "start": "2026-05-16 12:00:00",
+      "start_timestamp": 1778913000,
+      "status": "live",
+      "type": "public",
+      "upcoming_session": "2026-05-16 12:00:00",
+      "upcoming_session_timestamp": 1778913000,
+      "urgency": 0.3,
+      "venue": "Online - Zoom",
+      "who_is_it_for_tag": [
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/beginner_friendly.png",
+          "id": 3,
+          "name": "Beginner-Friendly",
+          "path": "who_is_it_tags/beginner_friendly.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/adults_only.png",
+          "id": 4,
+          "name": "Adults Only",
+          "path": "who_is_it_tags/adults_only.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/solo_friendly.png",
+          "id": 7,
+          "name": "Solo-Friendly",
+          "path": "who_is_it_tags/solo_friendly.png"
+        }
+      ],
+      "photo": "images/239D268302E84FACB1CA13642D546C8F_converted_webp.webp",
+      "categories_name": [
+        "Events"
+      ],
+      "photo_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/239D268302E84FACB1CA13642D546C8F_converted_webp.webp",
+      "start_date": "Saturday, May 16",
+      "upcoming_session_date": "Saturday, May 16",
+      "end_date": "May 16"
+    },
+    {
+      "account_id": 1298,
+      "account_slug": "well-being-arts-hub",
+      "address": "Hyderabad, Telangana, India",
+      "approved_id": 12738,
+      "available_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "available_for_booking": true,
+      "average": 0,
+      "booking_confirmation_message": "<p>You\u2019re in.</p><p>Thank you for signing up for <strong>Adulting Classroom: Love 101</strong>. We\u2019re looking forward to having you with us.</p><p>Before the lecture, please take a moment to fill this short form so we can stay in touch and share important updates:</p><p><a href=\"https://forms.gle/G5hrdZtmdMuBvreB7\" rel=\"noopener noreferrer\" target=\"_blank\">https://forms.gle/G5hrdZtmdMuBvreB7</a></p><p>You\u2019ll receive all further details, including access information, closer to the date.</p><p>See you there. Bring your curiosity.</p><p>- Well-being and Arts Hub</p>",
+      "can_be_booked_before": 0,
+      "can_book_till_end": false,
+      "cancel_pending_payment": 12,
+      "cancellation_policy": "<h3><strong>Refund Policy</strong></h3><ul><li>All bookings are final. We do not offer refunds once a spot has been confirmed</li><li>If you\u2019re unable to attend, you may transfer your spot to someone else with prior notice</li><li>In case of unforeseen circumstances from our end, a full refund or reschedule will be offered&nbsp;</li></ul><p><br></p>",
+      "category_data": [
+        {
+          "id": 12,
+          "name": "Events",
+          "slug": "events"
+        }
+      ],
+      "city": "Hyderabad",
+      "city_fk_id": 65,
+      "coming_soon": false,
+      "company_description": "We are your creative corner for feeling, connecting and belonging.",
+      "company_name": "Well-being & Arts Hub",
+      "company_tag_line": "The art of being well",
+      "contributor": {
+        "email": "amruta@wearehub.org",
+        "first_name": "Amruta",
+        "id": 21387
+      },
+      "contributor_id": 21387,
+      "cover_img": "images/A15121024B9D4B85849D3510E0477E24_converted_webp.webp",
+      "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+      "display_rank": 5,
+      "display_score": 0.17,
+      "early_access": false,
+      "email": "amruta@wearehub.org",
+      "enable_calendar_invite": false,
+      "enable_list_view": true,
+      "enable_qr_code": false,
+      "end": "2026-05-09 13:30:00",
+      "end_timestamp": 1778313600,
+      "genre_tag": [
+        {
+          "id": 13,
+          "name": "Responsible",
+          "path": "genretags/responsible.png"
+        },
+        {
+          "id": 16,
+          "name": "Wellness",
+          "path": "genretags/wellness.png"
+        },
+        {
+          "id": 17,
+          "name": "Workshop",
+          "path": "genretags/workshop.png"
+        }
+      ],
+      "google_map_link": "https://maps.google.com/?cid=12579599959906253762",
+      "has_end_timestamp": true,
+      "id": "12331",
+      "insider_tip": "This experience sells out pretty quick!",
+      "instant_booking": true,
+      "instructions_from_experience_provider": "Please note this event is ONLINE!",
+      "is_bookable": false,
+      "is_filling_fast": false,
+      "is_itinerary": false,
+      "is_live": true,
+      "is_renamed": false,
+      "is_same_working_hours": false,
+      "lat": "17.40649800000000000000",
+      "lat_lng": [
+        17.406498,
+        78.47724389999999
+      ],
+      "lng": "78.47724389999999000000",
+      "medias": [
+        {
+          "id": 597564,
+          "name": null,
+          "order": 0,
+          "path": "images/A15121024B9D4B85849D3510E0477E24_converted_webp.webp",
+          "type": "Cover Photo"
+        },
+        {
+          "id": 597565,
+          "name": null,
+          "order": 1,
+          "path": "images/0DF4B314574747828295D5B30FC6B3DE_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 597566,
+          "name": null,
+          "order": 2,
+          "path": "images/BF0E18988E72416C985E14C0A35BA8B8_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 597567,
+          "name": null,
+          "order": 3,
+          "path": "images/C728D8D2B95F4A0AA6FDCED7BA46386F_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 597568,
+          "name": null,
+          "order": 4,
+          "path": "images/F63A1BED58B6497B9D659BD957EA0170_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 597569,
+          "name": null,
+          "order": 5,
+          "path": "images/42E65FD6658D4C52B4D72D5D7731241C_converted_webp.webp",
+          "type": "Photo"
+        }
+      ],
+      "modified": "2026-04-28 21:24:25",
+      "modified_timestamp": 1777391665,
+      "multi_session": false,
+      "must_see": false,
+      "name": "Adulting Classroom (Online Lecture) - Love 101",
+      "notify_me": false,
+      "order": 11769,
+      "partner_details": "[{\"name\": null, \"email\": null, \"phone\": null}]",
+      "permanently_closed": false,
+      "price_added": true,
+      "price_starts_at": 1200,
+      "private_booking_available": false,
+      "quality": 0,
+      "questions_to_ask": "{\"custom_questions\": [], \"default_questions\": []}",
+      "scarcity": 0,
+      "short_description_plain_text": "Adulting ClassroomThere should have been a class for this.Not just math and science.But love. Emotions. People. Decisions. Life.But there wasn\u2019t.So we grew up.And now we\u2019re all out here\u2026 figuring it out. Sometimes well, sometimes not so much.Adulting Classroom is where we finally sit down and learn the things we somehow missed.Clear, thoughtful, and rooted in psychological insight.Slightly uncomfortable in a good way.This is a LIVE ONLINE LECTURE SERIES across six Saturdays from 9 May to 13 June, 12 pm to 1:30 pm.Different topic each week. Same question underneath it all:why does being human feel like this?Lecture 1: Love 101We begin with the simplest, most complicated thing.Love.The thing we talk about all the time.And understand\u2026 not always.What have we been calling love?And what might love actually be?Love 101 is a lecture that explores how we\u2019ve come to understand love, and how those ideas quietly shape our lives.Grounded in psychological insight, this is not about perfect answers or quick fixes.It is about seeing things a little more clearly.Led by a registered psychotherapist with over 8 years of experience,this lecture is part of Adulting Classroom by Well-being and Arts Hub.\ud83d\udccd Live online lectureLimited spots to keep the space focusedCome if you\u2019re curious.Stay if you find yourself thinking about it later.",
+      "slug": "adulting-classroom-online-lecture-love-101",
+      "specific_sections": "{\"custom\": [], \"default_section\": [{\"text\": \"A 90-minute live online lecture that might make you rethink a few things\\nHonest, structured insights on love that go beyond clich\u00e9s\\nThoughts that will probably stay with you longer than expected\", \"label\": \"What's included\"}, {\"text\": \"\", \"label\": \"What's not included\"}]}",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 0,
+      "start": "2026-05-09 12:00:00",
+      "start_timestamp": 1778308200,
+      "status": "live",
+      "type": "public",
+      "upcoming_session": "2026-05-09 12:00:00",
+      "upcoming_session_timestamp": 1778308200,
+      "urgency": 0.5,
+      "venue": "Online - Zoom",
+      "who_is_it_for_tag": [
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/beginner_friendly.png",
+          "id": 3,
+          "name": "Beginner-Friendly",
+          "path": "who_is_it_tags/beginner_friendly.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/adults_only.png",
+          "id": 4,
+          "name": "Adults Only",
+          "path": "who_is_it_tags/adults_only.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/solo_friendly.png",
+          "id": 7,
+          "name": "Solo-Friendly",
+          "path": "who_is_it_tags/solo_friendly.png"
+        }
+      ],
+      "photo": "images/A15121024B9D4B85849D3510E0477E24_converted_webp.webp",
+      "categories_name": [
+        "Events"
+      ],
+      "photo_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A15121024B9D4B85849D3510E0477E24_converted_webp.webp",
+      "start_date": "Saturday, May 9",
+      "upcoming_session_date": "Saturday, May 9",
+      "end_date": "May 9"
+    },
+    {
+      "account_id": 1278,
+      "account_slug": "roast-ccx",
+      "address": "GAR, Laxmi Pinnacle, Venkat Nagar, Banjara Hills, Hyderabad, Telangana 500034, India",
+      "admin_note_for_calender": "",
+      "approved_id": 12561,
+      "available_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "available_for_booking": true,
+      "average": 0,
+      "booking_confirmation_message": "<p>Thank you for your reservation.</p><p>We look forward to hosting you at <strong>Formaggio Masterclass \u2014 A 7-Course Chef\u2019s Table Experience</strong> at Table XII, Roast CCX.</p><h2><strong>Your Reservation Details</strong></h2><p><strong>Venue:</strong> Table XII, Roast CCx</p><p><strong>Duration:</strong> Approximately 90 minutes</p><p>Please plan to arrive <strong>10 minutes prior</strong> to your scheduled slot to ensure a smooth start to the experience.</p><h2><strong>Important Information</strong></h2><ul><li>This is a <strong>prepaid, limited-seat experience</strong>.</li><li><strong>All bookings are final and non-refundable.</strong></li><li>Rescheduling requests may be accommodated <strong>up to 24 hours prior</strong>, subject to availability.</li><li>Late arrivals may result in missing part of the experience, as sessions will begin promptly.</li><li>The experience is designed as a <strong>shared table</strong> with other guests.</li></ul><h2><strong>Location</strong></h2><p><strong>Table XII, Roast CCx</strong></p><p>If you require assistance or need to contact us regarding your booking, please reach out to:</p><p><strong>Ph:</strong> 8096116999</p><p>We look forward to welcoming you to the table.</p>",
+      "can_be_booked_before": 0,
+      "can_book_till_end": false,
+      "cancel_pending_payment": 12,
+      "cancellation_policy": "<p>Due to the limited seating and curated nature of the Chef\u2019s Table experience, all bookings are strictly <strong>non-refundable</strong>.</p><ul><li><strong>All bookings are final and non-refundable.</strong></li><li>In case of cancellation or no-show, the booking amount will be <strong>fully forfeited</strong>.</li><li>No refunds will be issued under any circumstances.</li></ul><p><br></p>",
+      "category_data": [
+        {
+          "id": 12,
+          "name": "Events",
+          "slug": "events"
+        }
+      ],
+      "city": "Hyderabad",
+      "city_fk_id": 65,
+      "coming_soon": false,
+      "company_name": "ROAST CCx",
+      "contributor": {
+        "email": "sudeep@roastcoffee.in",
+        "first_name": "Table XII",
+        "id": 21254
+      },
+      "contributor_id": 21254,
+      "cover_img": "images/35BA5E1E995B4B1DA68F3ADC57103DEB_converted_webp.webp",
+      "credit": "",
+      "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+      "display_rank": 5,
+      "display_score": 0.1218,
+      "display_timing": "",
+      "early_access": false,
+      "email": "sudeep@roastcoffee.in",
+      "enable_calendar_invite": false,
+      "enable_list_view": true,
+      "enable_qr_code": false,
+      "end": "2026-05-16 16:00:00",
+      "end_timestamp": 1778927400,
+      "genre_tag": [
+        {
+          "id": 8,
+          "name": "Live GIG",
+          "path": "genretags/live_gig.png"
+        },
+        {
+          "id": 20,
+          "name": "Pop-up Event",
+          "path": "genretags/pop_up_event.png"
+        },
+        {
+          "id": 4,
+          "name": "Food & drink",
+          "path": "genretags/food_and_drink.png"
+        }
+      ],
+      "google_map_link": "https://maps.google.com/?cid=18318737292963314659",
+      "google_tag": "",
+      "has_end_timestamp": true,
+      "id": "12154",
+      "insider_tip": "This experience sells out pretty quick!",
+      "instant_booking": true,
+      "instructions_from_experience_provider": "",
+      "is_bookable": false,
+      "is_filling_fast": false,
+      "is_itinerary": false,
+      "is_live": true,
+      "is_renamed": false,
+      "is_same_working_hours": false,
+      "lat": "17.42353580000000000000",
+      "lat_lng": [
+        17.4235358,
+        78.4322506
+      ],
+      "lng": "78.43225060000000000000",
+      "medias": [
+        {
+          "id": 584139,
+          "name": null,
+          "order": 0,
+          "path": "images/35BA5E1E995B4B1DA68F3ADC57103DEB_converted_webp.webp",
+          "type": "Cover Photo"
+        }
+      ],
+      "modified": "2026-04-28 21:23:51",
+      "modified_timestamp": 1777391632,
+      "multi_session": true,
+      "must_see": false,
+      "name": "Formaggio Masterclass",
+      "note_from_experience_provider": "",
+      "notify_me": false,
+      "offer_banner": "",
+      "order": 11593,
+      "partner_details": "[{\"name\": null, \"email\": null, \"phone\": null}]",
+      "permanently_closed": false,
+      "price_added": true,
+      "price_starts_at": 6300,
+      "private_booking_available": false,
+      "pro_tip": "",
+      "quality": 0,
+      "questions_to_ask": "{\"custom_questions\": [], \"default_questions\": []}",
+      "scarcity": 0.06,
+      "short_description_plain_text": "A 7-Course Chef\u2019s Table ExperienceAn intimate experience built around the craft of cheese.At the table, cheese is made live - slowly, deliberately \u2014 while stories of tradition, technique &amp; origin unfold. What begins as a masterclass moves naturally into a curated tasting, where each course reflects the craft in its many forms.Guiding the experience are two craftsmen working in tandem \u2014 one shaping the cheese, the other shaping the menu around it.FeaturingAditya Raghavan - Artisan CheesemakerTrained in the French Alps and the valleys of Lombardy, Aditya brings a deep respect for tradition and technique to his work. After years in physics, he transitioned into cheesemaking, learning alongside generational cheesemakers and consulting for dairy operations across India. His work has been recognised internationally, including being cited in the Oxford Companion to Cheese and invited as a delegate to Slow Food International in Bra, Italy.Chef Sreekar Kapuganti \u2014 ChefRaised in Hyderabad and shaped by international kitchens, Chef Sreekar brings a thoughtful, personal approach to cooking \u2014 translating freshly made cheeses into refined dishes designed for the table. His menu reflects both memory and craft, balancing familiarity with precision.The Experience",
+      "slug": "formaggio-masterclass",
+      "specific_sections": "{\"custom\": [], \"default_section\": [{\"text\": \"\", \"label\": \"What's included\"}, {\"text\": \"\", \"label\": \"What's not included\"}]}",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 0,
+      "start": "2026-05-15 19:00:00",
+      "start_timestamp": 1778851800,
+      "status": "live",
+      "type": "public",
+      "upcoming_session": "2026-05-15 19:00:00",
+      "upcoming_session_timestamp": 1778851800,
+      "urgency": 0.3,
+      "venue": "Roast CCX - Coffee & Culinary Xperience",
+      "who_is_it_for_tag": [
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/exclusive.png",
+          "id": 11,
+          "name": "Exclusive",
+          "path": "who_is_it_tags/exclusive.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/for_all_ages.png",
+          "id": 8,
+          "name": "For All Ages",
+          "path": "who_is_it_tags/for_all_ages.png"
+        }
+      ],
+      "photo": "images/35BA5E1E995B4B1DA68F3ADC57103DEB_converted_webp.webp",
+      "categories_name": [
+        "Events"
+      ],
+      "photo_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/35BA5E1E995B4B1DA68F3ADC57103DEB_converted_webp.webp",
+      "start_date": "May 15",
+      "upcoming_session_date": "May 15",
+      "end_date": "May 16"
+    },
+    {
+      "account_id": 1260,
+      "account_slug": "thesocialden",
+      "address": "104, Park View Enclave, Jubilee Hills, Hyderabad, Telangana 500034, India",
+      "admin_note_for_calender": "",
+      "approved_id": 12628,
+      "available_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "available_for_booking": true,
+      "average": 0,
+      "booking_confirmation_message": "<p><strong>You're in. See you at sunrise. </strong></p><p>Thank you for booking your spot at A Quiet Morning . We're glad you're coming.</p><p>Here's everything you need to know before the day:</p><p><strong>Date &amp; Time</strong>&nbsp;Sunday, 10th May \u00b7 8:00 AM Please arrive by 7:40 AM. The session begins on time and we want you to settle in before we start.</p><p><strong>Venue</strong>&nbsp;Urban Nemo Cafe &amp; Garden Jubilee Hills, Hyderabad&nbsp;<em>(Full address and parking details to follow closer to the date)</em></p><p><strong>What to wear</strong>&nbsp;Comfortable, loose clothing. Something you can move in and sit in. No special gear needed.</p><p><strong>What to bring</strong>&nbsp;Just yourself and a mat. Everything else is taken care of.</p><p><strong>Breakfast is included</strong>&nbsp;Coffee or fresh juice, fruit bowl, and open toast \u2014 served after the session.</p><p><strong>A gentle reminder</strong>&nbsp;This is an intimate experience. Please be mindful of the space and the people sharing it with you. Phones on silent, cameras away during the session.</p><p>If you have any questions before the day, find us on Instagram, @thesocialden.hyd</p><p>We'll see you in the quiet. \ud83c\udf3f</p><p><em>Richa &amp; Ekta, The Social Den</em></p>",
+      "can_be_booked_before": 0,
+      "can_book_till_end": false,
+      "cancel_pending_payment": 12,
+      "cancellation_policy": "<p><strong>Refund &amp; Cancellation Policy</strong></p><p>This is a small, curated event with limited seats. Once a seat is booked, it is held exclusively for you.</p><p>All ticket sales are final. We do not offer refunds or exchanges under any circumstances.</p><p>If you are unable to attend, you are welcome to transfer your ticket to someone else, just let us know at least 24 hours before the event.</p><p><strong>If the event is cancelled by The Social Den</strong>&nbsp;for any reason, a full refund will be issued to all ticket holders.</p>",
+      "category_data": [
+        {
+          "id": 12,
+          "name": "Events",
+          "slug": "events"
+        }
+      ],
+      "city": "Hyderabad",
+      "city_fk_id": 65,
+      "coming_soon": false,
+      "company_description": "Social Den is a Hyderabad-based experience studio curating intimate gigs, wellness mornings, and pop-up festivals that bring people together through music, movement, and meaningful conversations",
+      "company_name": "The Social Den",
+      "company_tag_line": "Events designed for Hyderabad\u2019s curious & creative",
+      "contributor": {
+        "email": "admin@thesocialden.in",
+        "first_name": "The Social Den",
+        "id": 20155
+      },
+      "contributor_id": 20155,
+      "cover_img": "images/0FC4C2F02FD24276A05AEE5AF56D0E62_converted_webp.webp",
+      "credit": "",
+      "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+      "display_rank": 5,
+      "display_score": 0.17,
+      "display_timing": "",
+      "early_access": false,
+      "email": "admin@thesocialden.in",
+      "enable_calendar_invite": false,
+      "enable_list_view": true,
+      "enable_qr_code": false,
+      "end": "2026-05-10 09:30:00",
+      "end_timestamp": 1778385600,
+      "genre_tag": [
+        {
+          "id": 16,
+          "name": "Wellness",
+          "path": "genretags/wellness.png"
+        },
+        {
+          "id": 20,
+          "name": "Pop-up Event",
+          "path": "genretags/pop_up_event.png"
+        },
+        {
+          "id": 4,
+          "name": "Food & drink",
+          "path": "genretags/food_and_drink.png"
+        }
+      ],
+      "google_map_link": "https://maps.google.com/?cid=18208358017244254991",
+      "google_tag": "",
+      "has_end_timestamp": true,
+      "id": "12221",
+      "insider_tip": "This experience sells out pretty quick!",
+      "instant_booking": true,
+      "instructions_from_experience_provider": "",
+      "is_bookable": false,
+      "is_filling_fast": false,
+      "is_itinerary": false,
+      "is_live": true,
+      "is_renamed": false,
+      "is_same_working_hours": false,
+      "lat": "17.42685200000000000000",
+      "lat_lng": [
+        17.426852,
+        78.41730199999999
+      ],
+      "lng": "78.41730199999999000000",
+      "medias": [
+        {
+          "id": 590402,
+          "name": null,
+          "order": 0,
+          "path": "images/0FC4C2F02FD24276A05AEE5AF56D0E62_converted_webp.webp",
+          "type": "Cover Photo"
+        }
+      ],
+      "modified": "2026-04-28 21:24:04",
+      "modified_timestamp": 1777391644,
+      "multi_session": false,
+      "must_see": false,
+      "name": "A Quiet Morning",
+      "note_from_experience_provider": "",
+      "notify_me": false,
+      "offer_banner": "",
+      "order": 11659,
+      "partner_details": "[{\"name\": null, \"email\": null, \"phone\": null}]",
+      "permanently_closed": false,
+      "price_added": true,
+      "price_starts_at": 1499,
+      "private_booking_available": false,
+      "pro_tip": "",
+      "quality": 0,
+      "questions_to_ask": "{\"custom_questions\": [{\"optional\": true, \"question\": \"Any dietary restrictions\", \"required\": true, \"input_type\": \"TEXT\"}], \"default_questions\": []}",
+      "scarcity": 0,
+      "short_description_plain_text": "A Quiet Morning is a 90-minute sensory experience designed for those who need a genuine reset. Set in the lush, plant-filled surroundings of Urban Nemo Cafe &amp; Garden in Jubilee Hills, this is a morning that moves through you slowly, intentionally, and without agenda.What the morning holdsYou'll be guided through four experiences, each building on the last.It begins with Shinrin Yoku, a forest bathing meditation \u2014 a Japanese practice of sensory immersion that settles the mind. A gentle functional mobility flow follows, accessible to all bodies and all ages, to awaken the body. Djembe beats take slowly. A single heartbeat. Slow, low, and deliberate, until the whole room is breathing with it. The morning closes with a sharing circle \u2014 one word each, offered to the room.Breakfast at Urban Nemo follows \u2014 coffee or fresh juice, a fruit bowl, and open toast. Included with your ticket.This is not a yoga class. It is not a workshop. There is nothing to learn and nothing to perform. Limited seats. One morning. Nothing to bring but yourself and a mat.",
+      "slug": "aquietmorning",
+      "specific_sections": "{\"custom\": [], \"default_section\": [{\"text\": \"Meditation Session\\nFunctional mobility flow\\nLive djembe performance\\nSharing circle\\nBreakfast \u2014 coffee or fresh juice, fruit bowl & open toast\", \"label\": \"What's included\"}, {\"text\": \"A mat or any equipment\\nFood items other than the listed breakfast option\", \"label\": \"What's not included\"}]}",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 0,
+      "start": "2026-05-10 08:00:00",
+      "start_timestamp": 1778380200,
+      "status": "live",
+      "type": "public",
+      "upcoming_session": "2026-05-10 08:00:00",
+      "upcoming_session_timestamp": 1778380200,
+      "urgency": 0.5,
+      "venue": "Urban Nemo Cafe & Garden",
+      "who_is_it_for_tag": [
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/beginner_friendly.png",
+          "id": 3,
+          "name": "Beginner-Friendly",
+          "path": "who_is_it_tags/beginner_friendly.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/solo_friendly.png",
+          "id": 7,
+          "name": "Solo-Friendly",
+          "path": "who_is_it_tags/solo_friendly.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/for_all_ages.png",
+          "id": 8,
+          "name": "For All Ages",
+          "path": "who_is_it_tags/for_all_ages.png"
+        }
+      ],
+      "photo": "images/0FC4C2F02FD24276A05AEE5AF56D0E62_converted_webp.webp",
+      "categories_name": [
+        "Events"
+      ],
+      "photo_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0FC4C2F02FD24276A05AEE5AF56D0E62_converted_webp.webp",
+      "start_date": "Sunday, May 10",
+      "upcoming_session_date": "Sunday, May 10",
+      "end_date": "May 10"
+    },
+    {
+      "account_id": 597,
+      "account_slug": "artisanbayin",
+      "address": "Kokapet, Hyderabad, Telangana 500075, India",
+      "approved_id": 12541,
+      "available_days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "available_for_booking": true,
+      "average": 0,
+      "booking_confirmation_message": "<p>Hi! </p><p>Your booking is confirmed.</p><p>See you soon.</p>",
+      "can_be_booked_before": 0,
+      "can_book_till_end": true,
+      "cancel_pending_payment": 12,
+      "cancellation_policy": "<p>No refunds or cancellations once a ticket is booked</p>",
+      "category_data": [
+        {
+          "id": 12,
+          "name": "Events",
+          "slug": "events"
+        }
+      ],
+      "city": "Hyderabad",
+      "city_fk_id": 65,
+      "coming_soon": false,
+      "company_description": "Creative events, Workshops & pop - ups Private gatherings & corporate functions",
+      "company_name": "Artisan Bay",
+      "company_tag_line": "Sip. Socialise. Create.",
+      "contributor": {
+        "email": "sakethjupalli@gmail.com",
+        "first_name": "Saketh J",
+        "id": 15536
+      },
+      "contributor_id": 15536,
+      "cover_img": "images/6C66C83D203A41F68F6B78D1A4040399_converted_webp.webp",
+      "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+      "display_rank": 5,
+      "display_score": 0.1733,
+      "early_access": false,
+      "email": "sakethjupalli@gmail.com",
+      "enable_calendar_invite": false,
+      "enable_list_view": true,
+      "enable_qr_code": false,
+      "end": "2026-05-03 22:00:00",
+      "end_timestamp": 1777825800,
+      "genre_tag": [
+        {
+          "id": 10,
+          "name": "Music",
+          "path": "genretags/music.png"
+        },
+        {
+          "id": 18,
+          "name": "Festival",
+          "path": "genretags/festival.png"
+        },
+        {
+          "id": 20,
+          "name": "Pop-up Event",
+          "path": "genretags/pop_up_event.png"
+        }
+      ],
+      "google_map_link": "https://maps.google.com/?cid=2760350259397912160",
+      "has_end_timestamp": true,
+      "id": "12134",
+      "insider_tip": "This experience sells out pretty quick!",
+      "instant_booking": true,
+      "instructions_from_experience_provider": "",
+      "is_bookable": false,
+      "is_filling_fast": false,
+      "is_itinerary": false,
+      "is_live": true,
+      "is_renamed": false,
+      "is_same_working_hours": false,
+      "lat": "17.40983330000000000000",
+      "lat_lng": [
+        17.4098333,
+        78.2866978
+      ],
+      "lng": "78.28669780000000000000",
+      "medias": [
+        {
+          "id": 596013,
+          "name": null,
+          "order": 0,
+          "path": "images/6C66C83D203A41F68F6B78D1A4040399_converted_webp.webp",
+          "type": "Cover Photo"
+        },
+        {
+          "id": 596014,
+          "name": null,
+          "order": 1,
+          "path": "images/CCF8C86A9CDB4527B65352F113EFEB68_converted_webp.webp",
+          "type": "Photo"
+        },
+        {
+          "id": 596015,
+          "name": null,
+          "order": 2,
+          "path": "images/E8414AD90B4841D784A6A440840A6FFF_converted_webp.webp",
+          "type": "Photo"
+        }
+      ],
+      "modified": "2026-04-28 21:23:48",
+      "modified_timestamp": 1777391628,
+      "multi_session": false,
+      "must_see": false,
+      "name": "Art Gully",
+      "notify_me": false,
+      "order": 11573,
+      "partner_details": "[{\"name\": null, \"email\": null, \"phone\": null}]",
+      "permanently_closed": false,
+      "price_added": true,
+      "price_starts_at": 409,
+      "private_booking_available": false,
+      "quality": 0,
+      "questions_to_ask": "{\"custom_questions\": [], \"default_questions\": []}",
+      "scarcity": 0.01,
+      "short_description_plain_text": "Art Gully is a living, breathing art playground where every corner sparks something cool, fun and artsy.From homegrown labels to hands-on art, it\u2019s basically a sun-soaked picnic day full of culture, craft, and connection.\ud83c\udfa8\ud83d\udecd\ufe0f\ud83d\udc68\u200d\ud83c\udfa8\u26f1\ufe0fWhat you\u2019ll experience \u2728\u2022\u2060  \u2060A curated Art Bazaar with 50+ homegrown labels &amp; artisan stalls \ud83d\udecd\ufe0f\ud83c\udfa8\u2022\u2060  \u2060An Art Playground featuring 30+ DIY workshops &amp; hands-on activities \ud83d\udc68\u200d\ud83c\udfa8\ud83d\udd8c\ufe0f\u2022\u2060  \u2060Interactive installations + Pinterest-worthy corners at every turn \ud83d\udcf8\u2728\u2022\u2060  \u2060A laid-back picnic setup with perfect sundowner energy \u26f1\ufe0f\ud83c\udf1e\u2022\u2060  \u2060Live music &amp; performances flowing through the day \ud83c\udfb6\ud83d\udd7a\u2022\u2060  \u2060Thoughtfully curated food &amp; drink experiences \ud83e\uddc3\ud83c\udf54\u2022\u2060  \u2060A space for fashion, self-expression &amp; meeting your kind of people \ud83e\udde5\ud83d\udcabArtist lineup ft: Surprise Act, Tranquil, Poorvak, Mr Beatlust, Jaedyn, Yogi and our highlight: Jamming Session by \u201cThe Jam Room\u201d\ud83c\udfb6",
+      "slug": "art-gully",
+      "specific_sections": "{\"custom\": [], \"default_section\": [{\"text\": \"\", \"label\": \"What's included\"}, {\"text\": \"\", \"label\": \"What's not included\"}]}",
+      "star_1": 0,
+      "star_2": 0,
+      "star_3": 0,
+      "star_4": 0,
+      "star_5": 0,
+      "start": "2026-05-03 11:00:00",
+      "start_timestamp": 1777786200,
+      "status": "live",
+      "type": "public",
+      "upcoming_session": "2026-05-03 11:00:00",
+      "upcoming_session_timestamp": 1777786200,
+      "urgency": 0.5,
+      "venue": "Tavaro Resorts and Events",
+      "who_is_it_for_tag": [
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/family_friendly.png",
+          "id": 5,
+          "name": "Family-Friendly",
+          "path": "who_is_it_tags/family_friendly.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/great_for_groups.png",
+          "id": 9,
+          "name": "Great For Groups",
+          "path": "who_is_it_tags/great_for_groups.png"
+        },
+        {
+          "dark_mode_path": "who_is_it_tags/dark_theme/for_all_ages.png",
+          "id": 8,
+          "name": "For All Ages",
+          "path": "who_is_it_tags/for_all_ages.png"
+        }
+      ],
+      "photo": "images/6C66C83D203A41F68F6B78D1A4040399_converted_webp.webp",
+      "categories_name": [
+        "Events"
+      ],
+      "photo_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6C66C83D203A41F68F6B78D1A4040399_converted_webp.webp",
+      "start_date": "Sunday, May 3",
+      "upcoming_session_date": "Sunday, May 3",
+      "end_date": "May 3"
+    }
+  ]
+}
