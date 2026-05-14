@@ -1,0 +1,55 @@
+{
+  "totalCards": 17,
+  "cards": [
+    {
+      "tagName": "A",
+      "href": "/event/all-you-can-eat-drink-monday-at-underdoggs-unlimited-food-beer-999-may-04-2026",
+      "innerText": "Mon May 04\nAll You Can Eat & Drink Monday At Underdoggs | Unlimited Food & Beer ₹999\nUnderdoggs Hyderabad, Hyderabad\nFrom ₹949",
+      "name": "All You Can Eat & Drink Monday At Underdoggs | Unlimited Food & Beer ₹999",
+      "date": "Mon May 04",
+      "location": "Underdoggs Hyderabad, Hyderabad",
+      "price": "From ₹949",
+      "details": "Mon May 04\nAll You Can Eat & Drink Monday At Underdoggs | Unlimited Food & Beer ₹999\nUnderdoggs Hyderabad, Hyderabad\nFrom ₹949"
+    },
+    {
+      "tagName": "A",
+      "href": "/event/turn-up-tuesday-ft-dj-john-underdoggs-may-05-2026",
+      "innerText": "Tue May 05\nTurn Up Tuesday Ft. Dj John | Underdoggs\nUnderdoggs Hyderabad, Hyderabad\nFrom ₹47",
+      "name": "Turn Up Tuesday Ft. Dj John | Underdoggs",
+      "date": "Tue May 05",
+      "location": "Underdoggs Hyderabad, Hyderabad",
+      "price": "From ₹47",
+      "details": "Tue May 05\nTurn Up Tuesday Ft. Dj John | Underdoggs\nUnderdoggs Hyderabad, Hyderabad\nFrom ₹47"
+    },
+    {
+      "tagName": "A",
+      "href": "/event/turn-up-tuesday-ft-dj-john-underdoggs-underdoggs-hyderabad-hyderabad-may-05-2026",
+      "innerText": "Tue May 05\nTurn Up Tuesday Ft. Dj John | Underdoggs\nUnderdoggs Hyderabad, Hyderabad\nFrom ₹47",
+      "name": "Turn Up Tuesday Ft. Dj John | Underdoggs",
+      "date": "Tue May 05",
+      "location": "Underdoggs Hyderabad, Hyderabad",
+      "price": "From ₹47",
+      "details": "Tue May 05\nTurn Up Tuesday Ft. Dj John | Underdoggs\nUnderdoggs Hyderabad, Hyderabad\nFrom ₹47"
+    },
+    {
+      "tagName": "A",
+      "href": "/event/telugu-standup-comedy-at-ft-venkat-blaze-red-rhino-hitech-city-may-05-2026",
+      "innerText": "Tue May 05\nTelugu Standup Comedy At Ft. Venkat Blaze | Red Rhino Hitech City\nRed Rhino - Craft Brewery And Inspired Kitchen, Hyderabad\nFrom ₹475",
+      "name": "Telugu Standup Comedy At Ft. Venkat Blaze | Red Rhino Hitech City",
+      "date": "Tue May 05",
+      "location": "Red Rhino - Craft Brewery And Inspired Kitchen, Hyderabad",
+      "price": "From ₹475",
+      "details": "Tue May 05\nTelugu Standup Comedy At Ft. Venkat Blaze | Red Rhino Hitech City\nRed Rhino - Craft Brewery And Inspired Kitchen, Hyderabad\nFrom ₹475"
+    },
+    {
+      "tagName": "A",
+      "href": "/event/le-klown-crimson-rave-night-at-kingdome-may-07-2026",
+      "innerText": "Thu May 07\nLe Klown Crimson Rave Night At Kingdome\nKingdome Klub & Kitchen - Best Night Club In Hyderabad, Hyderabad\nFrom ₹499",
+      "name": "Le Klown Crimson Rave Night At Kingdome",
+      "date": "Thu May 07",
+      "location": "Kingdome Klub & Kitchen - Best Night Club In Hyderabad, Hyderabad",
+      "price": "From ₹499",
+      "details": "Thu May 07\nLe Klown Crimson Rave Night At Kingdome\nKingdome Klub & Kitchen - Best Night Club In Hyderabad, Hyderabad\nFrom ₹499"
+    }
+  ]
+}
